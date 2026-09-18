@@ -1,0 +1,937 @@
+item_id,titulo,tematica
+doc_0001,Practica resuelta: Punteros basicos,Introduccion a la Programacion
+doc_0002,Diapositivas: Variables y tipos de datos,Introduccion a la Programacion
+doc_0003,Video clase: Funciones y modularidad,Introduccion a la Programacion
+doc_0004,Practica resuelta: Bucles for y while,Introduccion a la Programacion
+doc_0005,Practica resuelta: Punteros basicos (parte 4),Introduccion a la Programacion
+doc_0006,Apunte: Entrada y salida estandar,Introduccion a la Programacion
+doc_0007,Practica resuelta: Variables y tipos de datos,Introduccion a la Programacion
+doc_0008,Video clase: Funciones y modularidad (parte 4),Introduccion a la Programacion
+doc_0009,Apunte: Cadenas de texto,Introduccion a la Programacion
+doc_0010,Video clase: Pseudocodigo y diagramas de flujo,Introduccion a la Programacion
+doc_0011,Taller: Buenas practicas de codigo,Introduccion a la Programacion
+doc_0012,Examen resuelto: Funciones y modularidad,Introduccion a la Programacion
+doc_0013,Diapositivas: Cadenas de texto,Introduccion a la Programacion
+doc_0014,Guia de ejercicios: Variables y tipos de datos,Introduccion a la Programacion
+doc_0015,Taller: Buenas practicas de codigo (parte 3),Introduccion a la Programacion
+doc_0016,Guia de ejercicios: Arreglos y matrices,Introduccion a la Programacion
+doc_0017,Resumen: Funciones y modularidad,Introduccion a la Programacion
+doc_0018,Practica resuelta: Estructuras condicionales,Introduccion a la Programacion
+doc_0019,Practica resuelta: Entrada y salida estandar,Introduccion a la Programacion
+doc_0020,Resumen: Recursividad basica,Introduccion a la Programacion
+doc_0021,Diapositivas: Cadenas de texto (parte 2),Introduccion a la Programacion
+doc_0022,Examen resuelto: Buenas practicas de codigo,Introduccion a la Programacion
+doc_0023,Practica resuelta: Pseudocodigo y diagramas de flujo,Introduccion a la Programacion
+doc_0024,Practica resuelta: Entrada y salida estandar (parte 4),Introduccion a la Programacion
+doc_0025,Resumen: Arreglos y matrices,Introduccion a la Programacion
+doc_0026,Video clase: Cadenas de texto,Introduccion a la Programacion
+doc_0027,Practica resuelta: Buenas practicas de codigo,Introduccion a la Programacion
+doc_0028,Video clase: Variables y tipos de datos,Introduccion a la Programacion
+doc_0029,Practica resuelta: Arreglos y matrices,Introduccion a la Programacion
+doc_0030,Practica resuelta: Funciones y modularidad,Introduccion a la Programacion
+doc_0031,Diapositivas: Entrada y salida estandar,Introduccion a la Programacion
+doc_0032,Resumen: Depuracion de errores comunes,Introduccion a la Programacion
+doc_0033,Resumen: Bucles for y while,Introduccion a la Programacion
+doc_0034,Video clase: Recursividad basica,Introduccion a la Programacion
+doc_0035,Diapositivas: Punteros basicos,Introduccion a la Programacion
+doc_0036,Practica resuelta: Buenas practicas de codigo (parte 4),Introduccion a la Programacion
+doc_0037,Guia de ejercicios: Punteros basicos,Introduccion a la Programacion
+doc_0038,Video clase: Pseudocodigo y diagramas de flujo (parte 2),Introduccion a la Programacion
+doc_0039,Taller: Depuracion de errores comunes,Introduccion a la Programacion
+doc_0040,Video clase: Arreglos y matrices,Introduccion a la Programacion
+doc_0041,Resumen: Punteros basicos,Introduccion a la Programacion
+doc_0042,Video clase: Variables y tipos de datos (parte 2),Introduccion a la Programacion
+doc_0043,Taller: Recursividad basica,Introduccion a la Programacion
+doc_0044,Practica resuelta: Arreglos y matrices (parte 2),Introduccion a la Programacion
+doc_0045,Resumen: Cadenas de texto,Introduccion a la Programacion
+doc_0046,Examen resuelto: Funciones y modularidad (parte 3),Introduccion a la Programacion
+doc_0047,Examen resuelto: Punteros basicos,Introduccion a la Programacion
+doc_0048,Diapositivas: Bucles for y while,Introduccion a la Programacion
+doc_0049,Video clase: Bucles for y while,Introduccion a la Programacion
+doc_0050,Diapositivas: Buenas practicas de codigo,Introduccion a la Programacion
+doc_0051,Taller: Buenas practicas de codigo (parte 4),Introduccion a la Programacion
+doc_0052,Resumen: Entrada y salida estandar,Introduccion a la Programacion
+doc_0053,Guia de ejercicios: Funciones y modularidad,Introduccion a la Programacion
+doc_0054,Examen resuelto: Pseudocodigo y diagramas de flujo,Introduccion a la Programacion
+doc_0055,Apunte: Estructuras condicionales,Introduccion a la Programacion
+doc_0056,Guia de ejercicios: Estructuras condicionales,Introduccion a la Programacion
+doc_0057,Guia de ejercicios: Punteros basicos (parte 4),Introduccion a la Programacion
+doc_0058,Practica resuelta: Entrada y salida estandar (parte 3),Introduccion a la Programacion
+doc_0059,Examen resuelto: Entrada y salida estandar,Introduccion a la Programacion
+doc_0060,Diapositivas: Pseudocodigo y diagramas de flujo,Introduccion a la Programacion
+doc_0061,Apunte: Pseudocodigo y diagramas de flujo,Introduccion a la Programacion
+doc_0062,Diapositivas: Pseudocodigo y diagramas de flujo (parte 4),Introduccion a la Programacion
+doc_0063,Practica resuelta: Recursividad basica,Introduccion a la Programacion
+doc_0064,Taller: Arreglos y matrices,Introduccion a la Programacion
+doc_0065,Examen resuelto: Bucles for y while,Introduccion a la Programacion
+doc_0066,Diapositivas: Variables y tipos de datos (parte 4),Introduccion a la Programacion
+doc_0067,Practica resuelta: Bucles for y while (parte 4),Introduccion a la Programacion
+doc_0068,Video clase: Arreglos y matrices (parte 2),Introduccion a la Programacion
+doc_0069,Guia de ejercicios: Recursividad basica,Introduccion a la Programacion
+doc_0070,Apunte: Pseudocodigo y diagramas de flujo (parte 4),Introduccion a la Programacion
+doc_0071,Examen resuelto: Recursividad basica,Introduccion a la Programacion
+doc_0072,Practica resuelta: Variables y tipos de datos (parte 3),Introduccion a la Programacion
+doc_0073,Practica resuelta: Funciones y modularidad (parte 2),Introduccion a la Programacion
+doc_0074,Examen resuelto: Buenas practicas de codigo (parte 2),Introduccion a la Programacion
+doc_0075,Guia de ejercicios: Pseudocodigo y diagramas de flujo,Introduccion a la Programacion
+doc_0076,Examen resuelto: Bucles for y while (parte 4),Introduccion a la Programacion
+doc_0077,Diapositivas: Bucles for y while (parte 4),Introduccion a la Programacion
+doc_0078,Taller: Cadenas de texto,Introduccion a la Programacion
+doc_0079,Taller: Arreglos y matrices (parte 4),Introduccion a la Programacion
+doc_0080,Resumen: Punteros basicos (parte 3),Introduccion a la Programacion
+doc_0081,Examen resuelto: Pseudocodigo y diagramas de flujo (parte 2),Introduccion a la Programacion
+doc_0082,Video clase: Funciones y modularidad (parte 2),Introduccion a la Programacion
+doc_0083,Apunte: Recursividad basica,Introduccion a la Programacion
+doc_0084,Video clase: Cadenas de texto (parte 4),Introduccion a la Programacion
+doc_0085,Apunte: Funciones y modularidad,Introduccion a la Programacion
+doc_0086,Apunte: Estructuras condicionales (parte 2),Introduccion a la Programacion
+doc_0087,Apunte: Estructuras condicionales (parte 3),Introduccion a la Programacion
+doc_0088,Video clase: Estructuras condicionales,Introduccion a la Programacion
+doc_0089,Examen resuelto: Arreglos y matrices,Introduccion a la Programacion
+doc_0090,Guia de ejercicios: Funciones y modularidad (parte 4),Introduccion a la Programacion
+doc_0091,Examen resuelto: Cadenas de texto,Introduccion a la Programacion
+doc_0092,Taller: Punteros basicos,Introduccion a la Programacion
+doc_0093,Taller: Recursividad basica (parte 3),Introduccion a la Programacion
+doc_0094,Apunte: Depuracion de errores comunes,Introduccion a la Programacion
+doc_0095,Practica resuelta: Punteros basicos (parte 2),Introduccion a la Programacion
+doc_0096,Resumen: Entrada y salida estandar (parte 2),Introduccion a la Programacion
+doc_0097,Guia de ejercicios: Entrada y salida estandar,Introduccion a la Programacion
+doc_0098,Examen resuelto: Arreglos y matrices (parte 2),Introduccion a la Programacion
+doc_0099,Examen resuelto: Estructuras condicionales,Introduccion a la Programacion
+doc_0100,Practica resuelta: Pseudocodigo y diagramas de flujo (parte 2),Introduccion a la Programacion
+doc_0101,Apunte: Punteros basicos,Introduccion a la Programacion
+doc_0102,Video clase: Estructuras condicionales (parte 2),Introduccion a la Programacion
+doc_0103,Examen resuelto: Derivadas implicitas,Calculo I
+doc_0104,Video clase: Razon de cambio,Calculo I
+doc_0105,Apunte: Derivadas implicitas,Calculo I
+doc_0106,Taller: Regla de la cadena,Calculo I
+doc_0107,Taller: Limites y continuidad,Calculo I
+doc_0108,Examen resuelto: Optimizacion,Calculo I
+doc_0109,Taller: Optimizacion,Calculo I
+doc_0110,Examen resuelto: Repaso para el primer parcial,Calculo I
+doc_0111,Video clase: Regla de la cadena,Calculo I
+doc_0112,Video clase: Optimizacion,Calculo I
+doc_0113,Apunte: Limites y continuidad,Calculo I
+doc_0114,Resumen: Repaso para el primer parcial,Calculo I
+doc_0115,Apunte: Limites y continuidad (parte 4),Calculo I
+doc_0116,Guia de ejercicios: Razon de cambio,Calculo I
+doc_0117,Practica resuelta: Limites y continuidad,Calculo I
+doc_0118,Practica resuelta: Regla de la cadena,Calculo I
+doc_0119,Practica resuelta: Limites al infinito,Calculo I
+doc_0120,Video clase: Funciones trigonometricas y sus derivadas,Calculo I
+doc_0121,Practica resuelta: Derivadas implicitas,Calculo I
+doc_0122,Video clase: Limites al infinito,Calculo I
+doc_0123,Apunte: Limites al infinito,Calculo I
+doc_0124,Practica resuelta: Limites al infinito (parte 3),Calculo I
+doc_0125,Resumen: Funciones trigonometricas y sus derivadas,Calculo I
+doc_0126,Video clase: Optimizacion (parte 4),Calculo I
+doc_0127,Resumen: Repaso para el primer parcial (parte 2),Calculo I
+doc_0128,Taller: Optimizacion (parte 2),Calculo I
+doc_0129,Diapositivas: Funciones trigonometricas y sus derivadas,Calculo I
+doc_0130,Resumen: Razon de cambio,Calculo I
+doc_0131,Apunte: Derivadas de funciones basicas,Calculo I
+doc_0132,Practica resuelta: Razon de cambio,Calculo I
+doc_0133,Video clase: Derivadas de funciones basicas,Calculo I
+doc_0134,Diapositivas: Graficacion de funciones,Calculo I
+doc_0135,Resumen: Regla de la cadena,Calculo I
+doc_0136,Video clase: Derivadas de funciones basicas (parte 3),Calculo I
+doc_0137,Guia de ejercicios: Optimizacion,Calculo I
+doc_0138,Diapositivas: Razon de cambio,Calculo I
+doc_0139,Apunte: Limites al infinito (parte 4),Calculo I
+doc_0140,Diapositivas: Graficacion de funciones (parte 4),Calculo I
+doc_0141,Guia de ejercicios: Derivadas de funciones basicas,Calculo I
+doc_0142,Practica resuelta: Optimizacion,Calculo I
+doc_0143,Guia de ejercicios: Derivadas de funciones basicas (parte 3),Calculo I
+doc_0144,Video clase: Teorema del valor medio,Calculo I
+doc_0145,Diapositivas: Funciones trigonometricas y sus derivadas (parte 4),Calculo I
+doc_0146,Diapositivas: Razon de cambio (parte 2),Calculo I
+doc_0147,Taller: Derivadas de funciones basicas,Calculo I
+doc_0148,Apunte: Optimizacion,Calculo I
+doc_0149,Resumen: Limites y continuidad,Calculo I
+doc_0150,Diapositivas: Regla de la cadena,Calculo I
+doc_0151,Examen resuelto: Regla de la cadena,Calculo I
+doc_0152,Taller: Graficacion de funciones,Calculo I
+doc_0153,Apunte: Graficacion de funciones,Calculo I
+doc_0154,Practica resuelta: Derivadas de funciones basicas,Calculo I
+doc_0155,Guia de ejercicios: Repaso para el primer parcial,Calculo I
+doc_0156,Apunte: Graficacion de funciones (parte 3),Calculo I
+doc_0157,Guia de ejercicios: Limites al infinito,Calculo I
+doc_0158,Guia de ejercicios: Derivadas implicitas,Calculo I
+doc_0159,Diapositivas: Limites y continuidad,Calculo I
+doc_0160,Apunte: Teorema del valor medio,Calculo I
+doc_0161,Video clase: Teorema del valor medio (parte 4),Calculo I
+doc_0162,Practica resuelta: Maximos y minimos,Calculo I
+doc_0163,Taller: Teorema del valor medio,Calculo I
+doc_0164,Guia de ejercicios: Limites al infinito (parte 2),Calculo I
+doc_0165,Guia de ejercicios: Regla de la cadena,Calculo I
+doc_0166,Apunte: Derivadas implicitas (parte 2),Calculo I
+doc_0167,Resumen: Repaso para el primer parcial (parte 3),Calculo I
+doc_0168,Video clase: Funciones trigonometricas y sus derivadas (parte 3),Calculo I
+doc_0169,Practica resuelta: Regla de la cadena (parte 3),Calculo I
+doc_0170,Examen resuelto: Limites y continuidad,Calculo I
+doc_0171,Video clase: Maximos y minimos,Calculo I
+doc_0172,Resumen: Razon de cambio (parte 3),Calculo I
+doc_0173,Video clase: Maximos y minimos (parte 2),Calculo I
+doc_0174,Diapositivas: Teorema del valor medio,Calculo I
+doc_0175,Diapositivas: Derivadas de funciones basicas,Calculo I
+doc_0176,Taller: Teorema del valor medio (parte 4),Calculo I
+doc_0177,Resumen: Graficacion de funciones,Calculo I
+doc_0178,Practica resuelta: Limites y continuidad (parte 3),Calculo I
+doc_0179,Diapositivas: Regla de la cadena (parte 2),Calculo I
+doc_0180,Taller: Derivadas de funciones basicas (parte 3),Calculo I
+doc_0181,Video clase: Limites al infinito (parte 3),Calculo I
+doc_0182,Taller: Limites y continuidad (parte 2),Calculo I
+doc_0183,Video clase: Graficacion de funciones,Calculo I
+doc_0184,Taller: Teorema del valor medio (parte 2),Calculo I
+doc_0185,Resumen: Funciones trigonometricas y sus derivadas (parte 4),Calculo I
+doc_0186,Practica resuelta: Teorema del valor medio,Calculo I
+doc_0187,Diapositivas: Repaso para el primer parcial,Calculo I
+doc_0188,Resumen: Derivadas implicitas,Calculo I
+doc_0189,Diapositivas: Derivadas implicitas,Calculo I
+doc_0190,Guia de ejercicios: Graficacion de funciones,Calculo I
+doc_0191,Taller: Maximos y minimos,Calculo I
+doc_0192,Taller: Funciones trigonometricas y sus derivadas,Calculo I
+doc_0193,Guia de ejercicios: Funciones trigonometricas y sus derivadas,Calculo I
+doc_0194,Diapositivas: Determinantes 2x2 y 3x3,Algebra
+doc_0195,Apunte: Logaritmos y exponenciales,Algebra
+doc_0196,Diapositivas: Inecuaciones,Algebra
+doc_0197,Taller: Sistemas de ecuaciones,Algebra
+doc_0198,Resumen: Determinantes 2x2 y 3x3,Algebra
+doc_0199,Examen resuelto: Sucesiones y series,Algebra
+doc_0200,Video clase: Sucesiones y series,Algebra
+doc_0201,Examen resuelto: Matrices basicas,Algebra
+doc_0202,Practica resuelta: Ecuaciones lineales,Algebra
+doc_0203,Resumen: Inecuaciones,Algebra
+doc_0204,Video clase: Polinomios y factorizacion,Algebra
+doc_0205,Video clase: Inecuaciones,Algebra
+doc_0206,Guia de ejercicios: Sistemas de ecuaciones,Algebra
+doc_0207,Apunte: Numeros complejos,Algebra
+doc_0208,Examen resuelto: Sistemas de ecuaciones,Algebra
+doc_0209,Practica resuelta: Determinantes 2x2 y 3x3,Algebra
+doc_0210,Taller: Sucesiones y series,Algebra
+doc_0211,Video clase: Determinantes 2x2 y 3x3,Algebra
+doc_0212,Examen resuelto: Logaritmos y exponenciales,Algebra
+doc_0213,Video clase: Logaritmos y exponenciales,Algebra
+doc_0214,Apunte: Ecuaciones lineales,Algebra
+doc_0215,Taller: Polinomios y factorizacion,Algebra
+doc_0216,Guia de ejercicios: Sistemas de ecuaciones (parte 4),Algebra
+doc_0217,Examen resuelto: Matrices basicas (parte 2),Algebra
+doc_0218,Video clase: Matrices basicas,Algebra
+doc_0219,Examen resuelto: Polinomios y factorizacion,Algebra
+doc_0220,Examen resuelto: Ecuaciones lineales,Algebra
+doc_0221,Resumen: Matrices basicas,Algebra
+doc_0222,Taller: Sucesiones y series (parte 4),Algebra
+doc_0223,Guia de ejercicios: Sucesiones y series,Algebra
+doc_0224,Examen resuelto: Sucesiones y series (parte 3),Algebra
+doc_0225,Diapositivas: Sistemas de ecuaciones,Algebra
+doc_0226,Examen resuelto: Matrices basicas (parte 4),Algebra
+doc_0227,Diapositivas: Sistemas de ecuaciones (parte 3),Algebra
+doc_0228,Diapositivas: Polinomios y factorizacion,Algebra
+doc_0229,Practica resuelta: Funciones y sus graficas,Algebra
+doc_0230,Guia de ejercicios: Ecuaciones lineales,Algebra
+doc_0231,Taller: Sistemas de ecuaciones (parte 4),Algebra
+doc_0232,Video clase: Ecuaciones lineales,Algebra
+doc_0233,Taller: Polinomios y factorizacion (parte 3),Algebra
+doc_0234,Examen resuelto: Funciones y sus graficas,Algebra
+doc_0235,Apunte: Logaritmos y exponenciales (parte 2),Algebra
+doc_0236,Taller: Logaritmos y exponenciales,Algebra
+doc_0237,Apunte: Determinantes 2x2 y 3x3,Algebra
+doc_0238,Taller: Determinantes 2x2 y 3x3,Algebra
+doc_0239,Apunte: Sucesiones y series,Algebra
+doc_0240,Diapositivas: Funciones y sus graficas,Algebra
+doc_0241,Taller: Logaritmos y exponenciales (parte 4),Algebra
+doc_0242,Video clase: Matrices basicas (parte 3),Algebra
+doc_0243,Apunte: Sucesiones y series (parte 3),Algebra
+doc_0244,Taller: Funciones y sus graficas,Algebra
+doc_0245,Examen resuelto: Ecuaciones lineales (parte 2),Algebra
+doc_0246,Apunte: Determinantes 2x2 y 3x3 (parte 3),Algebra
+doc_0247,Apunte: Determinantes 2x2 y 3x3 (parte 2),Algebra
+doc_0248,Guia de ejercicios: Logaritmos y exponenciales,Algebra
+doc_0249,Guia de ejercicios: Sucesiones y series (parte 2),Algebra
+doc_0250,Taller: Inecuaciones,Algebra
+doc_0251,Video clase: Funciones y sus graficas,Algebra
+doc_0252,Resumen: Sucesiones y series,Algebra
+doc_0253,Taller: Funciones y sus graficas (parte 3),Algebra
+doc_0254,Diapositivas: Logaritmos y exponenciales,Algebra
+doc_0255,Examen resuelto: Polinomios y factorizacion (parte 2),Algebra
+doc_0256,Apunte: Matrices basicas,Algebra
+doc_0257,Video clase: Funciones y sus graficas (parte 4),Algebra
+doc_0258,Apunte: Polinomios y factorizacion,Algebra
+doc_0259,Video clase: Numeros complejos,Algebra
+doc_0260,Apunte: Sistemas de ecuaciones,Algebra
+doc_0261,Guia de ejercicios: Determinantes 2x2 y 3x3,Algebra
+doc_0262,Guia de ejercicios: Sistemas de ecuaciones (parte 3),Algebra
+doc_0263,Video clase: Polinomios y factorizacion (parte 3),Algebra
+doc_0264,Resumen: Movimiento circular,Fisica I
+doc_0265,Practica resuelta: Trabajo y energia,Fisica I
+doc_0266,Diapositivas: Trabajo y energia,Fisica I
+doc_0267,Apunte: Leyes de Newton,Fisica I
+doc_0268,Taller: Movimiento circular,Fisica I
+doc_0269,Video clase: Gravitacion,Fisica I
+doc_0270,Video clase: Leyes de Newton,Fisica I
+doc_0271,Diapositivas: Leyes de Newton,Fisica I
+doc_0272,Apunte: Leyes de Newton (parte 3),Fisica I
+doc_0273,Taller: Vectores en fisica,Fisica I
+doc_0274,Practica resuelta: Estatica de cuerpo rigido,Fisica I
+doc_0275,Resumen: Vectores en fisica,Fisica I
+doc_0276,Taller: Cinematica en una dimension,Fisica I
+doc_0277,Practica resuelta: Practica de laboratorio: caida libre,Fisica I
+doc_0278,Resumen: Gravitacion,Fisica I
+doc_0279,Guia de ejercicios: Practica de laboratorio: caida libre,Fisica I
+doc_0280,Guia de ejercicios: Gravitacion,Fisica I
+doc_0281,Diapositivas: Vectores en fisica,Fisica I
+doc_0282,Examen resuelto: Vectores en fisica,Fisica I
+doc_0283,Taller: Practica de laboratorio: caida libre,Fisica I
+doc_0284,Resumen: Movimiento circular (parte 2),Fisica I
+doc_0285,Diapositivas: Leyes de Newton (parte 3),Fisica I
+doc_0286,Examen resuelto: Momento lineal y colisiones,Fisica I
+doc_0287,Resumen: Gravitacion (parte 2),Fisica I
+doc_0288,Resumen: Practica de laboratorio: caida libre,Fisica I
+doc_0289,Examen resuelto: Trabajo y energia,Fisica I
+doc_0290,Resumen: Momento lineal y colisiones,Fisica I
+doc_0291,Resumen: Movimiento circular (parte 3),Fisica I
+doc_0292,Apunte: Movimiento circular,Fisica I
+doc_0293,Video clase: Vectores en fisica,Fisica I
+doc_0294,Video clase: Leyes de Newton (parte 4),Fisica I
+doc_0295,Examen resuelto: Gravitacion,Fisica I
+doc_0296,Video clase: Vectores en fisica (parte 4),Fisica I
+doc_0297,Examen resuelto: Practica de laboratorio: caida libre,Fisica I
+doc_0298,Apunte: Practica de laboratorio: caida libre,Fisica I
+doc_0299,Diapositivas: Leyes de Newton (parte 2),Fisica I
+doc_0300,Video clase: Gravitacion (parte 3),Fisica I
+doc_0301,Examen resuelto: Estatica de cuerpo rigido,Fisica I
+doc_0302,Resumen: Vectores en fisica (parte 3),Fisica I
+doc_0303,Diapositivas: Practica de laboratorio: caida libre,Fisica I
+doc_0304,Diapositivas: Movimiento circular,Fisica I
+doc_0305,Practica resuelta: Momento lineal y colisiones,Fisica I
+doc_0306,Resumen: Momento lineal y colisiones (parte 2),Fisica I
+doc_0307,Guia de ejercicios: Vectores en fisica,Fisica I
+doc_0308,Video clase: Momento lineal y colisiones,Fisica I
+doc_0309,Diapositivas: Practica de laboratorio: caida libre (parte 4),Fisica I
+doc_0310,Diapositivas: Vectores en fisica (parte 2),Fisica I
+doc_0311,Diapositivas: Momento lineal y colisiones,Fisica I
+doc_0312,Apunte: Movimiento circular (parte 4),Fisica I
+doc_0313,Guia de ejercicios: Vectores en fisica (parte 3),Fisica I
+doc_0314,Apunte: Cinematica en una dimension,Fisica I
+doc_0315,Diapositivas: Vectores en fisica (parte 4),Fisica I
+doc_0316,Examen resuelto: Trabajo y energia (parte 2),Fisica I
+doc_0317,Diapositivas: Cinematica en una dimension,Fisica I
+doc_0318,Examen resuelto: Practica de laboratorio: caida libre (parte 3),Fisica I
+doc_0319,Guia de ejercicios: Estatica de cuerpo rigido,Fisica I
+doc_0320,Diapositivas: Cinematica en una dimension (parte 3),Fisica I
+doc_0321,Practica resuelta: Leyes de Newton,Fisica I
+doc_0322,Examen resuelto: Gravitacion (parte 2),Fisica I
+doc_0323,Guia de ejercicios: Cinematica en una dimension,Fisica I
+doc_0324,Diapositivas: Trabajo y energia (parte 2),Fisica I
+doc_0325,Practica resuelta: Momento lineal y colisiones (parte 4),Fisica I
+doc_0326,Video clase: Gravitacion (parte 4),Fisica I
+doc_0327,Examen resuelto: Series infinitas,Calculo II
+doc_0328,Diapositivas: Integrales impropias,Calculo II
+doc_0329,Taller: Repaso para el segundo parcial,Calculo II
+doc_0330,Apunte: Volumenes de solidos de revolucion,Calculo II
+doc_0331,Practica resuelta: Repaso para el segundo parcial,Calculo II
+doc_0332,Video clase: Aplicaciones del area bajo la curva,Calculo II
+doc_0333,Practica resuelta: Volumenes de solidos de revolucion,Calculo II
+doc_0334,Video clase: Integral definida,Calculo II
+doc_0335,Practica resuelta: Integral definida,Calculo II
+doc_0336,Apunte: Integral definida,Calculo II
+doc_0337,Examen resuelto: Series infinitas (parte 4),Calculo II
+doc_0338,Examen resuelto: Repaso para el segundo parcial,Calculo II
+doc_0339,Apunte: Volumenes de solidos de revolucion (parte 2),Calculo II
+doc_0340,Diapositivas: Volumenes de solidos de revolucion,Calculo II
+doc_0341,Practica resuelta: Integrales impropias,Calculo II
+doc_0342,Diapositivas: Aplicaciones del area bajo la curva,Calculo II
+doc_0343,Video clase: Repaso para el segundo parcial,Calculo II
+doc_0344,Practica resuelta: Series infinitas,Calculo II
+doc_0345,Video clase: Coordenadas polares,Calculo II
+doc_0346,Diapositivas: Integral definida,Calculo II
+doc_0347,Practica resuelta: Integral definida (parte 2),Calculo II
+doc_0348,Diapositivas: Integral definida (parte 4),Calculo II
+doc_0349,Diapositivas: Repaso para el segundo parcial,Calculo II
+doc_0350,Practica resuelta: Integrales impropias (parte 3),Calculo II
+doc_0351,Taller: Volumenes de solidos de revolucion,Calculo II
+doc_0352,Examen resuelto: Volumenes de solidos de revolucion,Calculo II
+doc_0353,Practica resuelta: Integrales impropias (parte 4),Calculo II
+doc_0354,Taller: Integrales indefinidas,Calculo II
+doc_0355,Diapositivas: Series de Taylor,Calculo II
+doc_0356,Practica resuelta: Integrales indefinidas,Calculo II
+doc_0357,Apunte: Aplicaciones del area bajo la curva,Calculo II
+doc_0358,Examen resuelto: Integrales impropias,Calculo II
+doc_0359,Guia de ejercicios: Volumenes de solidos de revolucion,Calculo II
+doc_0360,Taller: Repaso para el segundo parcial (parte 4),Calculo II
+doc_0361,Taller: Series de Taylor,Calculo II
+doc_0362,Resumen: Series de Taylor,Calculo II
+doc_0363,Guia de ejercicios: Tecnicas de integracion,Calculo II
+doc_0364,Taller: Series de Taylor (parte 4),Calculo II
+doc_0365,Diapositivas: Integrales impropias (parte 4),Calculo II
+doc_0366,Apunte: Series infinitas,Calculo II
+doc_0367,Resumen: Volumenes de solidos de revolucion,Calculo II
+doc_0368,Taller: Tecnicas de integracion,Calculo II
+doc_0369,Apunte: Coordenadas polares,Calculo II
+doc_0370,Examen resuelto: Coordenadas polares,Calculo II
+doc_0371,Apunte: Series infinitas (parte 2),Calculo II
+doc_0372,Resumen: Coordenadas polares,Calculo II
+doc_0373,Examen resuelto: Repaso para el segundo parcial (parte 4),Calculo II
+doc_0374,Apunte: Integrales impropias,Calculo II
+doc_0375,Diapositivas: Aplicaciones del area bajo la curva (parte 4),Calculo II
+doc_0376,Diapositivas: Integral definida (parte 3),Calculo II
+doc_0377,Practica resuelta: Integrales impropias (parte 2),Calculo II
+doc_0378,Video clase: Repaso para el segundo parcial (parte 4),Calculo II
+doc_0379,Taller: Integrales indefinidas (parte 2),Calculo II
+doc_0380,Practica resuelta: Aplicaciones del area bajo la curva,Calculo II
+doc_0381,Examen resuelto: Integral definida,Calculo II
+doc_0382,Diapositivas: Volumenes de solidos de revolucion (parte 3),Calculo II
+doc_0383,Examen resuelto: Integrales impropias (parte 2),Calculo II
+doc_0384,Guia de ejercicios: Integrales impropias,Calculo II
+doc_0385,Video clase: Series infinitas,Calculo II
+doc_0386,Guia de ejercicios: Repaso para el segundo parcial,Calculo II
+doc_0387,Diapositivas: Tecnicas de integracion,Calculo II
+doc_0388,Resumen: Series infinitas,Calculo II
+doc_0389,Diapositivas: Coordenadas polares,Calculo II
+doc_0390,Diapositivas: Integrales indefinidas,Calculo II
+doc_0391,Examen resuelto: Volumenes de solidos de revolucion (parte 2),Calculo II
+doc_0392,Examen resuelto: Integrales impropias (parte 3),Calculo II
+doc_0393,Taller: Series de Taylor (parte 3),Calculo II
+doc_0394,Video clase: Series de Taylor,Calculo II
+doc_0395,Taller: Aplicaciones del area bajo la curva,Calculo II
+doc_0396,Taller: Aplicaciones del area bajo la curva (parte 2),Calculo II
+doc_0397,Examen resuelto: Series de Taylor,Calculo II
+doc_0398,Taller: Series infinitas,Calculo II
+doc_0399,Examen resuelto: Integral definida (parte 2),Calculo II
+doc_0400,Resumen: Integral definida,Calculo II
+doc_0401,Examen resuelto: Tecnicas de integracion,Calculo II
+doc_0402,Examen resuelto: Tecnicas de integracion (parte 2),Calculo II
+doc_0403,Taller: Integral definida,Calculo II
+doc_0404,Practica resuelta: Integral definida (parte 3),Calculo II
+doc_0405,Resumen: Volumenes de solidos de revolucion (parte 4),Calculo II
+doc_0406,Practica resuelta: Series infinitas (parte 3),Calculo II
+doc_0407,Taller: Coordenadas polares,Calculo II
+doc_0408,Examen resuelto: Series de Taylor (parte 4),Calculo II
+doc_0409,Practica resuelta: Integrales indefinidas (parte 2),Calculo II
+doc_0410,Video clase: Volumenes de solidos de revolucion,Calculo II
+doc_0411,Taller: Combinaciones lineales,Algebra Lineal
+doc_0412,Practica resuelta: Combinaciones lineales,Algebra Lineal
+doc_0413,Guia de ejercicios: Diagonalizacion,Algebra Lineal
+doc_0414,Apunte: Matrices y operaciones,Algebra Lineal
+doc_0415,Resumen: Espacios vectoriales,Algebra Lineal
+doc_0416,Diapositivas: Espacios vectoriales,Algebra Lineal
+doc_0417,Resumen: Determinantes,Algebra Lineal
+doc_0418,Guia de ejercicios: Valores y vectores propios,Algebra Lineal
+doc_0419,Taller: Transformaciones lineales,Algebra Lineal
+doc_0420,Guia de ejercicios: Producto punto y ortogonalidad,Algebra Lineal
+doc_0421,Guia de ejercicios: Independencia lineal,Algebra Lineal
+doc_0422,Taller: Combinaciones lineales (parte 4),Algebra Lineal
+doc_0423,Video clase: Bases y dimension,Algebra Lineal
+doc_0424,Guia de ejercicios: Diagonalizacion (parte 2),Algebra Lineal
+doc_0425,Diapositivas: Diagonalizacion,Algebra Lineal
+doc_0426,Diapositivas: Diagonalizacion (parte 4),Algebra Lineal
+doc_0427,Examen resuelto: Espacios vectoriales,Algebra Lineal
+doc_0428,Guia de ejercicios: Matrices y operaciones,Algebra Lineal
+doc_0429,Examen resuelto: Combinaciones lineales,Algebra Lineal
+doc_0430,Diapositivas: Determinantes,Algebra Lineal
+doc_0431,Taller: Bases y dimension,Algebra Lineal
+doc_0432,Examen resuelto: Matrices y operaciones,Algebra Lineal
+doc_0433,Video clase: Matrices y operaciones,Algebra Lineal
+doc_0434,Examen resuelto: Valores y vectores propios,Algebra Lineal
+doc_0435,Video clase: Combinaciones lineales,Algebra Lineal
+doc_0436,Resumen: Valores y vectores propios,Algebra Lineal
+doc_0437,Diapositivas: Producto punto y ortogonalidad,Algebra Lineal
+doc_0438,Apunte: Matrices y operaciones (parte 4),Algebra Lineal
+doc_0439,Diapositivas: Valores y vectores propios,Algebra Lineal
+doc_0440,Apunte: Espacios vectoriales,Algebra Lineal
+doc_0441,Examen resuelto: Producto punto y ortogonalidad,Algebra Lineal
+doc_0442,Video clase: Matrices y operaciones (parte 4),Algebra Lineal
+doc_0443,Video clase: Determinantes,Algebra Lineal
+doc_0444,Video clase: Bases y dimension (parte 4),Algebra Lineal
+doc_0445,Guia de ejercicios: Matrices y operaciones (parte 4),Algebra Lineal
+doc_0446,Apunte: Combinaciones lineales,Algebra Lineal
+doc_0447,Examen resuelto: Matrices y operaciones (parte 2),Algebra Lineal
+doc_0448,Resumen: Producto punto y ortogonalidad,Algebra Lineal
+doc_0449,Practica resuelta: Independencia lineal,Algebra Lineal
+doc_0450,Resumen: Matrices y operaciones,Algebra Lineal
+doc_0451,Guia de ejercicios: Valores y vectores propios (parte 2),Algebra Lineal
+doc_0452,Resumen: Independencia lineal,Algebra Lineal
+doc_0453,Diapositivas: Sistemas de ecuaciones lineales,Algebra Lineal
+doc_0454,Diapositivas: Independencia lineal,Algebra Lineal
+doc_0455,Practica resuelta: Determinantes,Algebra Lineal
+doc_0456,Practica resuelta: Diagonalizacion,Algebra Lineal
+doc_0457,Video clase: Independencia lineal,Algebra Lineal
+doc_0458,Taller: Bases y dimension (parte 4),Algebra Lineal
+doc_0459,Practica resuelta: Determinantes (parte 3),Algebra Lineal
+doc_0460,Diapositivas: Espacios vectoriales (parte 4),Algebra Lineal
+doc_0461,Examen resuelto: Combinaciones lineales (parte 3),Algebra Lineal
+doc_0462,Diapositivas: Bases y dimension,Algebra Lineal
+doc_0463,Taller: Producto punto y ortogonalidad,Algebra Lineal
+doc_0464,Resumen: Bases y dimension,Algebra Lineal
+doc_0465,Video clase: Combinaciones lineales (parte 3),Algebra Lineal
+doc_0466,Resumen: Espacios vectoriales (parte 4),Algebra Lineal
+doc_0467,Practica resuelta: Transformaciones lineales,Algebra Lineal
+doc_0468,Examen resuelto: Bases y dimension,Algebra Lineal
+doc_0469,Taller: Matrices y operaciones,Algebra Lineal
+doc_0470,Guia de ejercicios: Combinaciones lineales,Algebra Lineal
+doc_0471,Apunte: Espacios vectoriales (parte 3),Algebra Lineal
+doc_0472,Practica resuelta: Diagonalizacion (parte 2),Algebra Lineal
+doc_0473,Guia de ejercicios: Transformaciones lineales,Algebra Lineal
+doc_0474,Examen resuelto: Valores y vectores propios (parte 3),Algebra Lineal
+doc_0475,Taller: Independencia lineal,Algebra Lineal
+doc_0476,Practica resuelta: Bases y dimension,Algebra Lineal
+doc_0477,Taller: Diagonalizacion,Algebra Lineal
+doc_0478,Video clase: Determinantes (parte 3),Algebra Lineal
+doc_0479,Video clase: Diagonalizacion,Algebra Lineal
+doc_0480,Practica resuelta: Determinantes (parte 4),Algebra Lineal
+doc_0481,Resumen: Determinantes (parte 2),Algebra Lineal
+doc_0482,Diapositivas: Valores y vectores propios (parte 2),Algebra Lineal
+doc_0483,Examen resuelto: Combinaciones lineales (parte 2),Algebra Lineal
+doc_0484,Apunte: Bases y dimension,Algebra Lineal
+doc_0485,Resumen: Espacios vectoriales (parte 2),Algebra Lineal
+doc_0486,Video clase: Independencia lineal (parte 2),Algebra Lineal
+doc_0487,Video clase: Sistemas de ecuaciones lineales,Algebra Lineal
+doc_0488,Video clase: Patron de diseno Observer,Programacion Orientada a Objetos
+doc_0489,Resumen: Polimorfismo,Programacion Orientada a Objetos
+doc_0490,Apunte: Herencia,Programacion Orientada a Objetos
+doc_0491,Guia de ejercicios: Clases abstractas e interfaces,Programacion Orientada a Objetos
+doc_0492,Diapositivas: Herencia,Programacion Orientada a Objetos
+doc_0493,Practica resuelta: Herencia,Programacion Orientada a Objetos
+doc_0494,Apunte: UML: diagramas de clases,Programacion Orientada a Objetos
+doc_0495,Apunte: Herencia (parte 3),Programacion Orientada a Objetos
+doc_0496,Resumen: Polimorfismo (parte 2),Programacion Orientada a Objetos
+doc_0497,Diapositivas: Herencia (parte 2),Programacion Orientada a Objetos
+doc_0498,Taller: Herencia,Programacion Orientada a Objetos
+doc_0499,Practica resuelta: Patron de diseno Singleton,Programacion Orientada a Objetos
+doc_0500,Practica resuelta: Proyecto integrador POO,Programacion Orientada a Objetos
+doc_0501,Examen resuelto: Manejo de excepciones,Programacion Orientada a Objetos
+doc_0502,Practica resuelta: Constructores y destructores,Programacion Orientada a Objetos
+doc_0503,Video clase: Manejo de excepciones,Programacion Orientada a Objetos
+doc_0504,Apunte: Patron de diseno Observer,Programacion Orientada a Objetos
+doc_0505,Diapositivas: Proyecto integrador POO,Programacion Orientada a Objetos
+doc_0506,Apunte: Manejo de excepciones,Programacion Orientada a Objetos
+doc_0507,Examen resuelto: Clases y objetos,Programacion Orientada a Objetos
+doc_0508,Taller: Sobrecarga de metodos,Programacion Orientada a Objetos
+doc_0509,Practica resuelta: UML: diagramas de clases,Programacion Orientada a Objetos
+doc_0510,Examen resuelto: Manejo de excepciones (parte 2),Programacion Orientada a Objetos
+doc_0511,Resumen: Encapsulamiento,Programacion Orientada a Objetos
+doc_0512,Guia de ejercicios: Patron de diseno Observer,Programacion Orientada a Objetos
+doc_0513,Guia de ejercicios: Encapsulamiento,Programacion Orientada a Objetos
+doc_0514,Resumen: Clases abstractas e interfaces,Programacion Orientada a Objetos
+doc_0515,Diapositivas: Sobrecarga de metodos,Programacion Orientada a Objetos
+doc_0516,Taller: Manejo de excepciones,Programacion Orientada a Objetos
+doc_0517,Practica resuelta: Encapsulamiento,Programacion Orientada a Objetos
+doc_0518,Video clase: UML: diagramas de clases,Programacion Orientada a Objetos
+doc_0519,Examen resuelto: Sobrecarga de metodos,Programacion Orientada a Objetos
+doc_0520,Taller: Polimorfismo,Programacion Orientada a Objetos
+doc_0521,Examen resuelto: Constructores y destructores,Programacion Orientada a Objetos
+doc_0522,Taller: Sobrecarga de metodos (parte 4),Programacion Orientada a Objetos
+doc_0523,Resumen: Encapsulamiento (parte 3),Programacion Orientada a Objetos
+doc_0524,Diapositivas: Constructores y destructores,Programacion Orientada a Objetos
+doc_0525,Guia de ejercicios: Constructores y destructores,Programacion Orientada a Objetos
+doc_0526,Examen resuelto: UML: diagramas de clases,Programacion Orientada a Objetos
+doc_0527,Practica resuelta: Encapsulamiento (parte 2),Programacion Orientada a Objetos
+doc_0528,Taller: Encapsulamiento,Programacion Orientada a Objetos
+doc_0529,Resumen: Encapsulamiento (parte 2),Programacion Orientada a Objetos
+doc_0530,Apunte: Patron de diseno Singleton,Programacion Orientada a Objetos
+doc_0531,Resumen: Patron de diseno Observer,Programacion Orientada a Objetos
+doc_0532,Practica resuelta: UML: diagramas de clases (parte 3),Programacion Orientada a Objetos
+doc_0533,Taller: Constructores y destructores,Programacion Orientada a Objetos
+doc_0534,Apunte: Proyecto integrador POO,Programacion Orientada a Objetos
+doc_0535,Diapositivas: Clases abstractas e interfaces,Programacion Orientada a Objetos
+doc_0536,Practica resuelta: Constructores y destructores (parte 4),Programacion Orientada a Objetos
+doc_0537,Video clase: Patron de diseno Singleton,Programacion Orientada a Objetos
+doc_0538,Examen resuelto: Herencia,Programacion Orientada a Objetos
+doc_0539,Practica resuelta: Polimorfismo,Programacion Orientada a Objetos
+doc_0540,Resumen: Constructores y destructores,Programacion Orientada a Objetos
+doc_0541,Diapositivas: Encapsulamiento,Programacion Orientada a Objetos
+doc_0542,Video clase: Patron de diseno Observer (parte 3),Programacion Orientada a Objetos
+doc_0543,Apunte: Patron de diseno Singleton (parte 4),Programacion Orientada a Objetos
+doc_0544,Diapositivas: UML: diagramas de clases,Programacion Orientada a Objetos
+doc_0545,Guia de ejercicios: Clases y objetos,Programacion Orientada a Objetos
+doc_0546,Diapositivas: Clases abstractas e interfaces (parte 3),Programacion Orientada a Objetos
+doc_0547,Apunte: Constructores y destructores,Programacion Orientada a Objetos
+doc_0548,Guia de ejercicios: Herencia,Programacion Orientada a Objetos
+doc_0549,Taller: Patron de diseno Observer,Programacion Orientada a Objetos
+doc_0550,Guia de ejercicios: Encapsulamiento (parte 4),Programacion Orientada a Objetos
+doc_0551,Apunte: UML: diagramas de clases (parte 2),Programacion Orientada a Objetos
+doc_0552,Video clase: Proyecto integrador POO,Programacion Orientada a Objetos
+doc_0553,Taller: Sobrecarga de metodos (parte 3),Programacion Orientada a Objetos
+doc_0554,Guia de ejercicios: Constructores y destructores (parte 3),Programacion Orientada a Objetos
+doc_0555,Resumen: Clases abstractas e interfaces (parte 4),Programacion Orientada a Objetos
+doc_0556,Practica resuelta: Patron de diseno Observer,Programacion Orientada a Objetos
+doc_0557,Guia de ejercicios: Clases y objetos (parte 2),Programacion Orientada a Objetos
+doc_0558,Apunte: Patron de diseno Observer (parte 4),Programacion Orientada a Objetos
+doc_0559,Diapositivas: Encapsulamiento (parte 3),Programacion Orientada a Objetos
+doc_0560,Taller: UML: diagramas de clases,Programacion Orientada a Objetos
+doc_0561,Examen resuelto: Manejo de excepciones (parte 3),Programacion Orientada a Objetos
+doc_0562,Video clase: Clases abstractas e interfaces,Programacion Orientada a Objetos
+doc_0563,Practica resuelta: Patron de diseno Singleton (parte 3),Programacion Orientada a Objetos
+doc_0564,Practica resuelta: Sobrecarga de metodos,Programacion Orientada a Objetos
+doc_0565,Examen resuelto: Clases abstractas e interfaces,Programacion Orientada a Objetos
+doc_0566,Diapositivas: Patron de diseno Singleton,Programacion Orientada a Objetos
+doc_0567,Video clase: Clases y objetos,Programacion Orientada a Objetos
+doc_0568,Apunte: Sobrecarga de metodos,Programacion Orientada a Objetos
+doc_0569,Video clase: Clases y objetos (parte 3),Programacion Orientada a Objetos
+doc_0570,Guia de ejercicios: Polimorfismo,Programacion Orientada a Objetos
+doc_0571,Apunte: Encapsulamiento,Programacion Orientada a Objetos
+doc_0572,Taller: Manejo de excepciones (parte 2),Programacion Orientada a Objetos
+doc_0573,Taller: Herencia (parte 4),Programacion Orientada a Objetos
+doc_0574,Video clase: Proyecto integrador POO (parte 4),Programacion Orientada a Objetos
+doc_0575,Resumen: Patron de diseno Singleton,Programacion Orientada a Objetos
+doc_0576,Taller: Encapsulamiento (parte 4),Programacion Orientada a Objetos
+doc_0577,Taller: Clases y objetos,Programacion Orientada a Objetos
+doc_0578,Examen resuelto: Clases y objetos (parte 2),Programacion Orientada a Objetos
+doc_0579,Taller: Constructores y destructores (parte 4),Programacion Orientada a Objetos
+doc_0580,Taller: Encapsulamiento (parte 2),Programacion Orientada a Objetos
+doc_0581,Guia de ejercicios: Constructores y destructores (parte 4),Programacion Orientada a Objetos
+doc_0582,Resumen: Manejo de excepciones,Programacion Orientada a Objetos
+doc_0583,Taller: Polimorfismo (parte 4),Programacion Orientada a Objetos
+doc_0584,Practica resuelta: Sobrecarga de metodos (parte 3),Programacion Orientada a Objetos
+doc_0585,Resumen: Clases abstractas e interfaces (parte 2),Programacion Orientada a Objetos
+doc_0586,Guia de ejercicios: Constructores y destructores (parte 2),Programacion Orientada a Objetos
+doc_0587,Practica resuelta: Patron de diseno Singleton (parte 4),Programacion Orientada a Objetos
+doc_0588,Video clase: Patron de diseno Singleton (parte 3),Programacion Orientada a Objetos
+doc_0589,Guia de ejercicios: Encapsulamiento (parte 3),Programacion Orientada a Objetos
+doc_0590,Guia de ejercicios: Polimorfismo (parte 4),Programacion Orientada a Objetos
+doc_0591,Practica resuelta: Herencia (parte 2),Programacion Orientada a Objetos
+doc_0592,Examen resuelto: UML: diagramas de clases (parte 3),Programacion Orientada a Objetos
+doc_0593,Examen resuelto: Patron de diseno Observer,Programacion Orientada a Objetos
+doc_0594,Resumen: Induccion matematica,Matematica Discreta
+doc_0595,Examen resuelto: Funciones y relaciones de equivalencia,Matematica Discreta
+doc_0596,Examen resuelto: Conjuntos y relaciones,Matematica Discreta
+doc_0597,Diapositivas: Algebra booleana,Matematica Discreta
+doc_0598,Apunte: Grafos y arboles,Matematica Discreta
+doc_0599,Practica resuelta: Induccion matematica,Matematica Discreta
+doc_0600,Examen resuelto: Grafos y arboles,Matematica Discreta
+doc_0601,Apunte: Algebra booleana,Matematica Discreta
+doc_0602,Resumen: Logica proposicional,Matematica Discreta
+doc_0603,Practica resuelta: Grafos y arboles,Matematica Discreta
+doc_0604,Taller: Conjuntos y relaciones,Matematica Discreta
+doc_0605,Apunte: Algebra booleana (parte 3),Matematica Discreta
+doc_0606,Resumen: Tecnicas de conteo,Matematica Discreta
+doc_0607,Guia de ejercicios: Algebra booleana,Matematica Discreta
+doc_0608,Examen resuelto: Logica proposicional,Matematica Discreta
+doc_0609,Resumen: Conjuntos y relaciones,Matematica Discreta
+doc_0610,Guia de ejercicios: Conjuntos y relaciones,Matematica Discreta
+doc_0611,Video clase: Logica proposicional,Matematica Discreta
+doc_0612,Examen resuelto: Algebra booleana,Matematica Discreta
+doc_0613,Resumen: Funciones y relaciones de equivalencia,Matematica Discreta
+doc_0614,Diapositivas: Induccion matematica,Matematica Discreta
+doc_0615,Taller: Relaciones de recurrencia,Matematica Discreta
+doc_0616,Apunte: Induccion matematica,Matematica Discreta
+doc_0617,Practica resuelta: Induccion matematica (parte 3),Matematica Discreta
+doc_0618,Taller: Conjuntos y relaciones (parte 3),Matematica Discreta
+doc_0619,Guia de ejercicios: Grafos y arboles,Matematica Discreta
+doc_0620,Practica resuelta: Induccion matematica (parte 4),Matematica Discreta
+doc_0621,Resumen: Funciones y relaciones de equivalencia (parte 3),Matematica Discreta
+doc_0622,Guia de ejercicios: Relaciones de recurrencia,Matematica Discreta
+doc_0623,Diapositivas: Conjuntos y relaciones,Matematica Discreta
+doc_0624,Resumen: Relaciones de recurrencia,Matematica Discreta
+doc_0625,Practica resuelta: Funciones y relaciones de equivalencia,Matematica Discreta
+doc_0626,Resumen: Relaciones de recurrencia (parte 2),Matematica Discreta
+doc_0627,Diapositivas: Induccion matematica (parte 2),Matematica Discreta
+doc_0628,Resumen: Tecnicas de conteo (parte 3),Matematica Discreta
+doc_0629,Video clase: Tecnicas de conteo,Matematica Discreta
+doc_0630,Guia de ejercicios: Funciones y relaciones de equivalencia,Matematica Discreta
+doc_0631,Diapositivas: Conjuntos y relaciones (parte 2),Matematica Discreta
+doc_0632,Resumen: Logica proposicional (parte 4),Matematica Discreta
+doc_0633,Taller: Funciones y relaciones de equivalencia,Matematica Discreta
+doc_0634,Guia de ejercicios: Funciones y relaciones de equivalencia (parte 2),Matematica Discreta
+doc_0635,Examen resuelto: Funciones y relaciones de equivalencia (parte 2),Matematica Discreta
+doc_0636,Resumen: Relaciones de recurrencia (parte 4),Matematica Discreta
+doc_0637,Examen resuelto: Tecnicas de conteo,Matematica Discreta
+doc_0638,Examen resuelto: Grafos y arboles (parte 2),Matematica Discreta
+doc_0639,Diapositivas: Tecnicas de conteo,Matematica Discreta
+doc_0640,Video clase: Algebra booleana,Matematica Discreta
+doc_0641,Examen resuelto: Induccion matematica,Matematica Discreta
+doc_0642,Diapositivas: Algebra booleana (parte 3),Matematica Discreta
+doc_0643,Guia de ejercicios: Relaciones de recurrencia (parte 2),Matematica Discreta
+doc_0644,Diapositivas: Funciones y relaciones de equivalencia,Matematica Discreta
+doc_0645,Examen resuelto: Logica proposicional (parte 3),Matematica Discreta
+doc_0646,Practica resuelta: Conjuntos y relaciones,Matematica Discreta
+doc_0647,Practica resuelta: Grafos y arboles (parte 2),Matematica Discreta
+doc_0648,Examen resuelto: Grafos y arboles (parte 4),Matematica Discreta
+doc_0649,Taller: Funciones y relaciones de equivalencia (parte 2),Matematica Discreta
+doc_0650,Examen resuelto: Integrales dobles,Calculo III
+doc_0651,Apunte: Ecuaciones diferenciales de primer orden,Calculo III
+doc_0652,Apunte: Ecuaciones diferenciales lineales,Calculo III
+doc_0653,Resumen: Ecuaciones diferenciales lineales,Calculo III
+doc_0654,Taller: Integrales dobles,Calculo III
+doc_0655,Resumen: Derivadas parciales,Calculo III
+doc_0656,Apunte: Integrales dobles,Calculo III
+doc_0657,Practica resuelta: Ecuaciones diferenciales de primer orden,Calculo III
+doc_0658,Guia de ejercicios: Ecuaciones diferenciales de primer orden,Calculo III
+doc_0659,Apunte: Gradiente y plano tangente,Calculo III
+doc_0660,Examen resuelto: Integrales triples,Calculo III
+doc_0661,Examen resuelto: Gradiente y plano tangente,Calculo III
+doc_0662,Apunte: Transformada de Laplace,Calculo III
+doc_0663,Apunte: Derivadas parciales,Calculo III
+doc_0664,Video clase: Integrales triples,Calculo III
+doc_0665,Taller: Gradiente y plano tangente,Calculo III
+doc_0666,Diapositivas: Derivadas parciales,Calculo III
+doc_0667,Diapositivas: Integrales dobles,Calculo III
+doc_0668,Apunte: Derivadas parciales (parte 2),Calculo III
+doc_0669,Examen resuelto: Ecuaciones diferenciales lineales,Calculo III
+doc_0670,Practica resuelta: Derivadas parciales,Calculo III
+doc_0671,Apunte: Transformada de Laplace (parte 4),Calculo III
+doc_0672,Guia de ejercicios: Integrales dobles,Calculo III
+doc_0673,Taller: Integrales triples,Calculo III
+doc_0674,Resumen: Funciones de varias variables,Calculo III
+doc_0675,Taller: Integrales dobles (parte 2),Calculo III
+doc_0676,Resumen: Derivadas parciales (parte 2),Calculo III
+doc_0677,Taller: Funciones de varias variables,Calculo III
+doc_0678,Resumen: Ecuaciones diferenciales lineales (parte 3),Calculo III
+doc_0679,Resumen: Funciones de varias variables (parte 2),Calculo III
+doc_0680,Video clase: Ecuaciones diferenciales de primer orden,Calculo III
+doc_0681,Resumen: Funciones de varias variables (parte 4),Calculo III
+doc_0682,Guia de ejercicios: Ecuaciones diferenciales de primer orden (parte 4),Calculo III
+doc_0683,Examen resuelto: Transformada de Laplace,Calculo III
+doc_0684,Guia de ejercicios: Gradiente y plano tangente,Calculo III
+doc_0685,Examen resuelto: Derivadas parciales,Calculo III
+doc_0686,Diapositivas: Funciones de varias variables,Calculo III
+doc_0687,Apunte: Integrales dobles (parte 2),Calculo III
+doc_0688,Resumen: Funciones de varias variables (parte 3),Calculo III
+doc_0689,Examen resuelto: Ecuaciones diferenciales lineales (parte 3),Calculo III
+doc_0690,Video clase: Funciones de varias variables,Calculo III
+doc_0691,Resumen: Integrales triples,Calculo III
+doc_0692,Resumen: Derivadas parciales (parte 3),Calculo III
+doc_0693,Guia de ejercicios: Ecuaciones diferenciales de primer orden (parte 3),Calculo III
+doc_0694,Resumen: Transformada de Laplace,Calculo III
+doc_0695,Practica resuelta: Integrales triples,Calculo III
+doc_0696,Practica resuelta: Ecuaciones diferenciales lineales,Calculo III
+doc_0697,Guia de ejercicios: Ecuaciones diferenciales lineales,Calculo III
+doc_0698,Resumen: Integrales triples (parte 2),Calculo III
+doc_0699,Resumen: Derivadas parciales (parte 4),Calculo III
+doc_0700,Diapositivas: Integrales triples,Calculo III
+doc_0701,Taller: Transformada de Laplace,Calculo III
+doc_0702,Examen resuelto: Gradiente y plano tangente (parte 3),Calculo III
+doc_0703,Taller: Ecuaciones diferenciales de primer orden,Calculo III
+doc_0704,Apunte: Integrales triples,Calculo III
+doc_0705,Taller: Derivadas parciales,Calculo III
+doc_0706,Guia de ejercicios: Ecuaciones diferenciales de primer orden (parte 2),Calculo III
+doc_0707,Examen resuelto: Gradiente y plano tangente (parte 2),Calculo III
+doc_0708,Practica resuelta: Gradiente y plano tangente,Calculo III
+doc_0709,Resumen: Integrales dobles,Calculo III
+doc_0710,Taller: Ecuaciones diferenciales de primer orden (parte 4),Calculo III
+doc_0711,Guia de ejercicios: Funciones de varias variables,Calculo III
+doc_0712,Resumen: Transformada de Laplace (parte 3),Calculo III
+doc_0713,Practica resuelta: Algoritmos de busqueda,Estructuras de Datos
+doc_0714,Guia de ejercicios: Colas de prioridad y heaps,Estructuras de Datos
+doc_0715,Resumen: Complejidad algoritmica Big-O,Estructuras de Datos
+doc_0716,Resumen: Algoritmos de ordenamiento,Estructuras de Datos
+doc_0717,Video clase: Tablas hash,Estructuras de Datos
+doc_0718,Apunte: Pilas y colas,Estructuras de Datos
+doc_0719,Examen resuelto: Arboles binarios,Estructuras de Datos
+doc_0720,Taller: Complejidad algoritmica Big-O,Estructuras de Datos
+doc_0721,Practica resuelta: Complejidad algoritmica Big-O,Estructuras de Datos
+doc_0722,Diapositivas: Tablas hash,Estructuras de Datos
+doc_0723,Video clase: Algoritmos de busqueda,Estructuras de Datos
+doc_0724,Diapositivas: Colas de prioridad y heaps,Estructuras de Datos
+doc_0725,Video clase: Algoritmos de busqueda (parte 2),Estructuras de Datos
+doc_0726,Practica resuelta: Arboles binarios,Estructuras de Datos
+doc_0727,Guia de ejercicios: Algoritmos de busqueda,Estructuras de Datos
+doc_0728,Practica resuelta: Algoritmos de busqueda (parte 4),Estructuras de Datos
+doc_0729,Resumen: Grafos: representacion y recorridos,Estructuras de Datos
+doc_0730,Diapositivas: Pilas y colas,Estructuras de Datos
+doc_0731,Guia de ejercicios: Tablas hash,Estructuras de Datos
+doc_0732,Resumen: Arboles binarios,Estructuras de Datos
+doc_0733,Video clase: Complejidad algoritmica Big-O,Estructuras de Datos
+doc_0734,Video clase: Pilas y colas,Estructuras de Datos
+doc_0735,Video clase: Arboles binarios,Estructuras de Datos
+doc_0736,Apunte: Algoritmos de busqueda,Estructuras de Datos
+doc_0737,Resumen: Grafos: representacion y recorridos (parte 3),Estructuras de Datos
+doc_0738,Guia de ejercicios: Complejidad algoritmica Big-O,Estructuras de Datos
+doc_0739,Practica resuelta: Colas de prioridad y heaps,Estructuras de Datos
+doc_0740,Diapositivas: Pilas y colas (parte 3),Estructuras de Datos
+doc_0741,Taller: Algoritmos de busqueda,Estructuras de Datos
+doc_0742,Practica resuelta: Algoritmos de ordenamiento,Estructuras de Datos
+doc_0743,Resumen: Arboles binarios (parte 4),Estructuras de Datos
+doc_0744,Examen resuelto: Pilas y colas,Estructuras de Datos
+doc_0745,Resumen: Algoritmos de busqueda,Estructuras de Datos
+doc_0746,Guia de ejercicios: Arboles binarios,Estructuras de Datos
+doc_0747,Taller: Arboles binarios,Estructuras de Datos
+doc_0748,Apunte: Complejidad algoritmica Big-O,Estructuras de Datos
+doc_0749,Guia de ejercicios: Pilas y colas,Estructuras de Datos
+doc_0750,Guia de ejercicios: Tablas hash (parte 2),Estructuras de Datos
+doc_0751,Video clase: Grafos: representacion y recorridos,Estructuras de Datos
+doc_0752,Diapositivas: Grafos: representacion y recorridos,Estructuras de Datos
+doc_0753,Diapositivas: Pilas y colas (parte 2),Estructuras de Datos
+doc_0754,Diapositivas: Complejidad algoritmica Big-O,Estructuras de Datos
+doc_0755,Diapositivas: Arboles binarios,Estructuras de Datos
+doc_0756,Practica resuelta: Colas de prioridad y heaps (parte 4),Estructuras de Datos
+doc_0757,Guia de ejercicios: Arboles binarios (parte 2),Estructuras de Datos
+doc_0758,Resumen: Colas de prioridad y heaps,Estructuras de Datos
+doc_0759,Apunte: Colas de prioridad y heaps,Estructuras de Datos
+doc_0760,Practica resuelta: Listas enlazadas,Estructuras de Datos
+doc_0761,Diapositivas: Listas enlazadas,Estructuras de Datos
+doc_0762,Taller: Arboles balanceados AVL,Estructuras de Datos
+doc_0763,Apunte: Colas de prioridad y heaps (parte 3),Estructuras de Datos
+doc_0764,Diapositivas: Complejidad algoritmica Big-O (parte 4),Estructuras de Datos
+doc_0765,Examen resuelto: Tablas hash,Estructuras de Datos
+doc_0766,Taller: Arboles balanceados AVL (parte 3),Estructuras de Datos
+doc_0767,Guia de ejercicios: Listas enlazadas,Estructuras de Datos
+doc_0768,Taller: Algoritmos de busqueda (parte 3),Estructuras de Datos
+doc_0769,Video clase: Algoritmos de busqueda (parte 3),Estructuras de Datos
+doc_0770,Guia de ejercicios: Colas de prioridad y heaps (parte 3),Estructuras de Datos
+doc_0771,Practica resuelta: Complejidad algoritmica Big-O (parte 3),Estructuras de Datos
+doc_0772,Examen resuelto: Arboles balanceados AVL,Estructuras de Datos
+doc_0773,Guia de ejercicios: Arboles balanceados AVL,Estructuras de Datos
+doc_0774,Apunte: Pilas y colas (parte 3),Estructuras de Datos
+doc_0775,Taller: Algoritmos de ordenamiento,Estructuras de Datos
+doc_0776,Guia de ejercicios: Arboles balanceados AVL (parte 3),Estructuras de Datos
+doc_0777,Resumen: Colas de prioridad y heaps (parte 2),Estructuras de Datos
+doc_0778,Examen resuelto: Arboles binarios (parte 4),Estructuras de Datos
+doc_0779,Examen resuelto: Algoritmos de busqueda,Estructuras de Datos
+doc_0780,Examen resuelto: Tablas hash (parte 2),Estructuras de Datos
+doc_0781,Taller: Pilas y colas,Estructuras de Datos
+doc_0782,Examen resuelto: Complejidad algoritmica Big-O,Estructuras de Datos
+doc_0783,Video clase: Arboles balanceados AVL,Estructuras de Datos
+doc_0784,Diapositivas: Listas enlazadas (parte 3),Estructuras de Datos
+doc_0785,Examen resuelto: Colas de prioridad y heaps,Estructuras de Datos
+doc_0786,Apunte: Tablas hash,Estructuras de Datos
+doc_0787,Taller: Pilas y colas (parte 2),Estructuras de Datos
+doc_0788,Resumen: Tablas hash,Estructuras de Datos
+doc_0789,Resumen: Algoritmos de ordenamiento (parte 2),Estructuras de Datos
+doc_0790,Apunte: Algoritmos de ordenamiento,Estructuras de Datos
+doc_0791,Video clase: Colas de prioridad y heaps,Estructuras de Datos
+doc_0792,Diapositivas: Grafos: representacion y recorridos (parte 2),Estructuras de Datos
+doc_0793,Examen resuelto: Algoritmos de ordenamiento,Estructuras de Datos
+doc_0794,Practica resuelta: Colas de prioridad y heaps (parte 2),Estructuras de Datos
+doc_0795,Taller: Pilas y colas (parte 3),Estructuras de Datos
+doc_0796,Resumen: Grafos: representacion y recorridos (parte 2),Estructuras de Datos
+doc_0797,Taller: Arboles balanceados AVL (parte 4),Estructuras de Datos
+doc_0798,Apunte: Listas enlazadas,Estructuras de Datos
+doc_0799,Guia de ejercicios: Listas enlazadas (parte 4),Estructuras de Datos
+doc_0800,Examen resuelto: Grafos: representacion y recorridos,Estructuras de Datos
+doc_0801,Examen resuelto: Complejidad algoritmica Big-O (parte 2),Estructuras de Datos
+doc_0802,Diapositivas: Algoritmos de ordenamiento,Estructuras de Datos
+doc_0803,Resumen: Colas de prioridad y heaps (parte 4),Estructuras de Datos
+doc_0804,Examen resuelto: Diseno de esquemas relacionales,Bases de Datos I
+doc_0805,Diapositivas: Indices y optimizacion de consultas,Bases de Datos I
+doc_0806,Apunte: SQL: joins,Bases de Datos I
+doc_0807,Resumen: SQL: consultas basicas,Bases de Datos I
+doc_0808,Practica resuelta: Indices y optimizacion de consultas,Bases de Datos I
+doc_0809,Diapositivas: SQL: joins,Bases de Datos I
+doc_0810,Apunte: Diseno de esquemas relacionales,Bases de Datos I
+doc_0811,Examen resuelto: Transacciones y ACID,Bases de Datos I
+doc_0812,Video clase: SQL: consultas basicas,Bases de Datos I
+doc_0813,Apunte: Indices y optimizacion de consultas,Bases de Datos I
+doc_0814,Examen resuelto: Transacciones y ACID (parte 2),Bases de Datos I
+doc_0815,Taller: Transacciones y ACID,Bases de Datos I
+doc_0816,Video clase: Normalizacion,Bases de Datos I
+doc_0817,Practica resuelta: Modelo entidad-relacion,Bases de Datos I
+doc_0818,Apunte: Normalizacion,Bases de Datos I
+doc_0819,Resumen: SQL: joins,Bases de Datos I
+doc_0820,Guia de ejercicios: SQL: joins,Bases de Datos I
+doc_0821,Video clase: SQL: joins,Bases de Datos I
+doc_0822,Examen resuelto: SQL: joins,Bases de Datos I
+doc_0823,Apunte: Diseno de esquemas relacionales (parte 4),Bases de Datos I
+doc_0824,Video clase: Normalizacion (parte 4),Bases de Datos I
+doc_0825,Examen resuelto: SQL: consultas basicas,Bases de Datos I
+doc_0826,Taller: Transacciones y ACID (parte 3),Bases de Datos I
+doc_0827,Examen resuelto: Normalizacion,Bases de Datos I
+doc_0828,Resumen: Transacciones y ACID,Bases de Datos I
+doc_0829,Resumen: Transacciones y ACID (parte 4),Bases de Datos I
+doc_0830,Diapositivas: Diseno de esquemas relacionales,Bases de Datos I
+doc_0831,Diapositivas: Normalizacion,Bases de Datos I
+doc_0832,Diapositivas: Transacciones y ACID,Bases de Datos I
+doc_0833,Diapositivas: Normalizacion (parte 3),Bases de Datos I
+doc_0834,Video clase: Indices y optimizacion de consultas,Bases de Datos I
+doc_0835,Examen resuelto: Indices y optimizacion de consultas,Bases de Datos I
+doc_0836,Examen resuelto: SQL: consultas basicas (parte 3),Bases de Datos I
+doc_0837,Diapositivas: Transacciones y ACID (parte 3),Bases de Datos I
+doc_0838,Taller: Modelo entidad-relacion,Bases de Datos I
+doc_0839,Resumen: SQL: joins (parte 2),Bases de Datos I
+doc_0840,Apunte: SQL: consultas basicas,Bases de Datos I
+doc_0841,Practica resuelta: SQL: consultas basicas,Bases de Datos I
+doc_0842,Examen resuelto: SQL: consultas basicas (parte 4),Bases de Datos I
+doc_0843,Examen resuelto: SQL: consultas basicas (parte 2),Bases de Datos I
+doc_0844,Diapositivas: Normalizacion (parte 4),Bases de Datos I
+doc_0845,Diapositivas: Indices y optimizacion de consultas (parte 2),Bases de Datos I
+doc_0846,Video clase: Modelo entidad-relacion,Bases de Datos I
+doc_0847,Apunte: Normalizacion (parte 4),Bases de Datos I
+doc_0848,Video clase: Transacciones y ACID,Bases de Datos I
+doc_0849,Video clase: Indices y optimizacion de consultas (parte 2),Bases de Datos I
+doc_0850,Taller: Modelo entidad-relacion (parte 3),Bases de Datos I
+doc_0851,Examen resuelto: Indices y optimizacion de consultas (parte 2),Bases de Datos I
+doc_0852,Guia de ejercicios: Indices y optimizacion de consultas,Bases de Datos I
+doc_0853,Guia de ejercicios: Modelo entidad-relacion,Bases de Datos I
+doc_0854,Examen resuelto: SQL: joins (parte 3),Bases de Datos I
+doc_0855,Video clase: Indices y optimizacion de consultas (parte 3),Bases de Datos I
+doc_0856,Diapositivas: SQL: consultas basicas,Bases de Datos I
+doc_0857,Apunte: Indices y optimizacion de consultas (parte 2),Bases de Datos I
+doc_0858,Video clase: Indices y optimizacion de consultas (parte 4),Bases de Datos I
+doc_0859,Guia de ejercicios: SQL: joins (parte 2),Bases de Datos I
+doc_0860,Taller: Diseno de esquemas relacionales,Bases de Datos I
+doc_0861,Examen resuelto: Diseno de esquemas relacionales (parte 2),Bases de Datos I
+doc_0862,Diapositivas: Modelo entidad-relacion,Bases de Datos I
+doc_0863,Practica resuelta: Transacciones y ACID,Bases de Datos I
+doc_0864,Diapositivas: SQL: consultas basicas (parte 3),Bases de Datos I
+doc_0865,Examen resuelto: Diseno de esquemas relacionales (parte 3),Bases de Datos I
+doc_0866,Practica resuelta: Normalizacion,Bases de Datos I
+doc_0867,Guia de ejercicios: SQL: consultas basicas,Bases de Datos I
+doc_0868,Examen resuelto: Indices y optimizacion de consultas (parte 4),Bases de Datos I
+doc_0869,Guia de ejercicios: SQL: consultas basicas (parte 2),Bases de Datos I
+doc_0870,Resumen: Indices y optimizacion de consultas,Bases de Datos I
+doc_0871,Diapositivas: Diseno de esquemas relacionales (parte 4),Bases de Datos I
+doc_0872,Resumen: Transacciones y ACID (parte 2),Bases de Datos I
+doc_0873,Practica resuelta: SQL: joins,Bases de Datos I
+doc_0874,Guia de ejercicios: Variables aleatorias continuas,Probabilidad y Estadistica
+doc_0875,Resumen: Pruebas de hipotesis,Probabilidad y Estadistica
+doc_0876,Apunte: Distribucion normal,Probabilidad y Estadistica
+doc_0877,Taller: Distribucion binomial,Probabilidad y Estadistica
+doc_0878,Examen resuelto: Distribucion normal,Probabilidad y Estadistica
+doc_0879,Resumen: Distribucion binomial,Probabilidad y Estadistica
+doc_0880,Apunte: Distribucion binomial,Probabilidad y Estadistica
+doc_0881,Resumen: Distribucion binomial (parte 4),Probabilidad y Estadistica
+doc_0882,Apunte: Distribucion normal (parte 4),Probabilidad y Estadistica
+doc_0883,Examen resuelto: Variables aleatorias discretas,Probabilidad y Estadistica
+doc_0884,Guia de ejercicios: Distribucion binomial,Probabilidad y Estadistica
+doc_0885,Diapositivas: Intervalos de confianza,Probabilidad y Estadistica
+doc_0886,Diapositivas: Variables aleatorias discretas,Probabilidad y Estadistica
+doc_0887,Video clase: Estimacion de parametros,Probabilidad y Estadistica
+doc_0888,Guia de ejercicios: Distribucion normal,Probabilidad y Estadistica
+doc_0889,Guia de ejercicios: Pruebas de hipotesis,Probabilidad y Estadistica
+doc_0890,Resumen: Pruebas de hipotesis (parte 3),Probabilidad y Estadistica
+doc_0891,Examen resuelto: Regresion lineal simple,Probabilidad y Estadistica
+doc_0892,Video clase: Regresion lineal simple,Probabilidad y Estadistica
+doc_0893,Practica resuelta: Distribucion normal,Probabilidad y Estadistica
+doc_0894,Examen resuelto: Regresion lineal simple (parte 4),Probabilidad y Estadistica
+doc_0895,Practica resuelta: Estimacion de parametros,Probabilidad y Estadistica
+doc_0896,Apunte: Variables aleatorias discretas,Probabilidad y Estadistica
+doc_0897,Video clase: Regresion lineal simple (parte 4),Probabilidad y Estadistica
+doc_0898,Guia de ejercicios: Regresion lineal simple,Probabilidad y Estadistica
+doc_0899,Resumen: Variables aleatorias continuas,Probabilidad y Estadistica
+doc_0900,Examen resuelto: Regresion lineal simple (parte 2),Probabilidad y Estadistica
+doc_0901,Examen resuelto: Distribucion normal (parte 2),Probabilidad y Estadistica
+doc_0902,Guia de ejercicios: Pruebas de hipotesis (parte 4),Probabilidad y Estadistica
+doc_0903,Examen resuelto: Intervalos de confianza,Probabilidad y Estadistica
+doc_0904,Examen resuelto: Probabilidad basica,Probabilidad y Estadistica
+doc_0905,Apunte: Distribucion binomial (parte 3),Probabilidad y Estadistica
+doc_0906,Apunte: Distribucion binomial (parte 4),Probabilidad y Estadistica
+doc_0907,Practica resuelta: Distribucion normal (parte 2),Probabilidad y Estadistica
+doc_0908,Resumen: Intervalos de confianza,Probabilidad y Estadistica
+doc_0909,Apunte: Variables aleatorias discretas (parte 2),Probabilidad y Estadistica
+doc_0910,Apunte: Pruebas de hipotesis,Probabilidad y Estadistica
+doc_0911,Taller: Distribucion binomial (parte 2),Probabilidad y Estadistica
+doc_0912,Taller: Variables aleatorias continuas,Probabilidad y Estadistica
+doc_0913,Taller: Estimacion de parametros,Probabilidad y Estadistica
+doc_0914,Taller: Pruebas de hipotesis,Probabilidad y Estadistica
+doc_0915,Practica resuelta: Intervalos de confianza,Probabilidad y Estadistica
+doc_0916,Guia de ejercicios: Regresion lineal simple (parte 4),Probabilidad y Estadistica
+doc_0917,Practica resuelta: Estimacion de parametros (parte 2),Probabilidad y Estadistica
+doc_0918,Taller: Regresion lineal simple,Probabilidad y Estadistica
+doc_0919,Apunte: Distribucion normal (parte 2),Probabilidad y Estadistica
+doc_0920,Examen resuelto: Distribucion binomial,Probabilidad y Estadistica
+doc_0921,Taller: Regresion lineal simple (parte 4),Probabilidad y Estadistica
+doc_0922,Video clase: Intervalos de confianza,Probabilidad y Estadistica
+doc_0923,Examen resuelto: Distribucion normal (parte 3),Probabilidad y Estadistica
+doc_0924,Diapositivas: Variables aleatorias continuas,Probabilidad y Estadistica
+doc_0925,Apunte: Intervalos de confianza,Probabilidad y Estadistica
+doc_0926,Video clase: Distribucion normal,Probabilidad y Estadistica
+doc_0927,Practica resuelta: Variables aleatorias discretas,Probabilidad y Estadistica
+doc_0928,Examen resuelto: Probabilidad basica (parte 4),Probabilidad y Estadistica
+doc_0929,Video clase: Probabilidad basica,Probabilidad y Estadistica
+doc_0930,Taller: Probabilidad basica,Probabilidad y Estadistica
+doc_0931,Video clase: Pruebas de hipotesis,Probabilidad y Estadistica
+doc_0932,Video clase: Regresion lineal simple (parte 2),Probabilidad y Estadistica
+doc_0933,Diapositivas: Variables aleatorias continuas (parte 2),Probabilidad y Estadistica
+doc_0934,Resumen: Estimacion de parametros,Probabilidad y Estadistica
+doc_0935,Diapositivas: Distribucion normal,Probabilidad y Estadistica
+doc_0936,Video clase: Variables aleatorias continuas,Probabilidad y Estadistica
