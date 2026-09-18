@@ -1,0 +1,3300 @@
+Paciente_ID,Sintoma
+PAC-20001,Mala Digestion
+PAC-20001,Acidez Estomacal
+PAC-20001,Dolor Abdominal
+PAC-20002,Mala Digestion
+PAC-20002,Dolor Abdominal
+PAC-20002,Reflujo Gastrico
+PAC-20002,Acidez Estomacal
+PAC-20002,Nauseas
+PAC-20003,Fatiga
+PAC-20003,Presion Arterial Alta
+PAC-20003,Colesterol Alto
+PAC-20003,Dolor de Garganta
+PAC-20003,Glucosa Elevada
+PAC-20004,Colesterol Alto
+PAC-20004,Presion Arterial Alta
+PAC-20004,Glucosa Elevada
+PAC-20005,Dolor de Cabeza Intenso
+PAC-20005,Congestion Nasal
+PAC-20005,Tos
+PAC-20005,Insomnio
+PAC-20005,Dolor de Garganta
+PAC-20005,Fiebre
+PAC-20005,Sensibilidad al Ruido
+PAC-20005,Sensibilidad a la Luz
+PAC-20006,Dolor de Cabeza Intenso
+PAC-20006,Nauseas
+PAC-20006,Insomnio
+PAC-20007,Colesterol Alto
+PAC-20007,Presion Arterial Alta
+PAC-20007,Glucosa Elevada
+PAC-20008,Fatiga
+PAC-20008,Congestion Nasal
+PAC-20008,Tos
+PAC-20008,Dolor de Garganta
+PAC-20008,Dificultad Respiratoria
+PAC-20009,Mala Digestion
+PAC-20009,Reflujo Gastrico
+PAC-20009,Sensibilidad a la Luz
+PAC-20009,Dolor Abdominal
+PAC-20010,Fatiga
+PAC-20010,Congestion Nasal
+PAC-20010,Insomnio
+PAC-20010,Dolor de Garganta
+PAC-20010,Dificultad Respiratoria
+PAC-20010,Fiebre
+PAC-20011,Dolor de Cabeza Intenso
+PAC-20011,Sensibilidad al Ruido
+PAC-20011,Sensibilidad a la Luz
+PAC-20011,Nauseas
+PAC-20012,Fiebre
+PAC-20012,Dolor de Garganta
+PAC-20012,Congestion Nasal
+PAC-20013,Dolor de Cabeza Intenso
+PAC-20013,Colesterol Alto
+PAC-20013,Sensibilidad al Ruido
+PAC-20013,Sensibilidad a la Luz
+PAC-20013,Nauseas
+PAC-20014,Fiebre
+PAC-20014,Fatiga
+PAC-20014,Dolor de Garganta
+PAC-20015,Fiebre
+PAC-20015,Dolor de Garganta
+PAC-20015,Congestion Nasal
+PAC-20015,Tos
+PAC-20016,Fatiga
+PAC-20016,Congestion Nasal
+PAC-20016,Tos
+PAC-20016,Dolor de Garganta
+PAC-20016,Fiebre
+PAC-20017,Mala Digestion
+PAC-20017,Dolor Abdominal
+PAC-20017,Congestion Nasal
+PAC-20017,Reflujo Gastrico
+PAC-20017,Dolor de Garganta
+PAC-20017,Dificultad Respiratoria
+PAC-20017,Acidez Estomacal
+PAC-20018,Dolor de Cabeza Intenso
+PAC-20018,Sensibilidad al Ruido
+PAC-20018,Insomnio
+PAC-20019,Dolor de Cabeza Intenso
+PAC-20019,Sensibilidad al Ruido
+PAC-20020,Sensibilidad al Ruido
+PAC-20020,Sensibilidad a la Luz
+PAC-20020,Insomnio
+PAC-20021,Dolor Abdominal
+PAC-20022,Dolor de Cabeza Intenso
+PAC-20022,Sensibilidad al Ruido
+PAC-20023,Mala Digestion
+PAC-20023,Acidez Estomacal
+PAC-20023,Dolor Abdominal
+PAC-20023,Nauseas
+PAC-20024,Fatiga
+PAC-20024,Dolor de Garganta
+PAC-20024,Tos
+PAC-20025,Sensibilidad al Ruido
+PAC-20025,Nauseas
+PAC-20026,Dolor de Cabeza Intenso
+PAC-20026,Nauseas
+PAC-20026,Sensibilidad a la Luz
+PAC-20026,Insomnio
+PAC-20027,Congestion Nasal
+PAC-20027,Tos
+PAC-20027,Colesterol Alto
+PAC-20027,Dolor de Garganta
+PAC-20027,Fiebre
+PAC-20028,Fiebre
+PAC-20028,Dolor de Garganta
+PAC-20028,Congestion Nasal
+PAC-20028,Tos
+PAC-20029,Fiebre
+PAC-20029,Dificultad Respiratoria
+PAC-20029,Tos
+PAC-20030,Mala Digestion
+PAC-20030,Reflujo Gastrico
+PAC-20030,Acidez Estomacal
+PAC-20030,Nauseas
+PAC-20031,Dolor de Cabeza Intenso
+PAC-20031,Sensibilidad a la Luz
+PAC-20031,Insomnio
+PAC-20032,Colesterol Alto
+PAC-20032,Presion Arterial Alta
+PAC-20032,Glucosa Elevada
+PAC-20033,Dolor Abdominal
+PAC-20034,Dolor de Cabeza Intenso
+PAC-20034,Sensibilidad al Ruido
+PAC-20034,Sensibilidad a la Luz
+PAC-20035,Dolor de Cabeza Intenso
+PAC-20035,Nauseas
+PAC-20035,Insomnio
+PAC-20036,Dolor de Cabeza Intenso
+PAC-20036,Sensibilidad a la Luz
+PAC-20036,Insomnio
+PAC-20037,Dolor de Cabeza Intenso
+PAC-20037,Sensibilidad al Ruido
+PAC-20037,Sensibilidad a la Luz
+PAC-20038,Reflujo Gastrico
+PAC-20038,Acidez Estomacal
+PAC-20038,Dolor Abdominal
+PAC-20038,Nauseas
+PAC-20039,Reflujo Gastrico
+PAC-20039,Acidez Estomacal
+PAC-20039,Dolor Abdominal
+PAC-20040,Sensibilidad al Ruido
+PAC-20040,Sensibilidad a la Luz
+PAC-20040,Insomnio
+PAC-20041,Dolor de Garganta
+PAC-20041,Tos
+PAC-20042,Acidez Estomacal
+PAC-20042,Dolor Abdominal
+PAC-20043,Mala Digestion
+PAC-20043,Dolor Abdominal
+PAC-20043,Presion Arterial Alta
+PAC-20043,Glucosa Elevada
+PAC-20043,Acidez Estomacal
+PAC-20044,Fiebre
+PAC-20044,Fatiga
+PAC-20044,Dolor de Garganta
+PAC-20044,Tos
+PAC-20045,Mala Digestion
+PAC-20045,Dolor Abdominal
+PAC-20045,Reflujo Gastrico
+PAC-20045,Acidez Estomacal
+PAC-20045,Nauseas
+PAC-20046,Mala Digestion
+PAC-20046,Acidez Estomacal
+PAC-20046,Nauseas
+PAC-20047,Colesterol Alto
+PAC-20047,Fatiga
+PAC-20047,Glucosa Elevada
+PAC-20048,Fiebre
+PAC-20048,Dolor de Garganta
+PAC-20048,Congestion Nasal
+PAC-20048,Tos
+PAC-20049,Mala Digestion
+PAC-20049,Reflujo Gastrico
+PAC-20049,Acidez Estomacal
+PAC-20050,Mala Digestion
+PAC-20050,Fatiga
+PAC-20050,Dolor Abdominal
+PAC-20050,Reflujo Gastrico
+PAC-20050,Dificultad Respiratoria
+PAC-20050,Acidez Estomacal
+PAC-20050,Nauseas
+PAC-20051,Dolor de Cabeza Intenso
+PAC-20051,Congestion Nasal
+PAC-20051,Tos
+PAC-20051,Dolor de Garganta
+PAC-20051,Dificultad Respiratoria
+PAC-20051,Fiebre
+PAC-20051,Nauseas
+PAC-20052,Dolor de Cabeza Intenso
+PAC-20052,Nauseas
+PAC-20052,Sensibilidad a la Luz
+PAC-20052,Insomnio
+PAC-20053,Dolor de Garganta
+PAC-20054,Glucosa Elevada
+PAC-20055,Acidez Estomacal
+PAC-20056,Fiebre
+PAC-20056,Dolor de Garganta
+PAC-20056,Congestion Nasal
+PAC-20056,Tos
+PAC-20057,Mala Digestion
+PAC-20057,Reflujo Gastrico
+PAC-20057,Acidez Estomacal
+PAC-20057,Dolor Abdominal
+PAC-20058,Dolor de Cabeza Intenso
+PAC-20058,Sensibilidad al Ruido
+PAC-20059,Fiebre
+PAC-20059,Dolor de Garganta
+PAC-20059,Congestion Nasal
+PAC-20059,Tos
+PAC-20060,Dolor de Cabeza Intenso
+PAC-20060,Reflujo Gastrico
+PAC-20060,Dolor Abdominal
+PAC-20061,Fatiga
+PAC-20061,Dolor de Garganta
+PAC-20061,Congestion Nasal
+PAC-20062,Tos
+PAC-20062,Dolor de Garganta
+PAC-20062,Acidez Estomacal
+PAC-20062,Fiebre
+PAC-20062,Nauseas
+PAC-20063,Fiebre
+PAC-20063,Fatiga
+PAC-20063,Dolor de Garganta
+PAC-20063,Tos
+PAC-20064,Fiebre
+PAC-20064,Dificultad Respiratoria
+PAC-20064,Congestion Nasal
+PAC-20064,Presion Arterial Alta
+PAC-20065,Mala Digestion
+PAC-20065,Reflujo Gastrico
+PAC-20065,Acidez Estomacal
+PAC-20065,Dolor Abdominal
+PAC-20066,Fiebre
+PAC-20066,Congestion Nasal
+PAC-20066,Tos
+PAC-20067,Fatiga
+PAC-20067,Dolor de Garganta
+PAC-20067,Congestion Nasal
+PAC-20067,Tos
+PAC-20068,Colesterol Alto
+PAC-20068,Mala Digestion
+PAC-20068,Reflujo Gastrico
+PAC-20068,Acidez Estomacal
+PAC-20069,Fatiga
+PAC-20069,Congestion Nasal
+PAC-20069,Tos
+PAC-20069,Dolor de Garganta
+PAC-20069,Fiebre
+PAC-20070,Fatiga
+PAC-20070,Congestion Nasal
+PAC-20070,Tos
+PAC-20070,Dolor de Garganta
+PAC-20070,Dificultad Respiratoria
+PAC-20071,Dolor Abdominal
+PAC-20072,Fiebre
+PAC-20072,Dolor de Garganta
+PAC-20072,Dificultad Respiratoria
+PAC-20072,Tos
+PAC-20073,Mala Digestion
+PAC-20073,Reflujo Gastrico
+PAC-20073,Acidez Estomacal
+PAC-20073,Dolor Abdominal
+PAC-20074,Fiebre
+PAC-20074,Fatiga
+PAC-20074,Dolor de Garganta
+PAC-20075,Fiebre
+PAC-20075,Fatiga
+PAC-20075,Congestion Nasal
+PAC-20075,Tos
+PAC-20076,Fiebre
+PAC-20076,Dolor de Garganta
+PAC-20076,Congestion Nasal
+PAC-20077,Dolor de Cabeza Intenso
+PAC-20077,Sensibilidad al Ruido
+PAC-20077,Sensibilidad a la Luz
+PAC-20078,Dolor de Cabeza Intenso
+PAC-20078,Congestion Nasal
+PAC-20078,Tos
+PAC-20078,Dolor de Garganta
+PAC-20078,Fiebre
+PAC-20079,Reflujo Gastrico
+PAC-20079,Dolor Abdominal
+PAC-20080,Fiebre
+PAC-20080,Fatiga
+PAC-20080,Dolor de Garganta
+PAC-20080,Congestion Nasal
+PAC-20081,Fiebre
+PAC-20081,Fatiga
+PAC-20081,Congestion Nasal
+PAC-20081,Tos
+PAC-20082,Mala Digestion
+PAC-20082,Reflujo Gastrico
+PAC-20082,Dolor Abdominal
+PAC-20083,Dolor de Cabeza Intenso
+PAC-20084,Mala Digestion
+PAC-20084,Reflujo Gastrico
+PAC-20085,Mala Digestion
+PAC-20085,Acidez Estomacal
+PAC-20085,Dolor Abdominal
+PAC-20085,Nauseas
+PAC-20086,Fatiga
+PAC-20086,Tos
+PAC-20086,Dolor de Garganta
+PAC-20086,Dificultad Respiratoria
+PAC-20086,Fiebre
+PAC-20087,Fatiga
+PAC-20087,Congestion Nasal
+PAC-20087,Tos
+PAC-20087,Dolor de Garganta
+PAC-20087,Dificultad Respiratoria
+PAC-20087,Fiebre
+PAC-20088,Reflujo Gastrico
+PAC-20088,Acidez Estomacal
+PAC-20089,Colesterol Alto
+PAC-20089,Presion Arterial Alta
+PAC-20089,Glucosa Elevada
+PAC-20090,Mala Digestion
+PAC-20090,Reflujo Gastrico
+PAC-20090,Sensibilidad al Ruido
+PAC-20090,Nauseas
+PAC-20091,Dolor de Cabeza Intenso
+PAC-20091,Insomnio
+PAC-20092,Fatiga
+PAC-20092,Tos
+PAC-20092,Dolor de Garganta
+PAC-20092,Dificultad Respiratoria
+PAC-20092,Fiebre
+PAC-20093,Reflujo Gastrico
+PAC-20093,Dolor de Garganta
+PAC-20093,Acidez Estomacal
+PAC-20094,Reflujo Gastrico
+PAC-20094,Dolor Abdominal
+PAC-20095,Dolor de Cabeza Intenso
+PAC-20095,Sensibilidad al Ruido
+PAC-20095,Sensibilidad a la Luz
+PAC-20095,Insomnio
+PAC-20096,Dolor de Cabeza Intenso
+PAC-20096,Sensibilidad al Ruido
+PAC-20096,Sensibilidad a la Luz
+PAC-20096,Nauseas
+PAC-20097,Dolor de Cabeza Intenso
+PAC-20097,Sensibilidad al Ruido
+PAC-20097,Sensibilidad a la Luz
+PAC-20098,Colesterol Alto
+PAC-20098,Glucosa Elevada
+PAC-20099,Mala Digestion
+PAC-20099,Dolor Abdominal
+PAC-20099,Reflujo Gastrico
+PAC-20099,Acidez Estomacal
+PAC-20099,Nauseas
+PAC-20100,Mala Digestion
+PAC-20100,Reflujo Gastrico
+PAC-20100,Acidez Estomacal
+PAC-20100,Nauseas
+PAC-20101,Fatiga
+PAC-20101,Congestion Nasal
+PAC-20101,Tos
+PAC-20101,Dolor de Garganta
+PAC-20101,Fiebre
+PAC-20102,Fiebre
+PAC-20102,Fatiga
+PAC-20102,Dolor de Garganta
+PAC-20102,Congestion Nasal
+PAC-20103,Mala Digestion
+PAC-20103,Reflujo Gastrico
+PAC-20103,Acidez Estomacal
+PAC-20103,Nauseas
+PAC-20104,Fatiga
+PAC-20104,Congestion Nasal
+PAC-20104,Tos
+PAC-20104,Dolor de Garganta
+PAC-20104,Fiebre
+PAC-20105,Dolor de Cabeza Intenso
+PAC-20105,Sensibilidad al Ruido
+PAC-20105,Sensibilidad a la Luz
+PAC-20105,Insomnio
+PAC-20106,Dolor de Garganta
+PAC-20106,Dificultad Respiratoria
+PAC-20107,Congestion Nasal
+PAC-20107,Tos
+PAC-20107,Dolor de Garganta
+PAC-20107,Dificultad Respiratoria
+PAC-20107,Fiebre
+PAC-20108,Dolor de Cabeza Intenso
+PAC-20108,Sensibilidad al Ruido
+PAC-20108,Sensibilidad a la Luz
+PAC-20108,Insomnio
+PAC-20109,Colesterol Alto
+PAC-20109,Fatiga
+PAC-20109,Glucosa Elevada
+PAC-20110,Dolor de Cabeza Intenso
+PAC-20110,Sensibilidad al Ruido
+PAC-20110,Sensibilidad a la Luz
+PAC-20111,Presion Arterial Alta
+PAC-20111,Glucosa Elevada
+PAC-20112,Dolor de Cabeza Intenso
+PAC-20112,Mala Digestion
+PAC-20112,Dolor Abdominal
+PAC-20112,Reflujo Gastrico
+PAC-20112,Acidez Estomacal
+PAC-20112,Sensibilidad al Ruido
+PAC-20113,Fiebre
+PAC-20113,Fatiga
+PAC-20113,Congestion Nasal
+PAC-20113,Tos
+PAC-20114,Dolor de Cabeza Intenso
+PAC-20114,Sensibilidad a la Luz
+PAC-20115,Reflujo Gastrico
+PAC-20115,Acidez Estomacal
+PAC-20115,Dolor Abdominal
+PAC-20115,Presion Arterial Alta
+PAC-20116,Dolor de Cabeza Intenso
+PAC-20116,Sensibilidad al Ruido
+PAC-20116,Nauseas
+PAC-20117,Mala Digestion
+PAC-20117,Dolor Abdominal
+PAC-20117,Reflujo Gastrico
+PAC-20117,Acidez Estomacal
+PAC-20117,Nauseas
+PAC-20118,Fiebre
+PAC-20119,Dolor de Cabeza Intenso
+PAC-20119,Sensibilidad al Ruido
+PAC-20119,Nauseas
+PAC-20120,Fiebre
+PAC-20120,Dolor de Garganta
+PAC-20120,Congestion Nasal
+PAC-20120,Tos
+PAC-20121,Mala Digestion
+PAC-20121,Reflujo Gastrico
+PAC-20121,Dolor Abdominal
+PAC-20122,Mala Digestion
+PAC-20122,Reflujo Gastrico
+PAC-20122,Nauseas
+PAC-20123,Mala Digestion
+PAC-20123,Dolor Abdominal
+PAC-20124,Fiebre
+PAC-20124,Dolor de Garganta
+PAC-20124,Tos
+PAC-20125,Colesterol Alto
+PAC-20125,Presion Arterial Alta
+PAC-20125,Glucosa Elevada
+PAC-20126,Fiebre
+PAC-20126,Congestion Nasal
+PAC-20126,Tos
+PAC-20127,Fatiga
+PAC-20127,Dolor de Garganta
+PAC-20127,Congestion Nasal
+PAC-20127,Tos
+PAC-20128,Mala Digestion
+PAC-20128,Dolor Abdominal
+PAC-20128,Reflujo Gastrico
+PAC-20128,Acidez Estomacal
+PAC-20128,Sensibilidad al Ruido
+PAC-20128,Sensibilidad a la Luz
+PAC-20128,Nauseas
+PAC-20129,Fatiga
+PAC-20129,Acidez Estomacal
+PAC-20129,Congestion Nasal
+PAC-20129,Tos
+PAC-20130,Reflujo Gastrico
+PAC-20130,Acidez Estomacal
+PAC-20130,Nauseas
+PAC-20131,Mala Digestion
+PAC-20131,Reflujo Gastrico
+PAC-20132,Fiebre
+PAC-20132,Dolor de Garganta
+PAC-20132,Congestion Nasal
+PAC-20132,Tos
+PAC-20133,Fatiga
+PAC-20133,Congestion Nasal
+PAC-20133,Dolor Abdominal
+PAC-20133,Tos
+PAC-20133,Dolor de Garganta
+PAC-20133,Fiebre
+PAC-20133,Nauseas
+PAC-20134,Congestion Nasal
+PAC-20134,Tos
+PAC-20134,Dolor de Garganta
+PAC-20134,Dificultad Respiratoria
+PAC-20134,Fiebre
+PAC-20135,Fiebre
+PAC-20135,Fatiga
+PAC-20135,Tos
+PAC-20136,Colesterol Alto
+PAC-20136,Presion Arterial Alta
+PAC-20136,Glucosa Elevada
+PAC-20137,Dolor de Cabeza Intenso
+PAC-20137,Nauseas
+PAC-20137,Sensibilidad a la Luz
+PAC-20137,Insomnio
+PAC-20138,Fiebre
+PAC-20138,Fatiga
+PAC-20138,Dificultad Respiratoria
+PAC-20139,Reflujo Gastrico
+PAC-20139,Acidez Estomacal
+PAC-20140,Colesterol Alto
+PAC-20140,Fatiga
+PAC-20140,Presion Arterial Alta
+PAC-20141,Fatiga
+PAC-20141,Congestion Nasal
+PAC-20141,Tos
+PAC-20141,Dolor de Garganta
+PAC-20141,Fiebre
+PAC-20142,Colesterol Alto
+PAC-20142,Dolor de Cabeza Intenso
+PAC-20142,Presion Arterial Alta
+PAC-20143,Mala Digestion
+PAC-20143,Reflujo Gastrico
+PAC-20143,Acidez Estomacal
+PAC-20143,Dolor Abdominal
+PAC-20144,Fiebre
+PAC-20144,Fatiga
+PAC-20144,Tos
+PAC-20145,Colesterol Alto
+PAC-20145,Presion Arterial Alta
+PAC-20145,Glucosa Elevada
+PAC-20146,Fiebre
+PAC-20146,Fatiga
+PAC-20146,Dolor de Garganta
+PAC-20146,Tos
+PAC-20147,Fatiga
+PAC-20147,Dolor de Garganta
+PAC-20147,Congestion Nasal
+PAC-20148,Fiebre
+PAC-20148,Fatiga
+PAC-20148,Dificultad Respiratoria
+PAC-20148,Tos
+PAC-20149,Mala Digestion
+PAC-20149,Acidez Estomacal
+PAC-20149,Dolor Abdominal
+PAC-20149,Nauseas
+PAC-20150,Dolor de Cabeza Intenso
+PAC-20150,Sensibilidad al Ruido
+PAC-20150,Insomnio
+PAC-20151,Dolor de Cabeza Intenso
+PAC-20151,Sensibilidad al Ruido
+PAC-20151,Nauseas
+PAC-20152,Sensibilidad al Ruido
+PAC-20152,Insomnio
+PAC-20153,Colesterol Alto
+PAC-20153,Fatiga
+PAC-20154,Fiebre
+PAC-20154,Fatiga
+PAC-20154,Dolor de Garganta
+PAC-20154,Congestion Nasal
+PAC-20155,Colesterol Alto
+PAC-20155,Presion Arterial Alta
+PAC-20155,Glucosa Elevada
+PAC-20156,Fiebre
+PAC-20156,Fatiga
+PAC-20156,Dolor de Garganta
+PAC-20156,Dificultad Respiratoria
+PAC-20157,Congestion Nasal
+PAC-20157,Tos
+PAC-20157,Dolor de Garganta
+PAC-20157,Dificultad Respiratoria
+PAC-20157,Glucosa Elevada
+PAC-20158,Fatiga
+PAC-20158,Presion Arterial Alta
+PAC-20158,Colesterol Alto
+PAC-20158,Dolor de Garganta
+PAC-20158,Dificultad Respiratoria
+PAC-20158,Glucosa Elevada
+PAC-20158,Fiebre
+PAC-20159,Fiebre
+PAC-20159,Fatiga
+PAC-20159,Dolor de Garganta
+PAC-20159,Congestion Nasal
+PAC-20160,Fiebre
+PAC-20160,Dolor de Garganta
+PAC-20161,Dolor de Cabeza Intenso
+PAC-20161,Sensibilidad al Ruido
+PAC-20161,Sensibilidad a la Luz
+PAC-20162,Fatiga
+PAC-20162,Congestion Nasal
+PAC-20162,Tos
+PAC-20162,Dolor de Garganta
+PAC-20162,Fiebre
+PAC-20163,Fiebre
+PAC-20163,Fatiga
+PAC-20163,Congestion Nasal
+PAC-20163,Tos
+PAC-20164,Fiebre
+PAC-20164,Fatiga
+PAC-20164,Dolor de Garganta
+PAC-20164,Tos
+PAC-20165,Congestion Nasal
+PAC-20165,Tos
+PAC-20165,Dolor de Garganta
+PAC-20165,Dificultad Respiratoria
+PAC-20165,Fiebre
+PAC-20166,Colesterol Alto
+PAC-20166,Presion Arterial Alta
+PAC-20166,Glucosa Elevada
+PAC-20167,Sensibilidad al Ruido
+PAC-20167,Sensibilidad a la Luz
+PAC-20167,Insomnio
+PAC-20168,Dolor de Cabeza Intenso
+PAC-20168,Sensibilidad al Ruido
+PAC-20168,Sensibilidad a la Luz
+PAC-20168,Nauseas
+PAC-20169,Reflujo Gastrico
+PAC-20170,Fatiga
+PAC-20170,Congestion Nasal
+PAC-20170,Tos
+PAC-20170,Dolor de Garganta
+PAC-20170,Dificultad Respiratoria
+PAC-20170,Fiebre
+PAC-20171,Fatiga
+PAC-20171,Congestion Nasal
+PAC-20171,Tos
+PAC-20171,Dolor de Garganta
+PAC-20171,Dificultad Respiratoria
+PAC-20171,Fiebre
+PAC-20172,Mala Digestion
+PAC-20172,Dolor Abdominal
+PAC-20172,Reflujo Gastrico
+PAC-20172,Acidez Estomacal
+PAC-20172,Nauseas
+PAC-20173,Dolor Abdominal
+PAC-20173,Tos
+PAC-20173,Dolor de Garganta
+PAC-20173,Fiebre
+PAC-20173,Nauseas
+PAC-20174,Fiebre
+PAC-20174,Dolor de Garganta
+PAC-20174,Congestion Nasal
+PAC-20174,Dificultad Respiratoria
+PAC-20175,Mala Digestion
+PAC-20175,Reflujo Gastrico
+PAC-20175,Acidez Estomacal
+PAC-20176,Dolor de Cabeza Intenso
+PAC-20176,Sensibilidad al Ruido
+PAC-20176,Nauseas
+PAC-20176,Insomnio
+PAC-20177,Mala Digestion
+PAC-20177,Dolor Abdominal
+PAC-20177,Presion Arterial Alta
+PAC-20177,Colesterol Alto
+PAC-20177,Glucosa Elevada
+PAC-20177,Acidez Estomacal
+PAC-20177,Nauseas
+PAC-20178,Dolor de Cabeza Intenso
+PAC-20178,Insomnio
+PAC-20178,Sensibilidad al Ruido
+PAC-20178,Sensibilidad a la Luz
+PAC-20178,Nauseas
+PAC-20179,Congestion Nasal
+PAC-20179,Tos
+PAC-20179,Dolor de Garganta
+PAC-20179,Dificultad Respiratoria
+PAC-20179,Fiebre
+PAC-20180,Dolor de Cabeza Intenso
+PAC-20180,Sensibilidad al Ruido
+PAC-20180,Nauseas
+PAC-20181,Fiebre
+PAC-20181,Fatiga
+PAC-20181,Congestion Nasal
+PAC-20181,Tos
+PAC-20182,Mala Digestion
+PAC-20182,Reflujo Gastrico
+PAC-20182,Acidez Estomacal
+PAC-20183,Mala Digestion
+PAC-20183,Reflujo Gastrico
+PAC-20184,Fatiga
+PAC-20184,Congestion Nasal
+PAC-20184,Tos
+PAC-20184,Dolor de Garganta
+PAC-20184,Fiebre
+PAC-20185,Reflujo Gastrico
+PAC-20185,Acidez Estomacal
+PAC-20186,Colesterol Alto
+PAC-20186,Presion Arterial Alta
+PAC-20187,Dolor de Cabeza Intenso
+PAC-20187,Colesterol Alto
+PAC-20188,Dolor de Cabeza Intenso
+PAC-20188,Sensibilidad al Ruido
+PAC-20188,Insomnio
+PAC-20189,Mala Digestion
+PAC-20189,Reflujo Gastrico
+PAC-20189,Dolor Abdominal
+PAC-20189,Nauseas
+PAC-20190,Dolor de Cabeza Intenso
+PAC-20190,Congestion Nasal
+PAC-20190,Insomnio
+PAC-20190,Reflujo Gastrico
+PAC-20190,Dolor de Garganta
+PAC-20190,Nauseas
+PAC-20191,Colesterol Alto
+PAC-20191,Presion Arterial Alta
+PAC-20192,Fatiga
+PAC-20192,Congestion Nasal
+PAC-20192,Tos
+PAC-20192,Dolor de Garganta
+PAC-20192,Fiebre
+PAC-20193,Dolor de Cabeza Intenso
+PAC-20193,Insomnio
+PAC-20193,Reflujo Gastrico
+PAC-20193,Acidez Estomacal
+PAC-20193,Sensibilidad al Ruido
+PAC-20193,Sensibilidad a la Luz
+PAC-20193,Nauseas
+PAC-20194,Fatiga
+PAC-20194,Congestion Nasal
+PAC-20194,Tos
+PAC-20194,Dolor de Garganta
+PAC-20194,Fiebre
+PAC-20195,Reflujo Gastrico
+PAC-20195,Dolor Abdominal
+PAC-20196,Fatiga
+PAC-20196,Dolor de Garganta
+PAC-20196,Tos
+PAC-20197,Fiebre
+PAC-20197,Fatiga
+PAC-20197,Dolor de Garganta
+PAC-20197,Tos
+PAC-20198,Mala Digestion
+PAC-20198,Acidez Estomacal
+PAC-20198,Dolor Abdominal
+PAC-20198,Nauseas
+PAC-20199,Mala Digestion
+PAC-20199,Reflujo Gastrico
+PAC-20199,Dolor Abdominal
+PAC-20200,Mala Digestion
+PAC-20200,Dolor Abdominal
+PAC-20201,Mala Digestion
+PAC-20201,Reflujo Gastrico
+PAC-20201,Acidez Estomacal
+PAC-20202,Dolor de Cabeza Intenso
+PAC-20202,Sensibilidad a la Luz
+PAC-20202,Insomnio
+PAC-20203,Fatiga
+PAC-20203,Dolor de Garganta
+PAC-20203,Congestion Nasal
+PAC-20203,Tos
+PAC-20204,Reflujo Gastrico
+PAC-20204,Acidez Estomacal
+PAC-20204,Dolor Abdominal
+PAC-20205,Fiebre
+PAC-20205,Fatiga
+PAC-20205,Tos
+PAC-20206,Fatiga
+PAC-20206,Dolor Abdominal
+PAC-20206,Tos
+PAC-20206,Reflujo Gastrico
+PAC-20206,Dolor de Garganta
+PAC-20206,Acidez Estomacal
+PAC-20206,Fiebre
+PAC-20207,Mala Digestion
+PAC-20207,Reflujo Gastrico
+PAC-20207,Acidez Estomacal
+PAC-20208,Dolor de Cabeza Intenso
+PAC-20208,Sensibilidad al Ruido
+PAC-20208,Nauseas
+PAC-20209,Mala Digestion
+PAC-20209,Acidez Estomacal
+PAC-20210,Fiebre
+PAC-20210,Fatiga
+PAC-20210,Dolor de Garganta
+PAC-20210,Tos
+PAC-20211,Fatiga
+PAC-20211,Presion Arterial Alta
+PAC-20211,Glucosa Elevada
+PAC-20212,Fatiga
+PAC-20212,Congestion Nasal
+PAC-20212,Tos
+PAC-20212,Dolor de Garganta
+PAC-20212,Fiebre
+PAC-20213,Fiebre
+PAC-20213,Fatiga
+PAC-20213,Dolor de Garganta
+PAC-20214,Mala Digestion
+PAC-20214,Reflujo Gastrico
+PAC-20214,Acidez Estomacal
+PAC-20214,Dolor Abdominal
+PAC-20215,Fatiga
+PAC-20215,Congestion Nasal
+PAC-20215,Presion Arterial Alta
+PAC-20215,Colesterol Alto
+PAC-20215,Fiebre
+PAC-20216,Dolor de Cabeza Intenso
+PAC-20216,Tos
+PAC-20216,Insomnio
+PAC-20216,Dolor de Garganta
+PAC-20216,Sensibilidad al Ruido
+PAC-20216,Sensibilidad a la Luz
+PAC-20217,Fiebre
+PAC-20217,Fatiga
+PAC-20217,Congestion Nasal
+PAC-20217,Tos
+PAC-20218,Fiebre
+PAC-20218,Dolor de Garganta
+PAC-20218,Dificultad Respiratoria
+PAC-20218,Tos
+PAC-20219,Dolor de Cabeza Intenso
+PAC-20219,Insomnio
+PAC-20219,Dificultad Respiratoria
+PAC-20219,Sensibilidad al Ruido
+PAC-20219,Sensibilidad a la Luz
+PAC-20219,Nauseas
+PAC-20220,Colesterol Alto
+PAC-20220,Presion Arterial Alta
+PAC-20221,Mala Digestion
+PAC-20221,Acidez Estomacal
+PAC-20221,Dolor Abdominal
+PAC-20221,Nauseas
+PAC-20222,Fiebre
+PAC-20222,Congestion Nasal
+PAC-20223,Tos
+PAC-20223,Mala Digestion
+PAC-20223,Reflujo Gastrico
+PAC-20223,Nauseas
+PAC-20224,Dolor de Cabeza Intenso
+PAC-20224,Sensibilidad al Ruido
+PAC-20224,Sensibilidad a la Luz
+PAC-20224,Insomnio
+PAC-20225,Mala Digestion
+PAC-20225,Dolor Abdominal
+PAC-20225,Nauseas
+PAC-20226,Fatiga
+PAC-20226,Congestion Nasal
+PAC-20226,Tos
+PAC-20226,Dolor de Garganta
+PAC-20226,Dificultad Respiratoria
+PAC-20226,Fiebre
+PAC-20227,Mala Digestion
+PAC-20227,Acidez Estomacal
+PAC-20227,Dolor Abdominal
+PAC-20228,Colesterol Alto
+PAC-20228,Fatiga
+PAC-20228,Presion Arterial Alta
+PAC-20228,Glucosa Elevada
+PAC-20229,Dolor de Cabeza Intenso
+PAC-20229,Sensibilidad al Ruido
+PAC-20229,Sensibilidad a la Luz
+PAC-20229,Insomnio
+PAC-20230,Fiebre
+PAC-20230,Dolor de Garganta
+PAC-20230,Dificultad Respiratoria
+PAC-20231,Fatiga
+PAC-20231,Presion Arterial Alta
+PAC-20231,Tos
+PAC-20231,Colesterol Alto
+PAC-20231,Glucosa Elevada
+PAC-20231,Fiebre
+PAC-20232,Mala Digestion
+PAC-20232,Reflujo Gastrico
+PAC-20232,Acidez Estomacal
+PAC-20233,Fatiga
+PAC-20233,Congestion Nasal
+PAC-20233,Tos
+PAC-20234,Mala Digestion
+PAC-20234,Reflujo Gastrico
+PAC-20234,Acidez Estomacal
+PAC-20234,Nauseas
+PAC-20235,Dolor de Garganta
+PAC-20235,Congestion Nasal
+PAC-20235,Tos
+PAC-20236,Fiebre
+PAC-20236,Tos
+PAC-20237,Dolor de Cabeza Intenso
+PAC-20237,Tos
+PAC-20237,Fiebre
+PAC-20237,Sensibilidad al Ruido
+PAC-20237,Sensibilidad a la Luz
+PAC-20238,Fiebre
+PAC-20238,Tos
+PAC-20239,Congestion Nasal
+PAC-20239,Presion Arterial Alta
+PAC-20239,Tos
+PAC-20239,Colesterol Alto
+PAC-20239,Dolor de Garganta
+PAC-20239,Fiebre
+PAC-20240,Colesterol Alto
+PAC-20240,Presion Arterial Alta
+PAC-20240,Glucosa Elevada
+PAC-20241,Dolor de Cabeza Intenso
+PAC-20241,Nauseas
+PAC-20241,Sensibilidad a la Luz
+PAC-20241,Insomnio
+PAC-20242,Fiebre
+PAC-20242,Fatiga
+PAC-20242,Dolor de Garganta
+PAC-20242,Congestion Nasal
+PAC-20243,Reflujo Gastrico
+PAC-20243,Acidez Estomacal
+PAC-20243,Dolor Abdominal
+PAC-20244,Congestion Nasal
+PAC-20244,Tos
+PAC-20244,Dolor de Garganta
+PAC-20244,Dificultad Respiratoria
+PAC-20244,Fiebre
+PAC-20244,Sensibilidad al Ruido
+PAC-20245,Fiebre
+PAC-20245,Fatiga
+PAC-20245,Congestion Nasal
+PAC-20245,Tos
+PAC-20246,Reflujo Gastrico
+PAC-20246,Acidez Estomacal
+PAC-20247,Dolor de Cabeza Intenso
+PAC-20247,Nauseas
+PAC-20247,Sensibilidad a la Luz
+PAC-20247,Insomnio
+PAC-20248,Reflujo Gastrico
+PAC-20248,Acidez Estomacal
+PAC-20248,Dolor Abdominal
+PAC-20248,Nauseas
+PAC-20249,Dificultad Respiratoria
+PAC-20249,Congestion Nasal
+PAC-20250,Fiebre
+PAC-20250,Tos
+PAC-20251,Fatiga
+PAC-20251,Dolor de Garganta
+PAC-20251,Congestion Nasal
+PAC-20251,Tos
+PAC-20252,Fiebre
+PAC-20252,Mala Digestion
+PAC-20252,Reflujo Gastrico
+PAC-20252,Dolor Abdominal
+PAC-20253,Mala Digestion
+PAC-20253,Reflujo Gastrico
+PAC-20253,Dolor Abdominal
+PAC-20254,Congestion Nasal
+PAC-20254,Tos
+PAC-20254,Dolor de Garganta
+PAC-20254,Fiebre
+PAC-20254,Nauseas
+PAC-20255,Dolor de Cabeza Intenso
+PAC-20255,Sensibilidad al Ruido
+PAC-20255,Sensibilidad a la Luz
+PAC-20256,Fiebre
+PAC-20256,Dolor de Garganta
+PAC-20256,Congestion Nasal
+PAC-20256,Tos
+PAC-20257,Fiebre
+PAC-20257,Fatiga
+PAC-20257,Dolor de Garganta
+PAC-20257,Congestion Nasal
+PAC-20258,Fatiga
+PAC-20258,Congestion Nasal
+PAC-20259,Dolor de Cabeza Intenso
+PAC-20259,Presion Arterial Alta
+PAC-20259,Colesterol Alto
+PAC-20259,Sensibilidad al Ruido
+PAC-20259,Sensibilidad a la Luz
+PAC-20259,Nauseas
+PAC-20260,Mala Digestion
+PAC-20260,Dolor Abdominal
+PAC-20260,Insomnio
+PAC-20260,Reflujo Gastrico
+PAC-20260,Acidez Estomacal
+PAC-20261,Mala Digestion
+PAC-20261,Congestion Nasal
+PAC-20261,Dolor Abdominal
+PAC-20261,Reflujo Gastrico
+PAC-20261,Fiebre
+PAC-20262,Reflujo Gastrico
+PAC-20262,Acidez Estomacal
+PAC-20262,Dolor Abdominal
+PAC-20263,Fiebre
+PAC-20264,Dolor de Cabeza Intenso
+PAC-20264,Insomnio
+PAC-20264,Sensibilidad al Ruido
+PAC-20264,Sensibilidad a la Luz
+PAC-20264,Nauseas
+PAC-20265,Mala Digestion
+PAC-20265,Reflujo Gastrico
+PAC-20265,Acidez Estomacal
+PAC-20265,Dolor Abdominal
+PAC-20266,Fiebre
+PAC-20266,Dolor de Garganta
+PAC-20266,Congestion Nasal
+PAC-20266,Tos
+PAC-20267,Mala Digestion
+PAC-20267,Dolor Abdominal
+PAC-20267,Reflujo Gastrico
+PAC-20267,Acidez Estomacal
+PAC-20267,Fiebre
+PAC-20268,Fatiga
+PAC-20268,Presion Arterial Alta
+PAC-20268,Colesterol Alto
+PAC-20268,Dolor de Garganta
+PAC-20268,Dificultad Respiratoria
+PAC-20268,Glucosa Elevada
+PAC-20268,Fiebre
+PAC-20269,Mala Digestion
+PAC-20269,Reflujo Gastrico
+PAC-20269,Acidez Estomacal
+PAC-20269,Nauseas
+PAC-20270,Fatiga
+PAC-20270,Dificultad Respiratoria
+PAC-20270,Tos
+PAC-20271,Fatiga
+PAC-20271,Dolor de Garganta
+PAC-20271,Dificultad Respiratoria
+PAC-20271,Tos
+PAC-20272,Fiebre
+PAC-20272,Dolor de Garganta
+PAC-20272,Congestion Nasal
+PAC-20272,Tos
+PAC-20273,Fiebre
+PAC-20273,Dolor de Garganta
+PAC-20273,Congestion Nasal
+PAC-20274,Presion Arterial Alta
+PAC-20274,Glucosa Elevada
+PAC-20275,Dolor de Cabeza Intenso
+PAC-20275,Sensibilidad al Ruido
+PAC-20275,Sensibilidad a la Luz
+PAC-20275,Insomnio
+PAC-20276,Dolor de Cabeza Intenso
+PAC-20276,Insomnio
+PAC-20276,Sensibilidad al Ruido
+PAC-20276,Sensibilidad a la Luz
+PAC-20276,Nauseas
+PAC-20277,Colesterol Alto
+PAC-20277,Presion Arterial Alta
+PAC-20277,Glucosa Elevada
+PAC-20278,Mala Digestion
+PAC-20278,Reflujo Gastrico
+PAC-20278,Acidez Estomacal
+PAC-20278,Dolor Abdominal
+PAC-20279,Fiebre
+PAC-20279,Dolor de Garganta
+PAC-20279,Tos
+PAC-20280,Glucosa Elevada
+PAC-20280,Presion Arterial Alta
+PAC-20280,Nauseas
+PAC-20281,Dolor de Cabeza Intenso
+PAC-20281,Sensibilidad al Ruido
+PAC-20281,Sensibilidad a la Luz
+PAC-20281,Insomnio
+PAC-20282,Mala Digestion
+PAC-20282,Acidez Estomacal
+PAC-20282,Dolor Abdominal
+PAC-20283,Presion Arterial Alta
+PAC-20284,Sensibilidad al Ruido
+PAC-20284,Sensibilidad a la Luz
+PAC-20284,Insomnio
+PAC-20285,Reflujo Gastrico
+PAC-20285,Dolor Abdominal
+PAC-20286,Mala Digestion
+PAC-20286,Fatiga
+PAC-20286,Dolor Abdominal
+PAC-20286,Colesterol Alto
+PAC-20286,Reflujo Gastrico
+PAC-20286,Glucosa Elevada
+PAC-20287,Dolor de Cabeza Intenso
+PAC-20287,Sensibilidad al Ruido
+PAC-20287,Sensibilidad a la Luz
+PAC-20287,Insomnio
+PAC-20288,Fiebre
+PAC-20288,Fatiga
+PAC-20288,Congestion Nasal
+PAC-20288,Tos
+PAC-20289,Dolor de Garganta
+PAC-20289,Congestion Nasal
+PAC-20289,Tos
+PAC-20290,Mala Digestion
+PAC-20290,Fatiga
+PAC-20290,Congestion Nasal
+PAC-20290,Tos
+PAC-20290,Dolor de Garganta
+PAC-20290,Fiebre
+PAC-20291,Fiebre
+PAC-20291,Fatiga
+PAC-20291,Dolor de Garganta
+PAC-20291,Tos
+PAC-20292,Fiebre
+PAC-20292,Dolor de Garganta
+PAC-20292,Dificultad Respiratoria
+PAC-20292,Tos
+PAC-20293,Fiebre
+PAC-20293,Dolor de Garganta
+PAC-20294,Mala Digestion
+PAC-20294,Reflujo Gastrico
+PAC-20294,Dolor Abdominal
+PAC-20295,Fiebre
+PAC-20295,Fatiga
+PAC-20295,Congestion Nasal
+PAC-20295,Tos
+PAC-20296,Dolor de Cabeza Intenso
+PAC-20296,Sensibilidad a la Luz
+PAC-20296,Insomnio
+PAC-20297,Fiebre
+PAC-20297,Fatiga
+PAC-20297,Dolor de Garganta
+PAC-20297,Tos
+PAC-20298,Dolor Abdominal
+PAC-20298,Congestion Nasal
+PAC-20298,Tos
+PAC-20298,Dificultad Respiratoria
+PAC-20298,Fiebre
+PAC-20298,Nauseas
+PAC-20299,Mala Digestion
+PAC-20299,Fatiga
+PAC-20299,Congestion Nasal
+PAC-20299,Tos
+PAC-20299,Dolor de Garganta
+PAC-20299,Fiebre
+PAC-20300,Fiebre
+PAC-20300,Fatiga
+PAC-20300,Dolor de Garganta
+PAC-20300,Tos
+PAC-20301,Dolor de Cabeza Intenso
+PAC-20301,Sensibilidad al Ruido
+PAC-20301,Sensibilidad a la Luz
+PAC-20301,Insomnio
+PAC-20302,Dolor de Cabeza Intenso
+PAC-20302,Mala Digestion
+PAC-20302,Reflujo Gastrico
+PAC-20302,Sensibilidad al Ruido
+PAC-20302,Nauseas
+PAC-20303,Colesterol Alto
+PAC-20303,Fatiga
+PAC-20303,Presion Arterial Alta
+PAC-20303,Glucosa Elevada
+PAC-20304,Mala Digestion
+PAC-20304,Dolor Abdominal
+PAC-20304,Reflujo Gastrico
+PAC-20304,Acidez Estomacal
+PAC-20304,Nauseas
+PAC-20305,Mala Digestion
+PAC-20306,Colesterol Alto
+PAC-20306,Sensibilidad al Ruido
+PAC-20306,Presion Arterial Alta
+PAC-20306,Glucosa Elevada
+PAC-20307,Dolor de Cabeza Intenso
+PAC-20307,Mala Digestion
+PAC-20307,Insomnio
+PAC-20307,Reflujo Gastrico
+PAC-20307,Acidez Estomacal
+PAC-20307,Nauseas
+PAC-20308,Dolor de Cabeza Intenso
+PAC-20308,Sensibilidad al Ruido
+PAC-20308,Insomnio
+PAC-20309,Fiebre
+PAC-20309,Fatiga
+PAC-20309,Congestion Nasal
+PAC-20309,Tos
+PAC-20310,Reflujo Gastrico
+PAC-20310,Acidez Estomacal
+PAC-20310,Dolor Abdominal
+PAC-20311,Congestion Nasal
+PAC-20311,Reflujo Gastrico
+PAC-20311,Dolor de Garganta
+PAC-20311,Fiebre
+PAC-20311,Nauseas
+PAC-20312,Mala Digestion
+PAC-20312,Acidez Estomacal
+PAC-20312,Dolor Abdominal
+PAC-20313,Fatiga
+PAC-20313,Congestion Nasal
+PAC-20313,Tos
+PAC-20313,Dolor de Garganta
+PAC-20313,Fiebre
+PAC-20314,Fatiga
+PAC-20314,Congestion Nasal
+PAC-20314,Presion Arterial Alta
+PAC-20314,Tos
+PAC-20314,Dolor de Garganta
+PAC-20314,Glucosa Elevada
+PAC-20314,Fiebre
+PAC-20315,Mala Digestion
+PAC-20315,Dolor Abdominal
+PAC-20316,Fiebre
+PAC-20316,Fatiga
+PAC-20316,Dolor de Garganta
+PAC-20316,Congestion Nasal
+PAC-20317,Fatiga
+PAC-20317,Congestion Nasal
+PAC-20317,Tos
+PAC-20317,Dolor de Garganta
+PAC-20317,Fiebre
+PAC-20318,Mala Digestion
+PAC-20318,Reflujo Gastrico
+PAC-20318,Acidez Estomacal
+PAC-20318,Dolor Abdominal
+PAC-20319,Fiebre
+PAC-20319,Fatiga
+PAC-20319,Congestion Nasal
+PAC-20319,Tos
+PAC-20320,Fatiga
+PAC-20320,Tos
+PAC-20320,Dolor de Garganta
+PAC-20320,Dificultad Respiratoria
+PAC-20320,Fiebre
+PAC-20321,Dolor de Cabeza Intenso
+PAC-20321,Sensibilidad al Ruido
+PAC-20321,Insomnio
+PAC-20322,Colesterol Alto
+PAC-20322,Presion Arterial Alta
+PAC-20323,Congestion Nasal
+PAC-20324,Fatiga
+PAC-20324,Congestion Nasal
+PAC-20324,Tos
+PAC-20324,Dolor de Garganta
+PAC-20324,Fiebre
+PAC-20325,Sensibilidad al Ruido
+PAC-20325,Sensibilidad a la Luz
+PAC-20325,Nauseas
+PAC-20326,Mala Digestion
+PAC-20326,Dolor Abdominal
+PAC-20326,Reflujo Gastrico
+PAC-20326,Acidez Estomacal
+PAC-20326,Nauseas
+PAC-20327,Mala Digestion
+PAC-20327,Reflujo Gastrico
+PAC-20327,Acidez Estomacal
+PAC-20327,Dolor Abdominal
+PAC-20328,Mala Digestion
+PAC-20328,Reflujo Gastrico
+PAC-20328,Acidez Estomacal
+PAC-20329,Sensibilidad al Ruido
+PAC-20329,Sensibilidad a la Luz
+PAC-20329,Nauseas
+PAC-20329,Insomnio
+PAC-20330,Dolor de Cabeza Intenso
+PAC-20330,Insomnio
+PAC-20330,Reflujo Gastrico
+PAC-20330,Acidez Estomacal
+PAC-20330,Sensibilidad a la Luz
+PAC-20330,Nauseas
+PAC-20331,Congestion Nasal
+PAC-20331,Tos
+PAC-20331,Dolor de Garganta
+PAC-20331,Dificultad Respiratoria
+PAC-20331,Fiebre
+PAC-20332,Sensibilidad al Ruido
+PAC-20332,Nauseas
+PAC-20333,Fatiga
+PAC-20333,Congestion Nasal
+PAC-20333,Tos
+PAC-20333,Dolor de Garganta
+PAC-20333,Fiebre
+PAC-20334,Dolor de Cabeza Intenso
+PAC-20334,Sensibilidad al Ruido
+PAC-20334,Insomnio
+PAC-20335,Fatiga
+PAC-20335,Congestion Nasal
+PAC-20335,Tos
+PAC-20335,Dolor de Garganta
+PAC-20335,Dificultad Respiratoria
+PAC-20336,Colesterol Alto
+PAC-20336,Fatiga
+PAC-20336,Presion Arterial Alta
+PAC-20337,Fatiga
+PAC-20337,Presion Arterial Alta
+PAC-20337,Glucosa Elevada
+PAC-20338,Mala Digestion
+PAC-20338,Reflujo Gastrico
+PAC-20338,Nauseas
+PAC-20339,Fiebre
+PAC-20339,Fatiga
+PAC-20339,Dolor de Garganta
+PAC-20339,Congestion Nasal
+PAC-20340,Fiebre
+PAC-20340,Dolor de Garganta
+PAC-20340,Congestion Nasal
+PAC-20340,Tos
+PAC-20341,Colesterol Alto
+PAC-20341,Fatiga
+PAC-20342,Mala Digestion
+PAC-20342,Acidez Estomacal
+PAC-20342,Dolor Abdominal
+PAC-20342,Presion Arterial Alta
+PAC-20343,Colesterol Alto
+PAC-20343,Fatiga
+PAC-20343,Presion Arterial Alta
+PAC-20343,Glucosa Elevada
+PAC-20344,Dolor de Cabeza Intenso
+PAC-20344,Sensibilidad al Ruido
+PAC-20344,Sensibilidad a la Luz
+PAC-20344,Insomnio
+PAC-20345,Mala Digestion
+PAC-20345,Dolor Abdominal
+PAC-20345,Reflujo Gastrico
+PAC-20345,Acidez Estomacal
+PAC-20345,Nauseas
+PAC-20346,Mala Digestion
+PAC-20346,Reflujo Gastrico
+PAC-20346,Acidez Estomacal
+PAC-20346,Dolor Abdominal
+PAC-20347,Dolor de Cabeza Intenso
+PAC-20347,Sensibilidad a la Luz
+PAC-20348,Mala Digestion
+PAC-20348,Reflujo Gastrico
+PAC-20348,Acidez Estomacal
+PAC-20349,Dolor de Cabeza Intenso
+PAC-20349,Sensibilidad al Ruido
+PAC-20349,Nauseas
+PAC-20350,Sensibilidad al Ruido
+PAC-20350,Sensibilidad a la Luz
+PAC-20350,Nauseas
+PAC-20350,Insomnio
+PAC-20351,Fiebre
+PAC-20351,Fatiga
+PAC-20351,Dolor de Garganta
+PAC-20351,Tos
+PAC-20352,Mala Digestion
+PAC-20352,Reflujo Gastrico
+PAC-20352,Acidez Estomacal
+PAC-20353,Fatiga
+PAC-20353,Congestion Nasal
+PAC-20353,Presion Arterial Alta
+PAC-20353,Tos
+PAC-20353,Dolor de Garganta
+PAC-20353,Fiebre
+PAC-20354,Mala Digestion
+PAC-20354,Reflujo Gastrico
+PAC-20354,Acidez Estomacal
+PAC-20355,Mala Digestion
+PAC-20355,Reflujo Gastrico
+PAC-20355,Acidez Estomacal
+PAC-20355,Dolor Abdominal
+PAC-20356,Fatiga
+PAC-20356,Congestion Nasal
+PAC-20356,Tos
+PAC-20356,Dolor de Garganta
+PAC-20356,Glucosa Elevada
+PAC-20356,Fiebre
+PAC-20357,Mala Digestion
+PAC-20357,Acidez Estomacal
+PAC-20357,Dolor Abdominal
+PAC-20357,Nauseas
+PAC-20358,Fiebre
+PAC-20358,Dolor de Garganta
+PAC-20358,Congestion Nasal
+PAC-20358,Tos
+PAC-20359,Fiebre
+PAC-20359,Fatiga
+PAC-20359,Congestion Nasal
+PAC-20359,Tos
+PAC-20360,Mala Digestion
+PAC-20360,Reflujo Gastrico
+PAC-20360,Acidez Estomacal
+PAC-20360,Dolor Abdominal
+PAC-20361,Mala Digestion
+PAC-20361,Reflujo Gastrico
+PAC-20361,Acidez Estomacal
+PAC-20362,Mala Digestion
+PAC-20362,Reflujo Gastrico
+PAC-20362,Dolor Abdominal
+PAC-20362,Nauseas
+PAC-20363,Fiebre
+PAC-20363,Dolor de Garganta
+PAC-20363,Congestion Nasal
+PAC-20363,Dificultad Respiratoria
+PAC-20364,Nauseas
+PAC-20365,Colesterol Alto
+PAC-20365,Fatiga
+PAC-20365,Presion Arterial Alta
+PAC-20366,Fiebre
+PAC-20366,Dolor de Garganta
+PAC-20366,Tos
+PAC-20367,Mala Digestion
+PAC-20367,Reflujo Gastrico
+PAC-20367,Nauseas
+PAC-20368,Fatiga
+PAC-20368,Congestion Nasal
+PAC-20368,Tos
+PAC-20368,Dolor de Garganta
+PAC-20368,Glucosa Elevada
+PAC-20368,Fiebre
+PAC-20369,Acidez Estomacal
+PAC-20369,Nauseas
+PAC-20370,Fiebre
+PAC-20370,Dolor de Garganta
+PAC-20370,Congestion Nasal
+PAC-20370,Glucosa Elevada
+PAC-20371,Presion Arterial Alta
+PAC-20371,Glucosa Elevada
+PAC-20372,Mala Digestion
+PAC-20372,Reflujo Gastrico
+PAC-20372,Acidez Estomacal
+PAC-20372,Nauseas
+PAC-20373,Colesterol Alto
+PAC-20373,Fatiga
+PAC-20373,Presion Arterial Alta
+PAC-20373,Glucosa Elevada
+PAC-20374,Fiebre
+PAC-20374,Fatiga
+PAC-20374,Congestion Nasal
+PAC-20374,Tos
+PAC-20375,Fatiga
+PAC-20375,Congestion Nasal
+PAC-20375,Tos
+PAC-20375,Dolor de Garganta
+PAC-20375,Fiebre
+PAC-20376,Fiebre
+PAC-20376,Dificultad Respiratoria
+PAC-20376,Tos
+PAC-20377,Glucosa Elevada
+PAC-20378,Mala Digestion
+PAC-20378,Acidez Estomacal
+PAC-20378,Dolor Abdominal
+PAC-20378,Nauseas
+PAC-20379,Dolor de Garganta
+PAC-20379,Congestion Nasal
+PAC-20379,Tos
+PAC-20380,Fiebre
+PAC-20380,Fatiga
+PAC-20380,Congestion Nasal
+PAC-20380,Tos
+PAC-20381,Fatiga
+PAC-20381,Congestion Nasal
+PAC-20381,Tos
+PAC-20381,Dolor de Garganta
+PAC-20381,Fiebre
+PAC-20382,Mala Digestion
+PAC-20382,Reflujo Gastrico
+PAC-20382,Acidez Estomacal
+PAC-20382,Dolor Abdominal
+PAC-20383,Fiebre
+PAC-20383,Fatiga
+PAC-20383,Dolor de Garganta
+PAC-20384,Mala Digestion
+PAC-20384,Reflujo Gastrico
+PAC-20384,Acidez Estomacal
+PAC-20385,Mala Digestion
+PAC-20385,Reflujo Gastrico
+PAC-20385,Acidez Estomacal
+PAC-20386,Colesterol Alto
+PAC-20386,Presion Arterial Alta
+PAC-20386,Glucosa Elevada
+PAC-20387,Mala Digestion
+PAC-20387,Reflujo Gastrico
+PAC-20387,Acidez Estomacal
+PAC-20387,Dolor Abdominal
+PAC-20388,Fiebre
+PAC-20388,Fatiga
+PAC-20388,Dolor de Garganta
+PAC-20388,Tos
+PAC-20389,Dolor de Cabeza Intenso
+PAC-20389,Sensibilidad al Ruido
+PAC-20389,Sensibilidad a la Luz
+PAC-20389,Nauseas
+PAC-20390,Dolor de Cabeza Intenso
+PAC-20390,Sensibilidad al Ruido
+PAC-20390,Sensibilidad a la Luz
+PAC-20390,Insomnio
+PAC-20391,Dolor de Cabeza Intenso
+PAC-20391,Sensibilidad al Ruido
+PAC-20391,Insomnio
+PAC-20392,Presion Arterial Alta
+PAC-20393,Fatiga
+PAC-20393,Congestion Nasal
+PAC-20393,Presion Arterial Alta
+PAC-20393,Tos
+PAC-20393,Colesterol Alto
+PAC-20393,Dolor de Garganta
+PAC-20393,Dificultad Respiratoria
+PAC-20393,Fiebre
+PAC-20394,Dolor de Cabeza Intenso
+PAC-20394,Mala Digestion
+PAC-20395,Dolor de Cabeza Intenso
+PAC-20395,Sensibilidad al Ruido
+PAC-20395,Sensibilidad a la Luz
+PAC-20396,Dolor de Cabeza Intenso
+PAC-20396,Dolor Abdominal
+PAC-20396,Reflujo Gastrico
+PAC-20396,Sensibilidad al Ruido
+PAC-20396,Nauseas
+PAC-20397,Mala Digestion
+PAC-20397,Dolor Abdominal
+PAC-20397,Reflujo Gastrico
+PAC-20397,Glucosa Elevada
+PAC-20397,Acidez Estomacal
+PAC-20398,Mala Digestion
+PAC-20398,Reflujo Gastrico
+PAC-20399,Presion Arterial Alta
+PAC-20399,Glucosa Elevada
+PAC-20400,Fiebre
+PAC-20400,Fatiga
+PAC-20400,Dolor de Garganta
+PAC-20400,Tos
+PAC-20401,Mala Digestion
+PAC-20401,Reflujo Gastrico
+PAC-20401,Acidez Estomacal
+PAC-20401,Nauseas
+PAC-20402,Dolor de Cabeza Intenso
+PAC-20402,Sensibilidad al Ruido
+PAC-20402,Sensibilidad a la Luz
+PAC-20402,Insomnio
+PAC-20403,Mala Digestion
+PAC-20403,Reflujo Gastrico
+PAC-20404,Mala Digestion
+PAC-20404,Reflujo Gastrico
+PAC-20404,Acidez Estomacal
+PAC-20405,Dolor de Cabeza Intenso
+PAC-20405,Sensibilidad a la Luz
+PAC-20405,Insomnio
+PAC-20406,Fiebre
+PAC-20406,Fatiga
+PAC-20406,Dolor de Garganta
+PAC-20406,Congestion Nasal
+PAC-20407,Acidez Estomacal
+PAC-20407,Dolor Abdominal
+PAC-20407,Nauseas
+PAC-20408,Colesterol Alto
+PAC-20408,Glucosa Elevada
+PAC-20409,Colesterol Alto
+PAC-20409,Presion Arterial Alta
+PAC-20409,Glucosa Elevada
+PAC-20410,Fatiga
+PAC-20410,Congestion Nasal
+PAC-20410,Tos
+PAC-20410,Dolor de Garganta
+PAC-20410,Fiebre
+PAC-20411,Mala Digestion
+PAC-20411,Dolor Abdominal
+PAC-20411,Reflujo Gastrico
+PAC-20411,Acidez Estomacal
+PAC-20411,Nauseas
+PAC-20412,Dolor de Cabeza Intenso
+PAC-20412,Mala Digestion
+PAC-20412,Fatiga
+PAC-20412,Tos
+PAC-20412,Insomnio
+PAC-20412,Dolor de Garganta
+PAC-20412,Sensibilidad al Ruido
+PAC-20412,Sensibilidad a la Luz
+PAC-20413,Sensibilidad a la Luz
+PAC-20413,Insomnio
+PAC-20414,Fatiga
+PAC-20414,Congestion Nasal
+PAC-20414,Tos
+PAC-20414,Dolor de Garganta
+PAC-20414,Fiebre
+PAC-20415,Mala Digestion
+PAC-20415,Reflujo Gastrico
+PAC-20415,Acidez Estomacal
+PAC-20415,Dolor Abdominal
+PAC-20416,Dolor de Cabeza Intenso
+PAC-20416,Sensibilidad al Ruido
+PAC-20416,Reflujo Gastrico
+PAC-20416,Insomnio
+PAC-20417,Colesterol Alto
+PAC-20417,Presion Arterial Alta
+PAC-20418,Fatiga
+PAC-20418,Congestion Nasal
+PAC-20418,Tos
+PAC-20418,Dificultad Respiratoria
+PAC-20418,Fiebre
+PAC-20419,Fiebre
+PAC-20419,Fatiga
+PAC-20419,Tos
+PAC-20420,Congestion Nasal
+PAC-20420,Tos
+PAC-20421,Fiebre
+PAC-20421,Dificultad Respiratoria
+PAC-20421,Congestion Nasal
+PAC-20421,Tos
+PAC-20422,Colesterol Alto
+PAC-20422,Fatiga
+PAC-20422,Sensibilidad al Ruido
+PAC-20423,Mala Digestion
+PAC-20423,Reflujo Gastrico
+PAC-20423,Acidez Estomacal
+PAC-20424,Fiebre
+PAC-20424,Fatiga
+PAC-20424,Tos
+PAC-20425,Dolor de Cabeza Intenso
+PAC-20425,Congestion Nasal
+PAC-20425,Insomnio
+PAC-20425,Dolor de Garganta
+PAC-20425,Sensibilidad al Ruido
+PAC-20425,Sensibilidad a la Luz
+PAC-20425,Nauseas
+PAC-20426,Mala Digestion
+PAC-20426,Reflujo Gastrico
+PAC-20426,Acidez Estomacal
+PAC-20427,Dolor de Cabeza Intenso
+PAC-20427,Fatiga
+PAC-20427,Congestion Nasal
+PAC-20427,Tos
+PAC-20427,Insomnio
+PAC-20427,Dificultad Respiratoria
+PAC-20427,Fiebre
+PAC-20427,Sensibilidad a la Luz
+PAC-20428,Dolor de Cabeza Intenso
+PAC-20428,Sensibilidad al Ruido
+PAC-20428,Sensibilidad a la Luz
+PAC-20428,Nauseas
+PAC-20429,Colesterol Alto
+PAC-20429,Fatiga
+PAC-20429,Presion Arterial Alta
+PAC-20430,Congestion Nasal
+PAC-20430,Tos
+PAC-20430,Dolor de Garganta
+PAC-20430,Dificultad Respiratoria
+PAC-20430,Fiebre
+PAC-20431,Insomnio
+PAC-20432,Fiebre
+PAC-20432,Fatiga
+PAC-20432,Congestion Nasal
+PAC-20432,Tos
+PAC-20433,Fiebre
+PAC-20433,Dolor de Garganta
+PAC-20433,Dificultad Respiratoria
+PAC-20434,Mala Digestion
+PAC-20434,Dolor Abdominal
+PAC-20434,Reflujo Gastrico
+PAC-20434,Acidez Estomacal
+PAC-20434,Sensibilidad al Ruido
+PAC-20434,Nauseas
+PAC-20435,Fatiga
+PAC-20435,Congestion Nasal
+PAC-20435,Tos
+PAC-20435,Dolor de Garganta
+PAC-20435,Fiebre
+PAC-20436,Mala Digestion
+PAC-20436,Reflujo Gastrico
+PAC-20436,Acidez Estomacal
+PAC-20436,Nauseas
+PAC-20437,Colesterol Alto
+PAC-20437,Fatiga
+PAC-20437,Presion Arterial Alta
+PAC-20437,Glucosa Elevada
+PAC-20438,Dolor de Cabeza Intenso
+PAC-20438,Sensibilidad a la Luz
+PAC-20439,Fiebre
+PAC-20439,Dolor de Garganta
+PAC-20439,Tos
+PAC-20440,Mala Digestion
+PAC-20440,Dolor Abdominal
+PAC-20440,Reflujo Gastrico
+PAC-20440,Acidez Estomacal
+PAC-20440,Nauseas
+PAC-20441,Reflujo Gastrico
+PAC-20441,Acidez Estomacal
+PAC-20441,Dolor Abdominal
+PAC-20442,Fatiga
+PAC-20442,Tos
+PAC-20442,Reflujo Gastrico
+PAC-20442,Dolor de Garganta
+PAC-20442,Fiebre
+PAC-20442,Nauseas
+PAC-20443,Reflujo Gastrico
+PAC-20443,Acidez Estomacal
+PAC-20443,Dolor Abdominal
+PAC-20444,Dolor de Garganta
+PAC-20444,Congestion Nasal
+PAC-20444,Dificultad Respiratoria
+PAC-20444,Tos
+PAC-20445,Congestion Nasal
+PAC-20445,Tos
+PAC-20445,Dolor de Garganta
+PAC-20445,Dificultad Respiratoria
+PAC-20445,Fiebre
+PAC-20446,Dolor de Cabeza Intenso
+PAC-20446,Nauseas
+PAC-20446,Sensibilidad a la Luz
+PAC-20446,Insomnio
+PAC-20447,Mala Digestion
+PAC-20447,Reflujo Gastrico
+PAC-20447,Dolor Abdominal
+PAC-20448,Mala Digestion
+PAC-20448,Fatiga
+PAC-20448,Congestion Nasal
+PAC-20448,Tos
+PAC-20448,Reflujo Gastrico
+PAC-20448,Dificultad Respiratoria
+PAC-20448,Acidez Estomacal
+PAC-20448,Fiebre
+PAC-20449,Dolor de Cabeza Intenso
+PAC-20449,Insomnio
+PAC-20449,Sensibilidad al Ruido
+PAC-20449,Sensibilidad a la Luz
+PAC-20449,Nauseas
+PAC-20450,Reflujo Gastrico
+PAC-20450,Nauseas
+PAC-20451,Dolor de Garganta
+PAC-20451,Congestion Nasal
+PAC-20451,Dificultad Respiratoria
+PAC-20451,Tos
+PAC-20452,Fiebre
+PAC-20452,Dolor de Garganta
+PAC-20452,Congestion Nasal
+PAC-20452,Tos
+PAC-20453,Mala Digestion
+PAC-20453,Fatiga
+PAC-20453,Congestion Nasal
+PAC-20453,Tos
+PAC-20453,Reflujo Gastrico
+PAC-20453,Dolor de Garganta
+PAC-20453,Acidez Estomacal
+PAC-20454,Fiebre
+PAC-20454,Dolor de Garganta
+PAC-20454,Congestion Nasal
+PAC-20454,Dificultad Respiratoria
+PAC-20455,Mala Digestion
+PAC-20455,Dolor Abdominal
+PAC-20455,Nauseas
+PAC-20456,Fiebre
+PAC-20456,Fatiga
+PAC-20456,Dolor de Garganta
+PAC-20456,Dificultad Respiratoria
+PAC-20457,Mala Digestion
+PAC-20457,Reflujo Gastrico
+PAC-20457,Acidez Estomacal
+PAC-20457,Dolor Abdominal
+PAC-20458,Fiebre
+PAC-20458,Sensibilidad a la Luz
+PAC-20458,Congestion Nasal
+PAC-20458,Tos
+PAC-20459,Fiebre
+PAC-20459,Fatiga
+PAC-20459,Dolor de Garganta
+PAC-20459,Tos
+PAC-20460,Fiebre
+PAC-20460,Glucosa Elevada
+PAC-20460,Dolor de Garganta
+PAC-20460,Tos
+PAC-20461,Fiebre
+PAC-20461,Dolor de Garganta
+PAC-20461,Congestion Nasal
+PAC-20461,Dificultad Respiratoria
+PAC-20462,Dolor de Cabeza Intenso
+PAC-20462,Sensibilidad al Ruido
+PAC-20462,Insomnio
+PAC-20463,Reflujo Gastrico
+PAC-20463,Acidez Estomacal
+PAC-20463,Dolor Abdominal
+PAC-20464,Mala Digestion
+PAC-20464,Reflujo Gastrico
+PAC-20464,Acidez Estomacal
+PAC-20464,Nauseas
+PAC-20465,Colesterol Alto
+PAC-20465,Fatiga
+PAC-20465,Presion Arterial Alta
+PAC-20466,Fiebre
+PAC-20466,Dolor de Garganta
+PAC-20466,Congestion Nasal
+PAC-20467,Mala Digestion
+PAC-20467,Reflujo Gastrico
+PAC-20467,Acidez Estomacal
+PAC-20467,Dolor Abdominal
+PAC-20468,Dolor de Cabeza Intenso
+PAC-20468,Fatiga
+PAC-20468,Insomnio
+PAC-20468,Colesterol Alto
+PAC-20468,Glucosa Elevada
+PAC-20468,Sensibilidad a la Luz
+PAC-20469,Colesterol Alto
+PAC-20469,Fatiga
+PAC-20469,Presion Arterial Alta
+PAC-20470,Fiebre
+PAC-20470,Fatiga
+PAC-20470,Dolor de Garganta
+PAC-20470,Dificultad Respiratoria
+PAC-20471,Fiebre
+PAC-20471,Fatiga
+PAC-20471,Dolor de Garganta
+PAC-20472,Colesterol Alto
+PAC-20472,Glucosa Elevada
+PAC-20473,Fatiga
+PAC-20473,Congestion Nasal
+PAC-20473,Tos
+PAC-20473,Dolor de Garganta
+PAC-20473,Fiebre
+PAC-20474,Mala Digestion
+PAC-20474,Reflujo Gastrico
+PAC-20474,Dolor Abdominal
+PAC-20475,Colesterol Alto
+PAC-20475,Presion Arterial Alta
+PAC-20475,Glucosa Elevada
+PAC-20476,Fatiga
+PAC-20476,Congestion Nasal
+PAC-20476,Tos
+PAC-20476,Dolor de Garganta
+PAC-20476,Dificultad Respiratoria
+PAC-20476,Fiebre
+PAC-20477,Dolor de Cabeza Intenso
+PAC-20477,Nauseas
+PAC-20477,Sensibilidad a la Luz
+PAC-20477,Insomnio
+PAC-20478,Fiebre
+PAC-20478,Dolor de Garganta
+PAC-20478,Congestion Nasal
+PAC-20478,Tos
+PAC-20479,Mala Digestion
+PAC-20479,Reflujo Gastrico
+PAC-20479,Dolor Abdominal
+PAC-20479,Nauseas
+PAC-20480,Dolor de Cabeza Intenso
+PAC-20480,Sensibilidad a la Luz
+PAC-20480,Insomnio
+PAC-20481,Fiebre
+PAC-20481,Dolor de Garganta
+PAC-20481,Tos
+PAC-20482,Dolor de Cabeza Intenso
+PAC-20482,Insomnio
+PAC-20482,Sensibilidad al Ruido
+PAC-20482,Sensibilidad a la Luz
+PAC-20482,Nauseas
+PAC-20483,Fiebre
+PAC-20483,Tos
+PAC-20484,Fatiga
+PAC-20484,Congestion Nasal
+PAC-20484,Tos
+PAC-20484,Reflujo Gastrico
+PAC-20484,Dolor de Garganta
+PAC-20484,Fiebre
+PAC-20484,Nauseas
+PAC-20485,Colesterol Alto
+PAC-20485,Presion Arterial Alta
+PAC-20485,Glucosa Elevada
+PAC-20486,Mala Digestion
+PAC-20486,Reflujo Gastrico
+PAC-20486,Acidez Estomacal
+PAC-20486,Dolor Abdominal
+PAC-20487,Dolor de Cabeza Intenso
+PAC-20487,Insomnio
+PAC-20487,Sensibilidad al Ruido
+PAC-20487,Sensibilidad a la Luz
+PAC-20487,Nauseas
+PAC-20488,Mala Digestion
+PAC-20488,Reflujo Gastrico
+PAC-20488,Acidez Estomacal
+PAC-20488,Nauseas
+PAC-20489,Mala Digestion
+PAC-20489,Reflujo Gastrico
+PAC-20489,Dolor Abdominal
+PAC-20490,Dolor de Cabeza Intenso
+PAC-20490,Mala Digestion
+PAC-20490,Dolor Abdominal
+PAC-20490,Insomnio
+PAC-20490,Sensibilidad al Ruido
+PAC-20490,Nauseas
+PAC-20491,Fiebre
+PAC-20491,Reflujo Gastrico
+PAC-20491,Nauseas
+PAC-20492,Colesterol Alto
+PAC-20492,Fatiga
+PAC-20492,Glucosa Elevada
+PAC-20493,Reflujo Gastrico
+PAC-20493,Dolor Abdominal
+PAC-20493,Nauseas
+PAC-20494,Colesterol Alto
+PAC-20494,Presion Arterial Alta
+PAC-20494,Glucosa Elevada
+PAC-20495,Colesterol Alto
+PAC-20495,Fatiga
+PAC-20495,Presion Arterial Alta
+PAC-20495,Glucosa Elevada
+PAC-20496,Fiebre
+PAC-20496,Tos
+PAC-20497,Fiebre
+PAC-20497,Dolor de Garganta
+PAC-20497,Tos
+PAC-20498,Reflujo Gastrico
+PAC-20499,Fiebre
+PAC-20499,Dificultad Respiratoria
+PAC-20500,Dolor de Cabeza Intenso
+PAC-20500,Sensibilidad a la Luz
+PAC-20500,Insomnio
+PAC-20501,Colesterol Alto
+PAC-20501,Reflujo Gastrico
+PAC-20501,Nauseas
+PAC-20502,Tos
+PAC-20503,Fatiga
+PAC-20503,Glucosa Elevada
+PAC-20504,Colesterol Alto
+PAC-20504,Glucosa Elevada
+PAC-20505,Mala Digestion
+PAC-20505,Fatiga
+PAC-20505,Tos
+PAC-20505,Reflujo Gastrico
+PAC-20505,Dolor de Garganta
+PAC-20505,Fiebre
+PAC-20506,Fiebre
+PAC-20506,Dolor de Garganta
+PAC-20506,Congestion Nasal
+PAC-20506,Tos
+PAC-20507,Fatiga
+PAC-20507,Presion Arterial Alta
+PAC-20508,Fiebre
+PAC-20508,Dolor de Garganta
+PAC-20508,Tos
+PAC-20509,Fiebre
+PAC-20509,Dolor de Garganta
+PAC-20509,Congestion Nasal
+PAC-20510,Colesterol Alto
+PAC-20510,Fatiga
+PAC-20510,Presion Arterial Alta
+PAC-20510,Glucosa Elevada
+PAC-20511,Dolor de Cabeza Intenso
+PAC-20511,Sensibilidad al Ruido
+PAC-20511,Sensibilidad a la Luz
+PAC-20512,Fiebre
+PAC-20512,Dificultad Respiratoria
+PAC-20512,Congestion Nasal
+PAC-20512,Tos
+PAC-20513,Dolor de Cabeza Intenso
+PAC-20513,Mala Digestion
+PAC-20513,Acidez Estomacal
+PAC-20513,Nauseas
+PAC-20514,Dolor de Cabeza Intenso
+PAC-20514,Sensibilidad a la Luz
+PAC-20514,Insomnio
+PAC-20515,Mala Digestion
+PAC-20515,Dolor Abdominal
+PAC-20515,Reflujo Gastrico
+PAC-20515,Acidez Estomacal
+PAC-20515,Nauseas
+PAC-20516,Mala Digestion
+PAC-20516,Reflujo Gastrico
+PAC-20516,Acidez Estomacal
+PAC-20516,Nauseas
+PAC-20517,Dolor de Cabeza Intenso
+PAC-20517,Fatiga
+PAC-20517,Tos
+PAC-20517,Dolor de Garganta
+PAC-20517,Fiebre
+PAC-20518,Mala Digestion
+PAC-20518,Dolor Abdominal
+PAC-20518,Reflujo Gastrico
+PAC-20518,Acidez Estomacal
+PAC-20518,Nauseas
+PAC-20519,Colesterol Alto
+PAC-20519,Presion Arterial Alta
+PAC-20519,Glucosa Elevada
+PAC-20520,Congestion Nasal
+PAC-20520,Tos
+PAC-20520,Dolor de Garganta
+PAC-20520,Dificultad Respiratoria
+PAC-20520,Fiebre
+PAC-20521,Mala Digestion
+PAC-20521,Reflujo Gastrico
+PAC-20521,Acidez Estomacal
+PAC-20521,Dolor Abdominal
+PAC-20522,Fatiga
+PAC-20522,Congestion Nasal
+PAC-20522,Tos
+PAC-20522,Dolor de Garganta
+PAC-20522,Fiebre
+PAC-20523,Fiebre
+PAC-20523,Dolor de Garganta
+PAC-20523,Sensibilidad a la Luz
+PAC-20523,Tos
+PAC-20524,Reflujo Gastrico
+PAC-20525,Colesterol Alto
+PAC-20525,Presion Arterial Alta
+PAC-20525,Glucosa Elevada
+PAC-20526,Fatiga
+PAC-20526,Congestion Nasal
+PAC-20526,Tos
+PAC-20526,Dolor de Garganta
+PAC-20526,Dificultad Respiratoria
+PAC-20526,Fiebre
+PAC-20527,Dolor de Cabeza Intenso
+PAC-20527,Sensibilidad al Ruido
+PAC-20527,Sensibilidad a la Luz
+PAC-20527,Nauseas
+PAC-20528,Mala Digestion
+PAC-20528,Reflujo Gastrico
+PAC-20529,Sensibilidad al Ruido
+PAC-20529,Sensibilidad a la Luz
+PAC-20529,Insomnio
+PAC-20530,Fatiga
+PAC-20530,Congestion Nasal
+PAC-20530,Reflujo Gastrico
+PAC-20530,Acidez Estomacal
+PAC-20530,Fiebre
+PAC-20531,Colesterol Alto
+PAC-20531,Presion Arterial Alta
+PAC-20531,Glucosa Elevada
+PAC-20532,Fatiga
+PAC-20532,Congestion Nasal
+PAC-20532,Tos
+PAC-20532,Dolor de Garganta
+PAC-20532,Dificultad Respiratoria
+PAC-20532,Fiebre
+PAC-20533,Fiebre
+PAC-20533,Dolor de Garganta
+PAC-20533,Congestion Nasal
+PAC-20533,Dificultad Respiratoria
+PAC-20534,Dolor de Cabeza Intenso
+PAC-20534,Nauseas
+PAC-20534,Sensibilidad a la Luz
+PAC-20534,Insomnio
+PAC-20535,Fiebre
+PAC-20535,Dificultad Respiratoria
+PAC-20535,Congestion Nasal
+PAC-20535,Tos
+PAC-20536,Dolor de Cabeza Intenso
+PAC-20536,Congestion Nasal
+PAC-20536,Insomnio
+PAC-20536,Sensibilidad al Ruido
+PAC-20536,Sensibilidad a la Luz
+PAC-20536,Nauseas
+PAC-20537,Colesterol Alto
+PAC-20537,Presion Arterial Alta
+PAC-20538,Mala Digestion
+PAC-20538,Dolor Abdominal
+PAC-20538,Glucosa Elevada
+PAC-20539,Mala Digestion
+PAC-20539,Reflujo Gastrico
+PAC-20539,Acidez Estomacal
+PAC-20539,Dolor Abdominal
+PAC-20540,Mala Digestion
+PAC-20540,Reflujo Gastrico
+PAC-20540,Acidez Estomacal
+PAC-20541,Fatiga
+PAC-20541,Tos
+PAC-20541,Dolor de Garganta
+PAC-20541,Dificultad Respiratoria
+PAC-20541,Fiebre
+PAC-20542,Mala Digestion
+PAC-20542,Reflujo Gastrico
+PAC-20542,Acidez Estomacal
+PAC-20543,Dolor de Cabeza Intenso
+PAC-20543,Insomnio
+PAC-20543,Sensibilidad al Ruido
+PAC-20543,Sensibilidad a la Luz
+PAC-20543,Nauseas
+PAC-20544,Dolor de Cabeza Intenso
+PAC-20544,Insomnio
+PAC-20544,Dificultad Respiratoria
+PAC-20544,Fiebre
+PAC-20544,Sensibilidad al Ruido
+PAC-20544,Nauseas
+PAC-20545,Congestion Nasal
+PAC-20545,Presion Arterial Alta
+PAC-20545,Tos
+PAC-20545,Dolor de Garganta
+PAC-20545,Glucosa Elevada
+PAC-20545,Fiebre
+PAC-20546,Colesterol Alto
+PAC-20546,Presion Arterial Alta
+PAC-20546,Glucosa Elevada
+PAC-20547,Fiebre
+PAC-20547,Dolor de Garganta
+PAC-20547,Tos
+PAC-20548,Mala Digestion
+PAC-20548,Reflujo Gastrico
+PAC-20548,Glucosa Elevada
+PAC-20549,Fiebre
+PAC-20549,Dolor de Garganta
+PAC-20549,Dificultad Respiratoria
+PAC-20549,Tos
+PAC-20550,Colesterol Alto
+PAC-20550,Presion Arterial Alta
+PAC-20550,Glucosa Elevada
+PAC-20551,Dolor de Cabeza Intenso
+PAC-20552,Mala Digestion
+PAC-20552,Acidez Estomacal
+PAC-20553,Mala Digestion
+PAC-20553,Reflujo Gastrico
+PAC-20553,Dolor Abdominal
+PAC-20554,Reflujo Gastrico
+PAC-20554,Acidez Estomacal
+PAC-20555,Fatiga
+PAC-20555,Congestion Nasal
+PAC-20555,Dificultad Respiratoria
+PAC-20555,Fiebre
+PAC-20555,Sensibilidad al Ruido
+PAC-20556,Dolor de Cabeza Intenso
+PAC-20556,Sensibilidad a la Luz
+PAC-20557,Fiebre
+PAC-20557,Tos
+PAC-20558,Fatiga
+PAC-20558,Presion Arterial Alta
+PAC-20558,Tos
+PAC-20558,Colesterol Alto
+PAC-20558,Dolor de Garganta
+PAC-20558,Dificultad Respiratoria
+PAC-20558,Glucosa Elevada
+PAC-20558,Fiebre
+PAC-20559,Mala Digestion
+PAC-20559,Reflujo Gastrico
+PAC-20559,Dolor Abdominal
+PAC-20559,Nauseas
+PAC-20560,Dolor de Cabeza Intenso
+PAC-20560,Insomnio
+PAC-20561,Fiebre
+PAC-20561,Dolor de Garganta
+PAC-20561,Congestion Nasal
+PAC-20562,Fiebre
+PAC-20562,Dolor de Garganta
+PAC-20562,Tos
+PAC-20563,Colesterol Alto
+PAC-20563,Presion Arterial Alta
+PAC-20564,Dolor de Cabeza Intenso
+PAC-20564,Sensibilidad al Ruido
+PAC-20564,Sensibilidad a la Luz
+PAC-20564,Insomnio
+PAC-20565,Presion Arterial Alta
+PAC-20565,Glucosa Elevada
+PAC-20566,Mala Digestion
+PAC-20566,Reflujo Gastrico
+PAC-20566,Acidez Estomacal
+PAC-20566,Dolor Abdominal
+PAC-20567,Colesterol Alto
+PAC-20567,Mala Digestion
+PAC-20567,Presion Arterial Alta
+PAC-20568,Fiebre
+PAC-20568,Dolor de Garganta
+PAC-20568,Dificultad Respiratoria
+PAC-20569,Fiebre
+PAC-20569,Fatiga
+PAC-20569,Congestion Nasal
+PAC-20570,Mala Digestion
+PAC-20570,Reflujo Gastrico
+PAC-20570,Dolor Abdominal
+PAC-20571,Mala Digestion
+PAC-20571,Dolor Abdominal
+PAC-20571,Congestion Nasal
+PAC-20571,Reflujo Gastrico
+PAC-20571,Dolor de Garganta
+PAC-20571,Dificultad Respiratoria
+PAC-20571,Acidez Estomacal
+PAC-20571,Nauseas
+PAC-20572,Dolor Abdominal
+PAC-20573,Colesterol Alto
+PAC-20573,Presion Arterial Alta
+PAC-20574,Mala Digestion
+PAC-20574,Reflujo Gastrico
+PAC-20575,Fatiga
+PAC-20575,Insomnio
+PAC-20575,Dolor de Garganta
+PAC-20575,Dificultad Respiratoria
+PAC-20575,Fiebre
+PAC-20575,Sensibilidad a la Luz
+PAC-20576,Nauseas
+PAC-20576,Sensibilidad a la Luz
+PAC-20576,Insomnio
+PAC-20577,Dolor de Cabeza Intenso
+PAC-20577,Sensibilidad al Ruido
+PAC-20577,Sensibilidad a la Luz
+PAC-20577,Nauseas
+PAC-20578,Dolor de Cabeza Intenso
+PAC-20578,Sensibilidad a la Luz
+PAC-20578,Insomnio
+PAC-20579,Colesterol Alto
+PAC-20579,Presion Arterial Alta
+PAC-20580,Dolor de Cabeza Intenso
+PAC-20580,Sensibilidad al Ruido
+PAC-20580,Nauseas
+PAC-20581,Mala Digestion
+PAC-20581,Fatiga
+PAC-20581,Dolor Abdominal
+PAC-20581,Tos
+PAC-20581,Reflujo Gastrico
+PAC-20581,Dolor de Garganta
+PAC-20581,Acidez Estomacal
+PAC-20581,Fiebre
+PAC-20582,Mala Digestion
+PAC-20582,Reflujo Gastrico
+PAC-20582,Acidez Estomacal
+PAC-20582,Dolor Abdominal
+PAC-20583,Fatiga
+PAC-20583,Congestion Nasal
+PAC-20583,Tos
+PAC-20583,Dolor de Garganta
+PAC-20583,Fiebre
+PAC-20583,Nauseas
+PAC-20584,Fiebre
+PAC-20584,Congestion Nasal
+PAC-20584,Tos
+PAC-20585,Dolor de Cabeza Intenso
+PAC-20585,Sensibilidad al Ruido
+PAC-20586,Mala Digestion
+PAC-20586,Reflujo Gastrico
+PAC-20586,Dolor Abdominal
+PAC-20587,Mala Digestion
+PAC-20588,Fatiga
+PAC-20588,Tos
+PAC-20588,Dolor de Garganta
+PAC-20588,Dificultad Respiratoria
+PAC-20588,Fiebre
+PAC-20589,Mala Digestion
+PAC-20589,Reflujo Gastrico
+PAC-20589,Acidez Estomacal
+PAC-20589,Sensibilidad al Ruido
+PAC-20590,Mala Digestion
+PAC-20590,Reflujo Gastrico
+PAC-20590,Acidez Estomacal
+PAC-20590,Dolor Abdominal
+PAC-20591,Dolor de Cabeza Intenso
+PAC-20591,Sensibilidad al Ruido
+PAC-20591,Nauseas
+PAC-20591,Insomnio
+PAC-20592,Reflujo Gastrico
+PAC-20592,Acidez Estomacal
+PAC-20593,Fiebre
+PAC-20593,Tos
+PAC-20594,Fiebre
+PAC-20594,Dolor de Garganta
+PAC-20595,Glucosa Elevada
+PAC-20596,Mala Digestion
+PAC-20596,Reflujo Gastrico
+PAC-20596,Acidez Estomacal
+PAC-20597,Dolor de Cabeza Intenso
+PAC-20597,Sensibilidad al Ruido
+PAC-20597,Sensibilidad a la Luz
+PAC-20597,Insomnio
+PAC-20598,Fiebre
+PAC-20598,Congestion Nasal
+PAC-20598,Tos
+PAC-20599,Mala Digestion
+PAC-20599,Nauseas
+PAC-20600,Fatiga
+PAC-20600,Congestion Nasal
+PAC-20600,Tos
+PAC-20600,Dolor de Garganta
+PAC-20600,Fiebre
+PAC-20601,Dolor de Cabeza Intenso
+PAC-20601,Tos
+PAC-20601,Insomnio
+PAC-20601,Dolor de Garganta
+PAC-20601,Fiebre
+PAC-20601,Sensibilidad a la Luz
+PAC-20602,Mala Digestion
+PAC-20602,Reflujo Gastrico
+PAC-20602,Dolor Abdominal
+PAC-20602,Nauseas
+PAC-20603,Dolor de Cabeza Intenso
+PAC-20603,Fatiga
+PAC-20603,Insomnio
+PAC-20603,Sensibilidad al Ruido
+PAC-20603,Sensibilidad a la Luz
+PAC-20604,Fiebre
+PAC-20604,Fatiga
+PAC-20604,Congestion Nasal
+PAC-20604,Tos
+PAC-20605,Fiebre
+PAC-20605,Dolor de Garganta
+PAC-20605,Congestion Nasal
+PAC-20605,Dificultad Respiratoria
+PAC-20606,Colesterol Alto
+PAC-20606,Presion Arterial Alta
+PAC-20606,Glucosa Elevada
+PAC-20607,Fiebre
+PAC-20607,Sensibilidad al Ruido
+PAC-20607,Sensibilidad a la Luz
+PAC-20607,Tos
+PAC-20608,Colesterol Alto
+PAC-20608,Presion Arterial Alta
+PAC-20608,Glucosa Elevada
+PAC-20609,Reflujo Gastrico
+PAC-20609,Acidez Estomacal
+PAC-20609,Nauseas
+PAC-20610,Dolor de Cabeza Intenso
+PAC-20610,Sensibilidad al Ruido
+PAC-20610,Sensibilidad a la Luz
+PAC-20610,Insomnio
+PAC-20611,Fatiga
+PAC-20611,Congestion Nasal
+PAC-20612,Fiebre
+PAC-20612,Fatiga
+PAC-20612,Congestion Nasal
+PAC-20612,Tos
+PAC-20613,Fatiga
+PAC-20613,Congestion Nasal
+PAC-20613,Dolor de Garganta
+PAC-20613,Dificultad Respiratoria
+PAC-20613,Fiebre
+PAC-20614,Fiebre
+PAC-20614,Fatiga
+PAC-20614,Dolor de Garganta
+PAC-20614,Tos
+PAC-20615,Dolor de Cabeza Intenso
+PAC-20615,Sensibilidad al Ruido
+PAC-20615,Sensibilidad a la Luz
+PAC-20616,Dolor de Cabeza Intenso
+PAC-20616,Sensibilidad a la Luz
+PAC-20616,Nauseas
+PAC-20617,Mala Digestion
+PAC-20617,Reflujo Gastrico
+PAC-20617,Acidez Estomacal
+PAC-20617,Nauseas
+PAC-20618,Fiebre
+PAC-20618,Fatiga
+PAC-20618,Dolor de Garganta
+PAC-20618,Tos
+PAC-20619,Dolor de Garganta
+PAC-20619,Tos
+PAC-20620,Fiebre
+PAC-20620,Fatiga
+PAC-20620,Dolor de Garganta
+PAC-20620,Tos
+PAC-20621,Fatiga
+PAC-20621,Tos
+PAC-20621,Dolor de Garganta
+PAC-20621,Dificultad Respiratoria
+PAC-20621,Fiebre
+PAC-20622,Dolor de Cabeza Intenso
+PAC-20622,Sensibilidad a la Luz
+PAC-20622,Insomnio
+PAC-20623,Mala Digestion
+PAC-20623,Reflujo Gastrico
+PAC-20623,Acidez Estomacal
+PAC-20623,Dolor Abdominal
+PAC-20624,Fiebre
+PAC-20624,Fatiga
+PAC-20624,Congestion Nasal
+PAC-20624,Tos
+PAC-20625,Fiebre
+PAC-20625,Dolor de Garganta
+PAC-20625,Congestion Nasal
+PAC-20625,Tos
+PAC-20626,Mala Digestion
+PAC-20626,Acidez Estomacal
+PAC-20627,Fiebre
+PAC-20627,Sensibilidad al Ruido
+PAC-20627,Dolor de Cabeza Intenso
+PAC-20627,Tos
+PAC-20628,Dolor de Cabeza Intenso
+PAC-20628,Sensibilidad a la Luz
+PAC-20628,Insomnio
+PAC-20629,Fatiga
+PAC-20629,Sensibilidad a la Luz
+PAC-20629,Presion Arterial Alta
+PAC-20629,Glucosa Elevada
+PAC-20630,Fatiga
+PAC-20630,Tos
+PAC-20630,Dolor de Garganta
+PAC-20630,Dificultad Respiratoria
+PAC-20630,Fiebre
+PAC-20631,Dolor de Cabeza Intenso
+PAC-20631,Insomnio
+PAC-20632,Colesterol Alto
+PAC-20632,Presion Arterial Alta
+PAC-20632,Glucosa Elevada
+PAC-20633,Fatiga
+PAC-20633,Congestion Nasal
+PAC-20633,Tos
+PAC-20633,Dolor de Garganta
+PAC-20633,Fiebre
+PAC-20634,Dolor de Cabeza Intenso
+PAC-20634,Sensibilidad al Ruido
+PAC-20634,Sensibilidad a la Luz
+PAC-20635,Fatiga
+PAC-20635,Congestion Nasal
+PAC-20635,Tos
+PAC-20635,Reflujo Gastrico
+PAC-20635,Dolor de Garganta
+PAC-20635,Fiebre
+PAC-20636,Fatiga
+PAC-20636,Congestion Nasal
+PAC-20636,Tos
+PAC-20636,Dolor de Garganta
+PAC-20636,Dificultad Respiratoria
+PAC-20636,Fiebre
+PAC-20637,Sensibilidad a la Luz
+PAC-20637,Insomnio
+PAC-20638,Colesterol Alto
+PAC-20638,Glucosa Elevada
+PAC-20639,Fiebre
+PAC-20639,Fatiga
+PAC-20639,Dolor de Garganta
+PAC-20639,Tos
+PAC-20640,Mala Digestion
+PAC-20640,Reflujo Gastrico
+PAC-20640,Acidez Estomacal
+PAC-20641,Mala Digestion
+PAC-20641,Reflujo Gastrico
+PAC-20641,Acidez Estomacal
+PAC-20641,Dolor Abdominal
+PAC-20642,Dolor de Cabeza Intenso
+PAC-20642,Sensibilidad al Ruido
+PAC-20642,Insomnio
+PAC-20643,Fiebre
+PAC-20644,Congestion Nasal
+PAC-20644,Tos
+PAC-20644,Dolor de Garganta
+PAC-20644,Fiebre
+PAC-20644,Sensibilidad a la Luz
+PAC-20645,Mala Digestion
+PAC-20645,Reflujo Gastrico
+PAC-20645,Acidez Estomacal
+PAC-20645,Dolor Abdominal
+PAC-20646,Fiebre
+PAC-20646,Dolor de Garganta
+PAC-20646,Dificultad Respiratoria
+PAC-20646,Tos
+PAC-20647,Dolor de Cabeza Intenso
+PAC-20647,Sensibilidad a la Luz
+PAC-20647,Insomnio
+PAC-20648,Dolor de Cabeza Intenso
+PAC-20648,Dolor Abdominal
+PAC-20648,Insomnio
+PAC-20648,Reflujo Gastrico
+PAC-20648,Sensibilidad al Ruido
+PAC-20648,Sensibilidad a la Luz
+PAC-20648,Nauseas
+PAC-20649,Colesterol Alto
+PAC-20649,Glucosa Elevada
+PAC-20650,Dolor de Cabeza Intenso
+PAC-20650,Sensibilidad al Ruido
+PAC-20650,Nauseas
+PAC-20651,Fiebre
+PAC-20651,Dolor de Garganta
+PAC-20651,Congestion Nasal
+PAC-20651,Tos
+PAC-20652,Dolor de Cabeza Intenso
+PAC-20652,Sensibilidad al Ruido
+PAC-20652,Sensibilidad a la Luz
+PAC-20652,Nauseas
+PAC-20653,Sensibilidad al Ruido
+PAC-20653,Sensibilidad a la Luz
+PAC-20654,Dolor de Cabeza Intenso
+PAC-20654,Sensibilidad al Ruido
+PAC-20654,Sensibilidad a la Luz
+PAC-20655,Fiebre
+PAC-20655,Fatiga
+PAC-20655,Dolor de Garganta
+PAC-20655,Congestion Nasal
+PAC-20656,Sensibilidad a la Luz
+PAC-20657,Fatiga
+PAC-20657,Presion Arterial Alta
+PAC-20657,Tos
+PAC-20657,Colesterol Alto
+PAC-20657,Glucosa Elevada
+PAC-20657,Fiebre
+PAC-20658,Fatiga
+PAC-20658,Congestion Nasal
+PAC-20658,Tos
+PAC-20658,Dificultad Respiratoria
+PAC-20658,Fiebre
+PAC-20659,Fiebre
+PAC-20659,Dolor de Garganta
+PAC-20659,Congestion Nasal
+PAC-20659,Tos
+PAC-20660,Dolor de Cabeza Intenso
+PAC-20660,Sensibilidad al Ruido
+PAC-20660,Sensibilidad a la Luz
+PAC-20661,Fatiga
+PAC-20661,Tos
+PAC-20661,Dolor de Garganta
+PAC-20661,Dificultad Respiratoria
+PAC-20661,Fiebre
+PAC-20662,Reflujo Gastrico
+PAC-20662,Acidez Estomacal
+PAC-20662,Sensibilidad a la Luz
+PAC-20662,Sensibilidad al Ruido
+PAC-20663,Fiebre
+PAC-20663,Dolor de Garganta
+PAC-20663,Congestion Nasal
+PAC-20663,Tos
+PAC-20664,Colesterol Alto
+PAC-20664,Presion Arterial Alta
+PAC-20664,Glucosa Elevada
+PAC-20665,Mala Digestion
+PAC-20665,Reflujo Gastrico
+PAC-20665,Acidez Estomacal
+PAC-20665,Dolor Abdominal
+PAC-20666,Colesterol Alto
+PAC-20666,Glucosa Elevada
+PAC-20667,Fatiga
+PAC-20667,Dolor de Garganta
+PAC-20667,Congestion Nasal
+PAC-20667,Dificultad Respiratoria
+PAC-20668,Colesterol Alto
+PAC-20668,Sensibilidad al Ruido
+PAC-20668,Nauseas
+PAC-20668,Glucosa Elevada
+PAC-20669,Dolor de Cabeza Intenso
+PAC-20669,Sensibilidad al Ruido
+PAC-20669,Sensibilidad a la Luz
+PAC-20670,Dolor de Cabeza Intenso
+PAC-20670,Sensibilidad al Ruido
+PAC-20670,Nauseas
+PAC-20670,Insomnio
+PAC-20671,Dolor de Garganta
+PAC-20671,Congestion Nasal
+PAC-20671,Tos
+PAC-20672,Mala Digestion
+PAC-20672,Reflujo Gastrico
+PAC-20673,Dolor de Cabeza Intenso
+PAC-20673,Sensibilidad al Ruido
+PAC-20673,Sensibilidad a la Luz
+PAC-20673,Insomnio
+PAC-20674,Dolor de Cabeza Intenso
+PAC-20674,Insomnio
+PAC-20675,Fatiga
+PAC-20675,Tos
+PAC-20675,Dolor de Garganta
+PAC-20675,Dificultad Respiratoria
+PAC-20675,Fiebre
+PAC-20676,Fatiga
+PAC-20676,Congestion Nasal
+PAC-20676,Tos
+PAC-20676,Dolor de Garganta
+PAC-20676,Fiebre
+PAC-20677,Acidez Estomacal
+PAC-20677,Dolor Abdominal
+PAC-20678,Fiebre
+PAC-20678,Dolor de Garganta
+PAC-20678,Congestion Nasal
+PAC-20678,Tos
+PAC-20679,Congestion Nasal
+PAC-20679,Presion Arterial Alta
+PAC-20679,Tos
+PAC-20679,Colesterol Alto
+PAC-20679,Dolor de Garganta
+PAC-20679,Glucosa Elevada
+PAC-20680,Dolor de Cabeza Intenso
+PAC-20680,Fatiga
+PAC-20680,Congestion Nasal
+PAC-20680,Tos
+PAC-20680,Sensibilidad al Ruido
+PAC-20680,Sensibilidad a la Luz
+PAC-20681,Mala Digestion
+PAC-20681,Dolor Abdominal
+PAC-20681,Reflujo Gastrico
+PAC-20681,Glucosa Elevada
+PAC-20681,Acidez Estomacal
+PAC-20681,Nauseas
+PAC-20682,Mala Digestion
+PAC-20682,Acidez Estomacal
+PAC-20683,Mala Digestion
+PAC-20683,Reflujo Gastrico
+PAC-20683,Acidez Estomacal
+PAC-20683,Nauseas
+PAC-20684,Mala Digestion
+PAC-20684,Acidez Estomacal
+PAC-20685,Reflujo Gastrico
+PAC-20685,Acidez Estomacal
+PAC-20686,Fatiga
+PAC-20686,Congestion Nasal
+PAC-20686,Tos
+PAC-20686,Dolor de Garganta
+PAC-20686,Fiebre
+PAC-20687,Fiebre
+PAC-20687,Fatiga
+PAC-20687,Dificultad Respiratoria
+PAC-20687,Congestion Nasal
+PAC-20688,Fatiga
+PAC-20688,Presion Arterial Alta
+PAC-20688,Dolor de Garganta
+PAC-20688,Dificultad Respiratoria
+PAC-20688,Glucosa Elevada
+PAC-20688,Fiebre
+PAC-20689,Fatiga
+PAC-20689,Congestion Nasal
+PAC-20689,Tos
+PAC-20689,Dolor de Garganta
+PAC-20689,Fiebre
+PAC-20690,Presion Arterial Alta
+PAC-20690,Glucosa Elevada
+PAC-20691,Dolor de Cabeza Intenso
+PAC-20691,Sensibilidad al Ruido
+PAC-20691,Sensibilidad a la Luz
+PAC-20692,Dolor de Cabeza Intenso
+PAC-20692,Sensibilidad al Ruido
+PAC-20692,Sensibilidad a la Luz
+PAC-20692,Insomnio
+PAC-20693,Fiebre
+PAC-20693,Dolor de Garganta
+PAC-20693,Congestion Nasal
+PAC-20693,Tos
+PAC-20694,Dolor de Cabeza Intenso
+PAC-20694,Congestion Nasal
+PAC-20694,Tos
+PAC-20694,Dolor de Garganta
+PAC-20694,Fiebre
+PAC-20695,Fiebre
+PAC-20695,Congestion Nasal
+PAC-20695,Tos
+PAC-20696,Fiebre
+PAC-20696,Fatiga
+PAC-20696,Congestion Nasal
+PAC-20697,Dolor de Cabeza Intenso
+PAC-20697,Sensibilidad a la Luz
+PAC-20697,Insomnio
+PAC-20698,Fatiga
+PAC-20698,Congestion Nasal
+PAC-20698,Tos
+PAC-20698,Dolor de Garganta
+PAC-20698,Dificultad Respiratoria
+PAC-20698,Fiebre
+PAC-20699,Mala Digestion
+PAC-20699,Acidez Estomacal
+PAC-20699,Nauseas
+PAC-20700,Mala Digestion
+PAC-20700,Reflujo Gastrico
+PAC-20700,Dolor Abdominal
+PAC-20700,Nauseas
+PAC-20701,Mala Digestion
+PAC-20701,Reflujo Gastrico
+PAC-20701,Acidez Estomacal
+PAC-20701,Dolor Abdominal
+PAC-20702,Fatiga
+PAC-20702,Dolor Abdominal
+PAC-20702,Tos
+PAC-20702,Dolor de Garganta
+PAC-20702,Acidez Estomacal
+PAC-20702,Fiebre
+PAC-20703,Fatiga
+PAC-20703,Dificultad Respiratoria
+PAC-20703,Tos
+PAC-20704,Acidez Estomacal
+PAC-20705,Sensibilidad al Ruido
+PAC-20705,Sensibilidad a la Luz
+PAC-20705,Nauseas
+PAC-20705,Insomnio
+PAC-20706,Fatiga
+PAC-20706,Congestion Nasal
+PAC-20706,Tos
+PAC-20707,Dolor de Cabeza Intenso
+PAC-20707,Sensibilidad al Ruido
+PAC-20707,Sensibilidad a la Luz
+PAC-20707,Insomnio
+PAC-20708,Colesterol Alto
+PAC-20708,Presion Arterial Alta
+PAC-20708,Glucosa Elevada
+PAC-20709,Colesterol Alto
+PAC-20709,Fatiga
+PAC-20709,Glucosa Elevada
+PAC-20710,Fatiga
+PAC-20710,Congestion Nasal
+PAC-20710,Tos
+PAC-20710,Dolor de Garganta
+PAC-20710,Dificultad Respiratoria
+PAC-20711,Fiebre
+PAC-20711,Dificultad Respiratoria
+PAC-20711,Tos
+PAC-20712,Fatiga
+PAC-20712,Congestion Nasal
+PAC-20712,Dolor de Garganta
+PAC-20712,Dificultad Respiratoria
+PAC-20712,Fiebre
+PAC-20713,Reflujo Gastrico
+PAC-20713,Acidez Estomacal
+PAC-20714,Mala Digestion
+PAC-20714,Dolor Abdominal
+PAC-20714,Reflujo Gastrico
+PAC-20714,Acidez Estomacal
+PAC-20714,Nauseas
+PAC-20715,Mala Digestion
+PAC-20715,Reflujo Gastrico
+PAC-20715,Dificultad Respiratoria
+PAC-20715,Nauseas
+PAC-20716,Dolor de Cabeza Intenso
+PAC-20716,Congestion Nasal
+PAC-20716,Insomnio
+PAC-20716,Sensibilidad al Ruido
+PAC-20716,Sensibilidad a la Luz
+PAC-20716,Nauseas
+PAC-20717,Colesterol Alto
+PAC-20717,Presion Arterial Alta
+PAC-20717,Glucosa Elevada
+PAC-20718,Reflujo Gastrico
+PAC-20718,Dolor Abdominal
+PAC-20719,Fiebre
+PAC-20719,Dolor de Garganta
+PAC-20719,Congestion Nasal
+PAC-20719,Tos
+PAC-20720,Fatiga
+PAC-20720,Congestion Nasal
+PAC-20720,Tos
+PAC-20720,Dolor de Garganta
+PAC-20720,Dificultad Respiratoria
+PAC-20720,Sensibilidad a la Luz
+PAC-20721,Mala Digestion
+PAC-20721,Reflujo Gastrico
+PAC-20721,Acidez Estomacal
+PAC-20721,Dolor Abdominal
+PAC-20722,Dolor de Cabeza Intenso
+PAC-20722,Mala Digestion
+PAC-20722,Dolor Abdominal
+PAC-20722,Acidez Estomacal
+PAC-20722,Sensibilidad a la Luz
+PAC-20723,Dolor de Cabeza Intenso
+PAC-20723,Insomnio
+PAC-20724,Mala Digestion
+PAC-20725,Fatiga
+PAC-20725,Congestion Nasal
+PAC-20725,Tos
+PAC-20725,Dolor de Garganta
+PAC-20725,Dificultad Respiratoria
+PAC-20725,Fiebre
+PAC-20726,Mala Digestion
+PAC-20726,Reflujo Gastrico
+PAC-20726,Acidez Estomacal
+PAC-20726,Nauseas
+PAC-20727,Fatiga
+PAC-20727,Dolor de Garganta
+PAC-20727,Congestion Nasal
+PAC-20727,Tos
+PAC-20728,Mala Digestion
+PAC-20728,Acidez Estomacal
+PAC-20728,Nauseas
+PAC-20729,Acidez Estomacal
+PAC-20729,Dolor Abdominal
+PAC-20730,Colesterol Alto
+PAC-20730,Fatiga
+PAC-20730,Presion Arterial Alta
+PAC-20731,Dolor de Cabeza Intenso
+PAC-20731,Insomnio
+PAC-20731,Sensibilidad al Ruido
+PAC-20731,Sensibilidad a la Luz
+PAC-20731,Nauseas
+PAC-20732,Mala Digestion
+PAC-20732,Dolor Abdominal
+PAC-20732,Reflujo Gastrico
+PAC-20732,Acidez Estomacal
+PAC-20732,Nauseas
+PAC-20733,Fiebre
+PAC-20733,Dolor de Garganta
+PAC-20733,Congestion Nasal
+PAC-20733,Tos
+PAC-20734,Mala Digestion
+PAC-20734,Reflujo Gastrico
+PAC-20734,Acidez Estomacal
+PAC-20734,Nauseas
+PAC-20735,Fiebre
+PAC-20735,Fatiga
+PAC-20735,Dificultad Respiratoria
+PAC-20735,Tos
+PAC-20736,Dolor de Cabeza Intenso
+PAC-20736,Sensibilidad a la Luz
+PAC-20736,Insomnio
+PAC-20737,Dolor de Cabeza Intenso
+PAC-20737,Sensibilidad al Ruido
+PAC-20737,Sensibilidad a la Luz
+PAC-20737,Insomnio
+PAC-20738,Dolor de Garganta
+PAC-20738,Tos
+PAC-20739,Fiebre
+PAC-20739,Dolor de Garganta
+PAC-20739,Congestion Nasal
+PAC-20740,Fiebre
+PAC-20740,Dolor de Garganta
+PAC-20740,Congestion Nasal
+PAC-20740,Tos
+PAC-20741,Dolor de Cabeza Intenso
+PAC-20741,Fatiga
+PAC-20741,Insomnio
+PAC-20741,Colesterol Alto
+PAC-20741,Sensibilidad a la Luz
+PAC-20742,Dolor de Cabeza Intenso
+PAC-20742,Sensibilidad al Ruido
+PAC-20742,Sensibilidad a la Luz
+PAC-20742,Insomnio
+PAC-20743,Dolor de Cabeza Intenso
+PAC-20743,Sensibilidad al Ruido
+PAC-20743,Sensibilidad a la Luz
+PAC-20743,Nauseas
+PAC-20744,Mala Digestion
+PAC-20744,Fatiga
+PAC-20744,Dolor Abdominal
+PAC-20744,Congestion Nasal
+PAC-20744,Reflujo Gastrico
+PAC-20744,Acidez Estomacal
+PAC-20744,Nauseas
+PAC-20745,Fiebre
+PAC-20745,Dolor de Garganta
+PAC-20745,Congestion Nasal
+PAC-20746,Fiebre
+PAC-20746,Dolor de Garganta
+PAC-20746,Congestion Nasal
+PAC-20746,Tos
+PAC-20747,Mala Digestion
+PAC-20747,Reflujo Gastrico
+PAC-20747,Acidez Estomacal
+PAC-20748,Dolor de Cabeza Intenso
+PAC-20748,Nauseas
+PAC-20748,Insomnio
+PAC-20749,Sensibilidad al Ruido
+PAC-20749,Sensibilidad a la Luz
+PAC-20749,Insomnio
+PAC-20750,Colesterol Alto
+PAC-20750,Fatiga
+PAC-20750,Presion Arterial Alta
+PAC-20750,Glucosa Elevada
+PAC-20751,Dolor de Cabeza Intenso
+PAC-20751,Nauseas
+PAC-20751,Sensibilidad a la Luz
+PAC-20751,Insomnio
+PAC-20752,Sensibilidad al Ruido
+PAC-20753,Colesterol Alto
+PAC-20753,Fatiga
+PAC-20753,Presion Arterial Alta
+PAC-20753,Glucosa Elevada
+PAC-20754,Dolor de Cabeza Intenso
+PAC-20754,Sensibilidad al Ruido
+PAC-20754,Insomnio
+PAC-20755,Dolor de Cabeza Intenso
+PAC-20755,Sensibilidad a la Luz
+PAC-20755,Insomnio
+PAC-20756,Dolor de Cabeza Intenso
+PAC-20756,Insomnio
+PAC-20756,Sensibilidad al Ruido
+PAC-20756,Sensibilidad a la Luz
+PAC-20756,Nauseas
+PAC-20757,Fiebre
+PAC-20757,Dolor de Garganta
+PAC-20757,Dificultad Respiratoria
+PAC-20757,Tos
+PAC-20758,Colesterol Alto
+PAC-20758,Presion Arterial Alta
+PAC-20759,Mala Digestion
+PAC-20759,Acidez Estomacal
+PAC-20760,Mala Digestion
+PAC-20760,Acidez Estomacal
+PAC-20760,Nauseas
+PAC-20761,Reflujo Gastrico
+PAC-20761,Acidez Estomacal
+PAC-20761,Dolor Abdominal
+PAC-20761,Tos
+PAC-20762,Colesterol Alto
+PAC-20762,Fatiga
+PAC-20762,Presion Arterial Alta
+PAC-20763,Fatiga
+PAC-20763,Congestion Nasal
+PAC-20763,Dolor Abdominal
+PAC-20763,Tos
+PAC-20763,Reflujo Gastrico
+PAC-20763,Dolor de Garganta
+PAC-20763,Fiebre
+PAC-20763,Nauseas
+PAC-20764,Mala Digestion
+PAC-20764,Fatiga
+PAC-20764,Presion Arterial Alta
+PAC-20764,Colesterol Alto
+PAC-20764,Reflujo Gastrico
+PAC-20764,Nauseas
+PAC-20765,Fiebre
+PAC-20765,Fatiga
+PAC-20766,Fatiga
+PAC-20766,Tos
+PAC-20766,Dolor de Garganta
+PAC-20766,Dificultad Respiratoria
+PAC-20766,Fiebre
+PAC-20767,Fiebre
+PAC-20767,Fatiga
+PAC-20767,Dificultad Respiratoria
+PAC-20767,Congestion Nasal
+PAC-20768,Presion Arterial Alta
+PAC-20768,Glucosa Elevada
+PAC-20769,Reflujo Gastrico
+PAC-20769,Acidez Estomacal
+PAC-20770,Colesterol Alto
+PAC-20770,Fatiga
+PAC-20770,Presion Arterial Alta
+PAC-20770,Glucosa Elevada
+PAC-20771,Fatiga
+PAC-20771,Congestion Nasal
+PAC-20771,Tos
+PAC-20771,Dolor de Garganta
+PAC-20771,Fiebre
+PAC-20772,Dolor de Cabeza Intenso
+PAC-20772,Sensibilidad al Ruido
+PAC-20772,Sensibilidad a la Luz
+PAC-20773,Dolor de Cabeza Intenso
+PAC-20773,Insomnio
+PAC-20774,Fiebre
+PAC-20774,Colesterol Alto
+PAC-20774,Congestion Nasal
+PAC-20774,Tos
+PAC-20775,Presion Arterial Alta
+PAC-20775,Glucosa Elevada
+PAC-20776,Nauseas
+PAC-20777,Dolor de Cabeza Intenso
+PAC-20777,Sensibilidad al Ruido
+PAC-20777,Insomnio
+PAC-20778,Fatiga
+PAC-20778,Congestion Nasal
+PAC-20778,Tos
+PAC-20778,Dolor de Garganta
+PAC-20778,Dificultad Respiratoria
+PAC-20778,Fiebre
+PAC-20779,Nauseas
+PAC-20779,Sensibilidad a la Luz
+PAC-20779,Insomnio
+PAC-20780,Colesterol Alto
+PAC-20780,Presion Arterial Alta
+PAC-20780,Glucosa Elevada
+PAC-20781,Mala Digestion
+PAC-20781,Congestion Nasal
+PAC-20781,Tos
+PAC-20781,Dificultad Respiratoria
+PAC-20781,Fiebre
+PAC-20782,Fiebre
+PAC-20782,Fatiga
+PAC-20782,Dolor de Garganta
+PAC-20783,Acidez Estomacal
+PAC-20784,Mala Digestion
+PAC-20784,Fatiga
+PAC-20784,Dolor Abdominal
+PAC-20784,Tos
+PAC-20784,Reflujo Gastrico
+PAC-20784,Fiebre
+PAC-20785,Dolor de Garganta
+PAC-20785,Dificultad Respiratoria
+PAC-20786,Fiebre
+PAC-20786,Congestion Nasal
+PAC-20786,Tos
+PAC-20787,Mala Digestion
+PAC-20787,Reflujo Gastrico
+PAC-20787,Presion Arterial Alta
+PAC-20788,Dolor de Cabeza Intenso
+PAC-20788,Sensibilidad al Ruido
+PAC-20788,Sensibilidad a la Luz
+PAC-20788,Nauseas
+PAC-20789,Mala Digestion
+PAC-20789,Nauseas
+PAC-20790,Fiebre
+PAC-20790,Dolor de Garganta
+PAC-20790,Tos
+PAC-20791,Mala Digestion
+PAC-20791,Reflujo Gastrico
+PAC-20791,Acidez Estomacal
+PAC-20792,Fatiga
+PAC-20792,Congestion Nasal
+PAC-20792,Tos
+PAC-20792,Dolor de Garganta
+PAC-20792,Dificultad Respiratoria
+PAC-20792,Fiebre
+PAC-20793,Dolor de Cabeza Intenso
+PAC-20793,Sensibilidad a la Luz
+PAC-20794,Mala Digestion
+PAC-20794,Dolor Abdominal
+PAC-20794,Reflujo Gastrico
+PAC-20794,Acidez Estomacal
+PAC-20794,Sensibilidad al Ruido
+PAC-20794,Nauseas
+PAC-20795,Fiebre
+PAC-20795,Dolor de Garganta
+PAC-20795,Congestion Nasal
+PAC-20795,Tos
+PAC-20796,Dolor de Cabeza Intenso
+PAC-20796,Sensibilidad al Ruido
+PAC-20796,Sensibilidad a la Luz
+PAC-20797,Fatiga
+PAC-20797,Congestion Nasal
+PAC-20797,Tos
+PAC-20797,Dolor de Garganta
+PAC-20797,Fiebre
+PAC-20797,Sensibilidad al Ruido
+PAC-20797,Sensibilidad a la Luz
+PAC-20798,Colesterol Alto
+PAC-20798,Presion Arterial Alta
+PAC-20798,Glucosa Elevada
+PAC-20799,Mala Digestion
+PAC-20799,Dolor Abdominal
+PAC-20799,Reflujo Gastrico
+PAC-20799,Dolor de Garganta
+PAC-20799,Acidez Estomacal
+PAC-20799,Nauseas
+PAC-20800,Mala Digestion
+PAC-20800,Reflujo Gastrico
+PAC-20801,Fatiga
+PAC-20801,Presion Arterial Alta
+PAC-20801,Colesterol Alto
+PAC-20801,Dolor de Garganta
+PAC-20801,Dificultad Respiratoria
+PAC-20801,Glucosa Elevada
+PAC-20801,Fiebre
+PAC-20802,Colesterol Alto
+PAC-20802,Presion Arterial Alta
+PAC-20802,Glucosa Elevada
+PAC-20803,Fatiga
+PAC-20803,Congestion Nasal
+PAC-20803,Tos
+PAC-20803,Dolor de Garganta
+PAC-20803,Dificultad Respiratoria
+PAC-20803,Fiebre
+PAC-20804,Fiebre
+PAC-20804,Dolor de Garganta
+PAC-20805,Fatiga
+PAC-20805,Presion Arterial Alta
+PAC-20805,Glucosa Elevada
+PAC-20806,Colesterol Alto
+PAC-20806,Presion Arterial Alta
+PAC-20806,Glucosa Elevada
+PAC-20807,Fatiga
+PAC-20807,Congestion Nasal
+PAC-20807,Tos
+PAC-20807,Dolor de Garganta
+PAC-20807,Fiebre
+PAC-20808,Mala Digestion
+PAC-20808,Reflujo Gastrico
+PAC-20808,Dolor Abdominal
+PAC-20809,Fiebre
+PAC-20809,Dolor de Garganta
+PAC-20809,Congestion Nasal
+PAC-20809,Tos
+PAC-20810,Fiebre
+PAC-20810,Dolor de Garganta
+PAC-20810,Congestion Nasal
+PAC-20810,Tos
+PAC-20811,Mala Digestion
+PAC-20811,Reflujo Gastrico
+PAC-20811,Dolor Abdominal
+PAC-20812,Fiebre
+PAC-20812,Fatiga
+PAC-20812,Dolor de Garganta
+PAC-20812,Congestion Nasal
+PAC-20813,Mala Digestion
+PAC-20813,Reflujo Gastrico
+PAC-20813,Acidez Estomacal
+PAC-20813,Nauseas
+PAC-20814,Sensibilidad al Ruido
+PAC-20814,Sensibilidad a la Luz
+PAC-20814,Glucosa Elevada
+PAC-20815,Colesterol Alto
+PAC-20815,Presion Arterial Alta
+PAC-20815,Glucosa Elevada
+PAC-20816,Mala Digestion
+PAC-20816,Reflujo Gastrico
+PAC-20817,Fiebre
+PAC-20817,Fatiga
+PAC-20817,Congestion Nasal
+PAC-20817,Tos
+PAC-20818,Colesterol Alto
+PAC-20818,Acidez Estomacal
+PAC-20818,Presion Arterial Alta
+PAC-20818,Glucosa Elevada
+PAC-20819,Mala Digestion
+PAC-20819,Reflujo Gastrico
+PAC-20819,Nauseas
+PAC-20820,Fiebre
+PAC-20820,Fatiga
+PAC-20820,Dolor de Garganta
+PAC-20820,Congestion Nasal
+PAC-20821,Mala Digestion
+PAC-20821,Acidez Estomacal
+PAC-20822,Dolor de Cabeza Intenso
+PAC-20822,Sensibilidad al Ruido
+PAC-20822,Insomnio
+PAC-20823,Mala Digestion
+PAC-20823,Reflujo Gastrico
+PAC-20824,Mala Digestion
+PAC-20824,Dolor Abdominal
+PAC-20824,Reflujo Gastrico
+PAC-20824,Acidez Estomacal
+PAC-20824,Nauseas
+PAC-20825,Fiebre
+PAC-20825,Dolor de Garganta
+PAC-20825,Tos
+PAC-20826,Mala Digestion
+PAC-20826,Reflujo Gastrico
+PAC-20827,Fiebre
+PAC-20827,Congestion Nasal
+PAC-20827,Tos
+PAC-20828,Fatiga
+PAC-20828,Congestion Nasal
+PAC-20828,Tos
+PAC-20828,Dolor de Garganta
+PAC-20828,Dificultad Respiratoria
+PAC-20828,Fiebre
+PAC-20829,Fatiga
+PAC-20829,Congestion Nasal
+PAC-20829,Tos
+PAC-20829,Dolor de Garganta
+PAC-20829,Dificultad Respiratoria
+PAC-20829,Fiebre
+PAC-20830,Mala Digestion
+PAC-20830,Acidez Estomacal
+PAC-20830,Dolor Abdominal
+PAC-20831,Fiebre
+PAC-20831,Fatiga
+PAC-20831,Dolor de Garganta
+PAC-20831,Tos
+PAC-20832,Colesterol Alto
+PAC-20833,Dolor de Cabeza Intenso
+PAC-20833,Sensibilidad al Ruido
+PAC-20833,Sensibilidad a la Luz
+PAC-20834,Dolor de Cabeza Intenso
+PAC-20834,Sensibilidad a la Luz
+PAC-20834,Insomnio
+PAC-20835,Colesterol Alto
+PAC-20835,Presion Arterial Alta
+PAC-20835,Glucosa Elevada
+PAC-20836,Mala Digestion
+PAC-20836,Reflujo Gastrico
+PAC-20836,Acidez Estomacal
+PAC-20836,Nauseas
+PAC-20837,Congestion Nasal
+PAC-20837,Presion Arterial Alta
+PAC-20837,Colesterol Alto
+PAC-20837,Dolor de Garganta
+PAC-20837,Glucosa Elevada
+PAC-20837,Fiebre
+PAC-20838,Mala Digestion
+PAC-20838,Reflujo Gastrico
+PAC-20838,Acidez Estomacal
+PAC-20839,Presion Arterial Alta
+PAC-20839,Glucosa Elevada
+PAC-20840,Mala Digestion
+PAC-20840,Dolor Abdominal
+PAC-20841,Mala Digestion
+PAC-20841,Reflujo Gastrico
+PAC-20841,Acidez Estomacal
+PAC-20841,Sensibilidad a la Luz
+PAC-20841,Nauseas
+PAC-20842,Fiebre
+PAC-20842,Dolor de Garganta
+PAC-20842,Congestion Nasal
+PAC-20842,Tos
+PAC-20843,Dolor de Garganta
+PAC-20843,Tos
+PAC-20844,Mala Digestion
+PAC-20844,Fatiga
+PAC-20844,Presion Arterial Alta
+PAC-20844,Colesterol Alto
+PAC-20844,Reflujo Gastrico
+PAC-20844,Glucosa Elevada
+PAC-20844,Acidez Estomacal
+PAC-20845,Fiebre
+PAC-20845,Dolor de Garganta
+PAC-20845,Tos
+PAC-20846,Mala Digestion
+PAC-20846,Dolor Abdominal
+PAC-20846,Reflujo Gastrico
+PAC-20846,Acidez Estomacal
+PAC-20846,Nauseas
+PAC-20847,Fiebre
+PAC-20847,Presion Arterial Alta
+PAC-20847,Tos
+PAC-20848,Mala Digestion
+PAC-20848,Dolor Abdominal
+PAC-20848,Tos
+PAC-20848,Reflujo Gastrico
+PAC-20848,Dolor de Garganta
+PAC-20848,Dificultad Respiratoria
+PAC-20848,Acidez Estomacal
+PAC-20849,Dolor de Cabeza Intenso
+PAC-20849,Insomnio
+PAC-20849,Sensibilidad al Ruido
+PAC-20849,Sensibilidad a la Luz
+PAC-20849,Nauseas
+PAC-20850,Mala Digestion
+PAC-20850,Reflujo Gastrico
+PAC-20851,Dolor de Garganta
+PAC-20851,Tos
+PAC-20852,Dolor de Cabeza Intenso
+PAC-20852,Nauseas
+PAC-20852,Sensibilidad a la Luz
+PAC-20852,Insomnio
+PAC-20853,Sensibilidad al Ruido
+PAC-20853,Nauseas
+PAC-20854,Dolor de Cabeza Intenso
+PAC-20854,Sensibilidad al Ruido
+PAC-20854,Sensibilidad a la Luz
+PAC-20855,Dolor de Cabeza Intenso
+PAC-20855,Sensibilidad a la Luz
+PAC-20856,Fiebre
+PAC-20856,Fatiga
+PAC-20856,Congestion Nasal
+PAC-20856,Tos
+PAC-20857,Fatiga
+PAC-20857,Presion Arterial Alta
+PAC-20857,Tos
+PAC-20857,Colesterol Alto
+PAC-20857,Dificultad Respiratoria
+PAC-20857,Fiebre
+PAC-20858,Fatiga
+PAC-20858,Presion Arterial Alta
+PAC-20859,Mala Digestion
+PAC-20859,Acidez Estomacal
+PAC-20859,Dolor Abdominal
+PAC-20860,Mala Digestion
+PAC-20860,Reflujo Gastrico
+PAC-20860,Acidez Estomacal
+PAC-20860,Dolor Abdominal
+PAC-20861,Fatiga
+PAC-20861,Congestion Nasal
+PAC-20861,Tos
+PAC-20861,Colesterol Alto
+PAC-20861,Dolor de Garganta
+PAC-20861,Fiebre
+PAC-20862,Dolor de Cabeza Intenso
+PAC-20862,Mala Digestion
+PAC-20862,Insomnio
+PAC-20862,Sensibilidad al Ruido
+PAC-20862,Sensibilidad a la Luz
+PAC-20863,Dolor de Cabeza Intenso
+PAC-20864,Reflujo Gastrico
+PAC-20864,Acidez Estomacal
+PAC-20865,Colesterol Alto
+PAC-20865,Presion Arterial Alta
+PAC-20866,Fatiga
+PAC-20866,Congestion Nasal
+PAC-20866,Tos
+PAC-20866,Dolor de Garganta
+PAC-20866,Fiebre
+PAC-20867,Fatiga
+PAC-20867,Congestion Nasal
+PAC-20867,Tos
+PAC-20867,Dolor de Garganta
+PAC-20867,Dificultad Respiratoria
+PAC-20867,Fiebre
+PAC-20868,Mala Digestion
+PAC-20868,Reflujo Gastrico
+PAC-20868,Acidez Estomacal
+PAC-20868,Dolor Abdominal
+PAC-20869,Dolor de Garganta
+PAC-20869,Tos
+PAC-20870,Mala Digestion
+PAC-20870,Dolor Abdominal
+PAC-20870,Reflujo Gastrico
+PAC-20870,Acidez Estomacal
+PAC-20870,Nauseas
+PAC-20871,Dolor de Cabeza Intenso
+PAC-20871,Sensibilidad a la Luz
+PAC-20871,Insomnio
+PAC-20872,Sensibilidad al Ruido
+PAC-20873,Dolor de Garganta
+PAC-20873,Congestion Nasal
+PAC-20874,Fatiga
+PAC-20874,Congestion Nasal
+PAC-20874,Tos
+PAC-20874,Colesterol Alto
+PAC-20874,Dolor de Garganta
+PAC-20874,Dificultad Respiratoria
+PAC-20874,Fiebre
+PAC-20875,Acidez Estomacal
+PAC-20875,Nauseas
+PAC-20876,Dolor de Cabeza Intenso
+PAC-20876,Sensibilidad al Ruido
+PAC-20876,Nauseas
+PAC-20876,Insomnio
+PAC-20877,Fatiga
+PAC-20877,Congestion Nasal
+PAC-20877,Tos
+PAC-20877,Dolor de Garganta
+PAC-20877,Fiebre
+PAC-20878,Colesterol Alto
+PAC-20878,Fatiga
+PAC-20878,Presion Arterial Alta
+PAC-20878,Glucosa Elevada
+PAC-20879,Dolor de Garganta
+PAC-20879,Tos
+PAC-20880,Fatiga
+PAC-20880,Congestion Nasal
+PAC-20880,Tos
+PAC-20881,Dolor de Cabeza Intenso
+PAC-20881,Sensibilidad al Ruido
+PAC-20881,Sensibilidad a la Luz
+PAC-20882,Colesterol Alto
+PAC-20882,Presion Arterial Alta
+PAC-20883,Mala Digestion
+PAC-20883,Dolor Abdominal
+PAC-20883,Reflujo Gastrico
+PAC-20883,Acidez Estomacal
+PAC-20883,Nauseas
+PAC-20884,Mala Digestion
+PAC-20884,Acidez Estomacal
+PAC-20885,Fiebre
+PAC-20885,Fatiga
+PAC-20885,Congestion Nasal
+PAC-20886,Fiebre
+PAC-20886,Congestion Nasal
+PAC-20886,Tos
+PAC-20887,Fiebre
+PAC-20887,Congestion Nasal
+PAC-20887,Tos
+PAC-20888,Colesterol Alto
+PAC-20888,Fatiga
+PAC-20889,Dolor de Cabeza Intenso
+PAC-20889,Sensibilidad al Ruido
+PAC-20889,Insomnio
+PAC-20890,Colesterol Alto
+PAC-20890,Presion Arterial Alta
+PAC-20890,Glucosa Elevada
+PAC-20891,Mala Digestion
+PAC-20891,Dolor Abdominal
+PAC-20892,Fatiga
+PAC-20892,Congestion Nasal
+PAC-20892,Tos
+PAC-20892,Dolor de Garganta
+PAC-20892,Fiebre
+PAC-20893,Dolor de Cabeza Intenso
+PAC-20893,Sensibilidad a la Luz
+PAC-20893,Nauseas
+PAC-20894,Mala Digestion
+PAC-20894,Dolor Abdominal
+PAC-20894,Tos
+PAC-20894,Reflujo Gastrico
+PAC-20894,Acidez Estomacal
+PAC-20895,Colesterol Alto
+PAC-20895,Fatiga
+PAC-20895,Presion Arterial Alta
+PAC-20895,Glucosa Elevada
+PAC-20896,Mala Digestion
+PAC-20896,Acidez Estomacal
+PAC-20896,Dolor Abdominal
+PAC-20897,Mala Digestion
+PAC-20897,Reflujo Gastrico
+PAC-20897,Dolor Abdominal
+PAC-20898,Mala Digestion
+PAC-20898,Dolor Abdominal
+PAC-20898,Reflujo Gastrico
+PAC-20898,Acidez Estomacal
+PAC-20898,Nauseas
+PAC-20899,Dolor de Cabeza Intenso
+PAC-20899,Colesterol Alto
+PAC-20899,Sensibilidad a la Luz
+PAC-20900,Fiebre
+PAC-20900,Fatiga
+PAC-20900,Dificultad Respiratoria
+PAC-20900,Tos
